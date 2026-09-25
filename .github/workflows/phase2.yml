@@ -1,0 +1,40 @@
+name: Phase 2 — Text Corpus
+on:
+  workflow_dispatch:
+
+jobs:
+  phase2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    defaults:
+      run:
+        working-directory: bicorder-bga
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-phase2.txt
+
+      - name: 2a — BGA rules pages
+        run: python scripts/phase2_fetch_bga_rules.py
+
+      - name: 2b — BGG descriptions
+        run: python scripts/phase2_fetch_bgg_desc.py
+
+      - name: 2c — BGG reviews
+        run: python scripts/phase2_fetch_reviews.py
+
+      - name: 2d — Assemble corpus
+        run: python scripts/phase2_assemble_corpus.py
+
+      - name: Commit output
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/corpus/ data/corpus_summary.csv
+          git diff --staged --quiet || git commit -m "phase 2: text corpus [$(date -u +%Y-%m-%d)]"
+          git push

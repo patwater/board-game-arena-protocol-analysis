@@ -1,0 +1,40 @@
+name: Phase 1 — Game List & BGG Metadata
+on:
+  workflow_dispatch:
+
+jobs:
+  phase1:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    defaults:
+      run:
+        working-directory: bicorder-bga
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-phase1.txt
+
+      - name: 1a — Fetch BGA game list
+        run: python scripts/phase1_fetch_bga.py
+
+      - name: 1b — Match to BGG IDs
+        run: python scripts/phase1_match_bgg.py
+
+      - name: 1c — Fetch BGG metadata
+        run: python scripts/phase1_fetch_meta.py
+
+      - name: 1d — Assemble games.csv
+        run: python scripts/phase1_assemble.py
+
+      - name: Commit output
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/games.csv data/bga_raw.json
+          git diff --staged --quiet || git commit -m "phase 1: game list + BGG metadata [$(date -u +%Y-%m-%d)]"
+          git push

@@ -1,0 +1,43 @@
+name: Phase 4 — Analysis & Visualization
+on:
+  workflow_dispatch:
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: bicorder-bga
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-phase4.txt
+
+      - name: Prepare merged data
+        run: python scripts/phase4_prepare.py
+
+      - name: Build scatter plot
+        run: python scripts/phase4_scatter.py
+
+      - name: Build category heatmap
+        run: python scripts/phase4_heatmap.py
+
+      - name: Build top divergence table
+        run: python scripts/phase4_top_divergence.py
+
+      - name: Generate report
+        run: python scripts/phase4_report.py
+
+      - name: Commit output
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/analysis/
+          git diff --staged --quiet || git commit -m "phase 4: analysis + visualizations [$(date -u +%Y-%m-%d)]"
+          git push

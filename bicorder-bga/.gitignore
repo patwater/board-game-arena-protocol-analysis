@@ -1,0 +1,6 @@
+data/bgg_cache/
+data/corpus_raw/
+data/logs/
+__pycache__/
+*.pyc
+.env

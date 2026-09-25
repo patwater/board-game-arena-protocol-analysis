@@ -1,0 +1,36 @@
+name: Phase 3 — Bicorder Scoring
+on:
+  workflow_dispatch:
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    defaults:
+      run:
+        working-directory: bicorder-bga
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements-phase3.txt
+
+      - name: Score games
+        run: python scripts/phase3_score.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Post-process scores
+        run: python scripts/phase3_postprocess.py
+
+      - name: Commit output
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          git add data/scores.csv data/scores_clean.csv
+          git diff --staged --quiet || git commit -m "phase 3: bicorder scores [$(date -u +%Y-%m-%d)]"
+          git push

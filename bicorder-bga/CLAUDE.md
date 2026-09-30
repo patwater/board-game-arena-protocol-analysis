@@ -24,6 +24,13 @@ scripts skip already-processed games by checking for cached output files.
 ## Secrets required
 
 - `ANTHROPIC_API_KEY` — used in Phase 3 only (Claude Haiku for scoring)
+- `BGG_API_TOKEN` — used in Phase 1 (BGG search + metadata) and Phase 2 (BGG reviews).
+  BGG's XML API has required a registered application + Bearer token since
+  2025-07-02. Register an application at https://boardgamegeek.com/applications,
+  create a token for it, and set that token as this secret. Without it, those
+  steps skip cleanly (games still get BGA's own bgg_id where available, and
+  corpus assembly treats missing reviews as community_review_count=0) rather
+  than failing the workflow.
 
 ## Data layout
 

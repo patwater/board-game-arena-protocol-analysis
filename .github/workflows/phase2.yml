@@ -27,6 +27,8 @@ jobs:
 
       - name: 2c — BGG reviews
         run: python scripts/phase2_fetch_reviews.py
+        env:
+          BGG_API_TOKEN: ${{ secrets.BGG_API_TOKEN }}
 
       - name: 2d — Assemble corpus
         run: python scripts/phase2_assemble_corpus.py

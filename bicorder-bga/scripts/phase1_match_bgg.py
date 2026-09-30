@@ -1,4 +1,9 @@
-"""Phase 1b — Match BGA games to BGG IDs."""
+"""Phase 1b — Match BGA games to BGG IDs.
+
+BGA's own game_list (fetched in phase1_fetch_bga.py) already tags most games
+with an authoritative bgg_id, so this only needs to search BGG for the small
+remainder that BGA didn't tag (BGA-exclusive titles, digital-only variants).
+"""
 import requests, json, os, time, xml.etree.ElementTree as ET
 from thefuzz import fuzz
 from tqdm import tqdm
@@ -29,7 +34,15 @@ def search_bgg(name, exact=True):
         results.append({"bgg_id": bgg_id, "bgg_name": bgg_name, "year": year})
     return results
 
-for g in tqdm(games, desc="Matching BGG"):
+already_tagged = [g for g in games if g.get("bgg_id")]
+for g in already_tagged:
+    g.setdefault("match_confidence", "bga_provided")
+
+to_match = [g for g in games if not g.get("bgg_id")]
+print(f"{len(already_tagged)}/{len(games)} games already BGG-tagged by BGA; "
+      f"searching BGG for the remaining {len(to_match)}.")
+
+for g in tqdm(to_match, desc="Matching BGG"):
     slug = g["bga_slug"]
     cache = f"data/bgg_cache/{slug}_search.json"
     if os.path.exists(cache):

@@ -1,5 +1,5 @@
 """Phase 1c — Fetch BGG metadata for matched games."""
-import requests, json, os, time, xml.etree.ElementTree as ET, html
+import requests, json, os, sys, time, xml.etree.ElementTree as ET, html
 from tqdm import tqdm
 
 os.makedirs("data/bgg_cache", exist_ok=True)
@@ -47,6 +47,30 @@ def fetch_thing(bgg_id):
         "bgg_mechanics":     vals("boardgamemechanic"),
         "bgg_description":   desc[:3000],
     }
+
+def preflight():
+    """BGG's XML API has, at times, rejected all requests with a flat 401
+    regardless of id/UA/cookies. Fail fast with a clear diagnostic instead of
+    looping through every game and failing identically each time."""
+    candidates = [g for g in games if g.get("bgg_id")]
+    if not candidates:
+        return
+    probe_id = candidates[0]["bgg_id"]
+    r = requests.get("https://boardgamegeek.com/xmlapi2/thing",
+                      params={"id": probe_id, "stats": 1}, headers=HEADERS, timeout=20)
+    if r.status_code == 401:
+        print("=== DIAGNOSTIC: BGG XML API returned 401 Unauthorized on preflight check ===")
+        print(f"Probed id={probe_id}, status={r.status_code}")
+        print(f"Response body: {r.text[:500]}")
+        print("The BGG XML API appears to require authentication that this script does")
+        print("not send. See https://boardgamegeek.com/using_the_xml_api for current")
+        print("requirements. Aborting rather than repeating this failure for every game.")
+        print("=== END DIAGNOSTIC ===")
+        sys.exit(1)
+    r.raise_for_status()
+
+
+preflight()
 
 for g in tqdm(games, desc="BGG metadata"):
     if not g.get("bgg_id"):

@@ -11,6 +11,12 @@ df = pd.read_csv("data/games.csv")
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; BicorderBot/1.0)"}
 SLEEP = 1.2
 
+# See phase1_fetch_meta.py for background: BGG's XML API has required a
+# registered application + Bearer token since 2025-07-02.
+BGG_API_TOKEN = os.environ.get("BGG_API_TOKEN")
+if BGG_API_TOKEN:
+    HEADERS["Authorization"] = f"Bearer {BGG_API_TOKEN}"
+
 def is_english(text):
     ascii_chars = sum(1 for c in text if ord(c) < 128)
     return len(text) > 0 and ascii_chars / len(text) > 0.75
@@ -32,12 +38,22 @@ def fetch_reviews(bgg_id, page=1):
             reviews.append({"rating": rating, "text": text[:600]})
     return reviews
 
+if not BGG_API_TOKEN:
+    print("BGG_API_TOKEN is not set — skipping BGG review fetch entirely.")
+    print("Register an application at https://boardgamegeek.com/applications, "
+          "create a token, and set it as BGG_API_TOKEN to enable this step. "
+          "Downstream corpus assembly treats missing reviews as community_review_count=0.")
+
 errors = []
 for _, row in tqdm(df.iterrows(), total=len(df), desc="BGG reviews"):
     slug = row["bga_slug"]
     bgg_id = row.get("bgg_id")
     out = f"data/corpus_raw/{slug}_bgg_reviews.json"
     if os.path.exists(out) or not bgg_id or str(bgg_id) == "nan":
+        continue
+    if not BGG_API_TOKEN:
+        with open(out, "w") as f:
+            json.dump([], f)
         continue
     try:
         reviews = fetch_reviews(str(int(float(bgg_id))))

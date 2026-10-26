@@ -26,12 +26,21 @@ def fetch_rules(slug):
             if r.status_code != 200:
                 continue
             soup = BeautifulSoup(r.text, "lxml")
-            # Remove nav/footer
+            # Remove nav/footer, plus BGA's hidden "your browser failed to load
+            # this file" fallback div, which has no CSS to hide it from a
+            # non-JS scrape and otherwise ends up prepended to the real text.
             for tag in soup(["nav","header","footer","script","style"]):
                 tag.decompose()
-            # Try targeted selectors first
-            for sel in ["#help_section", ".help-content", "#rules", ".game-rules",
-                        "[data-section='rules']", ".gamepanel-rules"]:
+            no_css = soup.select_one("#no_css_message")
+            if no_css:
+                no_css.decompose()
+            # Try targeted selectors first. #rules_summary_wrapper is BGA's
+            # actual current rules container (verified live against several
+            # games); the others are kept as fallbacks in case BGA's markup
+            # varies by game or changes again.
+            for sel in ["#rules_summary_wrapper", "#help_section", ".help-content",
+                        "#rules", ".game-rules", "[data-section='rules']",
+                        ".gamepanel-rules"]:
                 el = soup.select_one(sel)
                 if el:
                     text = clean_text(el.get_text(separator=" ", strip=True))

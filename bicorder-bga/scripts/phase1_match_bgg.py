@@ -16,6 +16,12 @@ with open("data/bga_raw.json") as f:
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; BicorderBot/1.0)"}
 SLEEP = 1.2
 
+# See phase1_fetch_meta.py for background: BGG's XML API has required a
+# registered application + Bearer token since 2025-07-02.
+BGG_API_TOKEN = os.environ.get("BGG_API_TOKEN")
+if BGG_API_TOKEN:
+    HEADERS["Authorization"] = f"Bearer {BGG_API_TOKEN}"
+
 def search_bgg(name, exact=True):
     params = {"query": name, "type": "boardgame"}
     if exact:
@@ -41,6 +47,14 @@ for g in already_tagged:
 to_match = [g for g in games if not g.get("bgg_id")]
 print(f"{len(already_tagged)}/{len(games)} games already BGG-tagged by BGA; "
       f"searching BGG for the remaining {len(to_match)}.")
+
+if to_match and not BGG_API_TOKEN:
+    print("BGG_API_TOKEN is not set — skipping BGG search for unmatched games.")
+    print("Register an application at https://boardgamegeek.com/applications, "
+          "create a token, and set it as BGG_API_TOKEN to enable this step.")
+    for g in to_match:
+        g.setdefault("match_confidence", "bgg_api_unavailable")
+    to_match = []
 
 for g in tqdm(to_match, desc="Matching BGG"):
     slug = g["bga_slug"]

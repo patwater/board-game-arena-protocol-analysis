@@ -24,9 +24,13 @@ jobs:
 
       - name: 1b — Match to BGG IDs
         run: python scripts/phase1_match_bgg.py
+        env:
+          BGG_API_TOKEN: ${{ secrets.BGG_API_TOKEN }}
 
       - name: 1c — Fetch BGG metadata
         run: python scripts/phase1_fetch_meta.py
+        env:
+          BGG_API_TOKEN: ${{ secrets.BGG_API_TOKEN }}
 
       - name: 1d — Assemble games.csv
         run: python scripts/phase1_assemble.py

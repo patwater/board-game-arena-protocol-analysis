@@ -1,0 +1,19 @@
+{
+  "bga_slug": "splito",
+  "bga_name": "Splito",
+  "bgg_id": "359878.0",
+  "rules_text": "Rules summary Overview You share scores with your neighbours but your final score is the multiplication of both your partnerships (e.g. you and right score 3, whilst you and left score 2, gives you a total score of 6). In a 2 player game you don\u2019t share scores with your neighbors. In a 2 player game there are 26 rounds or turns. In games with 3 or more players there are 13 rounds / turns. Turn Play a card to either your left or right neighbour, then pass the hand of cards on Cards are made up of two types (Splito and Objective) 37 Objective cards are the ways in which you score points. 72 Splito cards are the means to achieve the objectives. There are 2 copies of each value 1 - 6 in the 6 colours. Objectives There are many different types of objectives, but the following concepts will help you understand any you come across: A grey diamond with a number inside it refers to the number on a card A coloured exterior with a white diamond refers to the colour of a card The black diamonds at the side of the card denote points but only count one side e.g. a card with 3 diamonds on the left and 3 on the right if completed would give you 3 points. When it says \"Exactly 1 Pair with a value of 2\", you can still have other pairs in the stack (for example a pair of 5s). It does not mean you can have only one pair of cards and it must be a pair of 2s.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] A card filler, sort of cross between Sushi Go and Between Cities? Felt a bit random, didn't have to think too hard, put down some objectives and then play cards to achieve them.  Perhaps 3p is not the right number for this game.\n\n[Rating: 1/10] Seems highly random. Set collection. Weird to play. Needs to rely on good players to your side. Artwork uninteresting.\n\n[Rating: 3/10] It's a fine game that's reminiscent of Between to Cities, just not something I'd seek to play.\n\n[Rating: 4/10] FIRST IMPRESSION:  I should likely play again. My play on BGA wasn't overly exciting, but I also wasn't always sure what was going on and the display on BGA wasn't always great.\n\n[Rating: 4/10] Too much luck of the draw, as far as I could tell. Could be wrong. The visual design is beautiful, though.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 272,
+  "community_word_count": 142,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.247199"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "pinacoladice",
+  "bga_name": "Pi\u00f1a Coladice",
+  "bgg_id": "415054.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 How to Play 3 End of Game 4 \"Happy Hour\" Variant Overview Pi\u00f1a Coladice - Where Connect-4 meets Yahtzee! Use your dice to choose where to place your mark, score points, and win! How to Play The game board is a 4x4 grid of \"coasters\". The first player starts with 1 point, the second with 2, etc. Players take turns rolling dice to match the combinations shown on the coasters (pair of twos, small straight, all evens, sum greater than 9, etc.). They have three rolls to do this and can choose dice to reroll. Then the player places their cocktail token on the coaster that matches that combination. Points are scored according to the number on the coaster, plus one for each adjacent coaster (orthagonally or diagonally) occupied by that player. If there is no non-occupied combination that matches the roll, the player must pass. End of Game If a player makes a \"Pi\u00f1a Coladice\" (placed tokens to form a row, either vertically, horizontally, or diagonally), the game ends immediately and that player is the winner. Otherwise the game end is triggered when either... A player has scored 20 points or more. A player has no more cocktail tokens to place. After all players have had the same number of turns, the winner is the player who earned the most points. In the event of a tie, the player who last placed their cocktail token is the winner. \"Happy Hour\" Variant An additional coaster is added aside from the main board. If a player has to pass on their turn, they must roll a die and do the corresponding action on the Happy Hour board, which has a 50% chance for positive or negative consequences.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] A fairly unexciting dice-chucker, which didn't feel up there with the most compelling of them to me personally. I guess by now I just know the dice games I prefer and Pi\u00f1a Coladice didn't challenge those preferences.  I do like the \"Connect 4\" style winning condition, which makes things necessarily more interactive, but it didn't feel enough to make me pick this ahead of other games I know I like more.\n\n[Rating: 4/10] Very similar to classic Yatzy. Quicker, but the scoring isn't that good unfortunately. Play-and-forget experience for me.\n\n[Rating: 4.5/10] Designer: Yann Dupont Playing time: 10-20 Min Weight: 1.08 / 5 Publisher: Devir Player count: 2-4 (best with: 3)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: Low PLAYING TIME: Low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=415054][/thing] is an abstract family game about dice rolling and connections. The ideia is that players will roll 5 dice, being able to make 2 re-rolls, trying to fill the demand of one of the cards on display. Cards have values from 1 to 3, plus players will earn points by having",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 3,
+  "rules_word_count": 294,
+  "community_word_count": 191,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.112551"
+}

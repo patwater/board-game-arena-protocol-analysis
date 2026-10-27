@@ -1,0 +1,19 @@
+{
+  "bga_slug": "wolfandsheeps",
+  "bga_name": "Wolf and Sheep",
+  "bgg_id": "148180.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Components 3 Setup 4 On Your Turn 5 End of game 6 Variants 7 User Preferences Objective Beware this is an asymmetric game : BLACK : Wolves need to block the Sheep. WHITE : Sheep needs to pass through the wolves and reach their starting line. Components A Chess like board 1 white token (called \"Sheep\") 4 black tokens (called \"Wolves\") Setup Wolves are placed onto fields B8, D8, F8, and H8. Sheep starts the game from E1. Start of the game On Your Turn You can move : 1 piece at a time only diagonally (so you always play on the same cell color of the board) only 1 step at a time the sheep can move backward, not the wolves End of game Beware this is an asymmetric game : WHITE Victory : Sheep wins by reaching the other side of the board (8th row or 10th row according to played variant). WHITE BGA auto victory : if there is not enough wolves in front of the sheep to block the sheep. BLACK Victory : Wolves win by blocking the sheep such that it cannot move anymore (when sheep has no legal move left). Variants Board size Chess board : 8x8 Checkers board : 10x10 (+1 black token) Duration 1 round is a classic play as defined here 2 rounds : One round with Player 1 as White VS Player 2 as Black, then one round with Player 2 as White VS Player 1 as Black User Preferences Board colors Tokens on dark cells : Tokens are places as in the pictures on the \"black\"/darkest cells of the board Tokens on light cells : Tokens are places on the \"white\"/brightest cells of the board Interface theme Standard : the same background as any classic BGA game like Chess. Darker : a black background with 75 % opacity\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] This is decent fun to play with a kid as the hounds (so long as they are young enough not to have solved it).  Especially for zero investment, since you likely have a chess set.\n\n[Rating: 2/10] Designer: N/A Playing time: 5 Min Weight: 1.00 / 5 Publisher: (Public Domain) Player count: 2 (best with: 2)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Low FUN: Low INTERACTION: Medium PLAYING TIME: Very low LUCK: Very low REPLAY VALUE: Very low SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=148180][/thing] is an abstract strategy game about grid movement. The ideia is that one player will be the Fox, trying to reach its home; while the other will be the Hounds, trying to capture the Fox. The Fox player have a single piece, and moves diagonally, and can go forwa\n\n[Rating: 3/10] Solved game but also incredibly easy to solve compared to other, similar abstract games. Also... not very interesting. The one good thing I would say is that at least it is quick.\n\n[Rating: 4/10] Like Tic-Tac-Toe or Nim, this is a game of learning the singular solvable strategy. However, since the sides are asymmetrical, having an adult play the fox while a child plays the hounds can be an interesting exercise and develop some tactical thinking skills. I find this game preferable to either of the others mentioned for that reason. It can also serve as a good introduction to the way pieces move in Checkers without all the board complexity right off the bat (though there is no jumping either).\n\n[Rating: 4/10] It's a sure thing\u2014the sheep always win. But my five-year-old daughters haven't figured out how yet.\n\n[Rating: 6/10] Simple abstract that can be played in a short time. Quite entertaining, too, if you do not know the solution.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 317,
+  "community_word_count": 300,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.345871"
+}

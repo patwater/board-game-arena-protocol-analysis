@@ -1,0 +1,17 @@
+{
+  "bga_slug": "pontedeldiavolo",
+  "bga_name": "Ponte del Diavolo",
+  "bgg_id": "29525.0",
+  "rules_text": "Rules summary For tips on how to play Ponte del Diavolo, see Tips_PonteDelDiavolo Rules Contents 1 Overview 1.1 Definitions 2 Game Start 3 Game Turn 3.1 Place 2 Tiles 3.2 Place 1 Bridge 4 Game End 4.1 Scoring 4.2 Tiebreaks Overview The object of the game is to form groups of islands linked by bridges. Definitions Island : 4 orthogonally adjacent tiles of the same colour. Sandbank : Fewer than 4 orthogonally adjacent tiles of the same colour. Bridge : Game piece that connects 2 tiles of the same colour. Water : Empty space on the board. Game Start The first player places 2 light tiles anywhere on the board. The second player chooses to play as the light tile or the dark tile player (pie rule) . Play resumes with the dark tile player. Game Turn Each player takes turns to place either: 2 tiles of their own colour, or 1 bridge. Place 2 Tiles Tiles can be placed anywhere on the board except: Under bridges (including either of the tiles underneath a knight's move bridge), or Where a tile becomes adjacent to an island of the same colour, even diagonally. You also cannot complete an island if it would touch any other tile of the same colour diagonally. Place 1 Bridge A bridge can be placed between 2 tiles of the player's colour that are 2 spaces from each other in any direction orthogonally or diagonally, or at a knight's move . The centre of a bridge must be over an empty (water) space (knight's bridge needs both water spaces), not a tile Each tile can have a maximum of one bridge connection. Bridges may not cross each other. Game End Game end is triggered when either player: Is unable to place 2 tiles, and Chooses not to (or is unable to) place a bridge. The dark tile player can always take an equal number of turns. Note: unlike the printed rules, in the BGA implementation there is an infinite supply of tiles and bridges. Thus, the game will only end when a player has fewer than 2 valid squares available for tiles. Scoring The players score each group of islands connected by bridges (including connections via sandbanks ) according to a rule of triangular numbers: # connected islands 1 2 3 4 5 6 7 8 9 10 11 12 Score 1 3 6 10 15 21 28 36 45 55 66 78 Tiebreaks Most islands. Most bridges.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 413,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.311753"
+}

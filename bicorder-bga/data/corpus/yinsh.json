@@ -1,0 +1,19 @@
+{
+  "bga_slug": "yinsh",
+  "bga_name": "YINSH",
+  "bgg_id": "7854.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Setup 3 Turns (after setup) 4 Scoring Objective Standard: First to remove 3 rings wins. Blitz: First to form 1 row wins. Setup Each player gets 5 rings (black or white). Players alternate placing their rings on empty intersections. Turns (after setup) Place a marker of your color inside one of your rings. Move that ring in a straight line (any distance) to an empty space. If you jump over a series of markers (any color), the ring must land in the first empty space of that line. All jumped-over markers are flipped to the opposite color. You may not jump over other rings regardless of their color. Scoring If you create a row of 5 markers of your color: Remove those 5 markers from the board. Remove one of your rings from the board. If the pool of 51 markers runs out: The player with the most rings removed wins. If both players have removed the same number of rings, the game ends in a draw.\n\n---\n\nIn YINSH, the players each start with five rings on the board. Every time a ring is moved, it leaves a marker behind. Markers are white on one side and black on the other. When markers are jumped over by a ring they must be flipped, so their color is constantly changing. The players must try to form a row of five markers with their own color face up. If a player succeeds in doing so, he removes one of his rings as an indication that he has formed such a row. The first player to remove three of his rings wins the game. In other words, each row you make brings you closer to victory-but also makes you weaker, because you have one fewer ring to play with. Very tricky!",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Pretty clever GIPF game, jumping the pieces to flip their colors adds an interesting wrinkle to the movement and positioning of your rings plus the rubberbanding catchup mechanism of losing your pieces as you score keeps it a pretty close game for its short playtime. The setup and early game does feel a tad like both players are fumbling in the dark until threats become glaringly obvious though, of course experienced players will recognize the potentials of each move but it is a slight against the game for the casual level that I play it at, otherwise I quite enjoy this one. The more I play, t\n\n[Rating: 3/10] I played it more. Feels a bit like pente but I still don't care for it very much.\n\n[Rating: 3/10] Like most strategic abstracts, I tend to stare at the board forever looking for a good move, which is pointless since I never can envision the moves anyways.  Blech.\n\n[Rating: 3/10] My least favorite of the GIPFs. Reversi with rings. There's more to it than that, of course, but I don't care for it either way.\n\n[Rating: 3/10] 130923 Another gipf game.  Also an elegant abstract. And I don't know if or when I'd be interested in playing it again.  This rating is based purely on my inability to really appreciate perfect info abstracts.\n\n[Rating: 3/10] I am not good at all with abstract games... will try them once...but usually that is all.\n\n[Rating: 3/10] The board state changes far too quickly in this game. At no point did I feel like I understood what I should be doing. Very disappointing for a Gipf project game.\n\n[Rating: 4/10] The best of the GipF series IMO. I've only played this 3 times and all were online. Abstracts aren't my thing, but I can appreciate that this is a good one.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 305,
+  "community_word_count": 310,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:09.988786"
+}

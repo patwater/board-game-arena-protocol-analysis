@@ -1,0 +1,19 @@
+{
+  "bga_slug": "queenskings",
+  "bga_name": "Queens & Kings... A Checkers Game",
+  "bgg_id": "279769.0",
+  "rules_text": "Rules summary Contents 1 Setup 2 Gameplay 3 Checkers 4 End of the Game 5 Special Notes Setup The game is played on a 13*13 board (It appears to be a 17*17 board). There is a king scepter center. Each player places their 9 checkers on their first two rows. Gameplay On your turn, move a piece according to its own rules. You can capture opponent\u2019s pieces by jumping over them. You can capture multiple times in a turn. If you can capture, you must capture. Checkers All checkers start as basic. They can move one space diagonally forward, unless capturing. A checker becomes a king when it reaches the middle of the board (the scepter). Kings can move one space diagonally in any direction. A checker becomes a queen when it reaches the last row on the opposite side. Queens can move any number of spaces diagonally along a line. End of the Game A player is eliminated if they have no checkers. A player wins if they are the last one standing. If all players agree, the game can end in a stalemate. Special Notes Kings do not become Queens if they reach the last row. Checkers can only be EITHER a King or Queen when they reach the appropriate space.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] God this was so tedious and pointless. Don't get me wrong, draughts games can be very good, but this doesn't take any of the good parts of good draughts games. 17x17 adds absolutely nothing here but length.\n\n[Rating: 3/10] Board is WAY too big, making the game last WAY longer than needed. Played on BGA.\n\n[Rating: 3/10] Habe 1x zu zweit gespielt. Ich mag abstrakte Spiele weniger. Dame habe ich in meinem Leben 1 oder 2x gespielt. Aber diese Variante war nichts f\u00fcr mich. Durch das grosse Feld hat es eeeeewig gedauert. Die Mitte des Brettes ist der zentrale Punkt... nu... muss ich nicht mehr spielen. Vielleicht ist es zu viert besser, aber darauf habe ich echt kein Bock mehr.\n\n[Rating: 4/10] It would be a more fun and strategic game if you could jump over your own pieces to, without removing them. Now you just lock each other and time flies. Not so fun.\n\n[Rating: 4/10] Designer: Ikie Corbin Playing time: 30-90 Min Weight: 2.00 / 5 Publisher: Whirtel Games  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Medium FUN: Low INTERACTION: Very high PLAYING TIME: Medium LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=279769][/thing] is an abstract strategy game about mancala. The idea is to move your pieces in such a way to take the pieces of the opponents, as the last person standing will be the winner!  The mechanics are simple, very easy to teach and play, as the rules are just this (as this is mostly Checkers",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 215,
+  "community_word_count": 256,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.367928"
+}

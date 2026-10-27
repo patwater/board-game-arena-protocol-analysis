@@ -1,0 +1,19 @@
+{
+  "bga_slug": "meadow",
+  "bga_name": "Medo",
+  "bgg_id": "353305.0",
+  "rules_text": "Rules summary For tips on how to play meadow, see Tips_meadow Contents 1 Game play 2 Definitions 2.1 Group 2.2 Overgrown 2.3 Smothered Game play Each player owns 2 stone colours. To start, Player 1 places one stone of either of their colours on any empty space. From then on, starting with Player 2, the players take turns. On your turn, you must place 1 or 2 stones on any empty spaces. If you place 2 stones, they must be different colours. After you place your stone(s), capture all smothered enemy groups, and then capture all overgrown enemy groups. The first player to have captured X enemy stones wins. Definitions Group A group is an entire group of connected stones on the board of the same colour. A single stone (unconnected to others of the same colour) is also a group. Overgrown A group is overgrown when it has more than 5 stones in it. Smothered A group is smothered when there are no empty spaces adjacent to any of its stones.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Slippery and frustrating in the way that, say, Go is. Unlike Go, I've been able to improve at it with an amount of attention that I can spend on a game I'm not sure about, and when played with an opponent of equal skill this is fun.\n\n[Rating: 5/10] An abstract game with simple rules. Each player gets two colors (red & pink vs light & dark blue). On your turn you play one of your pieces in any open hex, and optionally can place another of your opposite color. At the end of your turn you claim and remove all smothered or overgrown groups of your opponent. A group is any contiguous group of pieces with the same color. A group is smothered if there are no empty spaces adjacent to any part of the group. A group is overgrown if it has more than 5 pieces. Whoever claims 20 pieces first wins. And on the first turn, the first player is required t\n\n[Rating: 6/10] When I play blue on BGA I have trouble \"seeing\" that both shades of blue are mine.  Otherwise, fun!\n\n[Rating: 6/10] The removing of pieces every turn leads to interesting decisions and interactions and forces you to take a lot in to consideration on each turn. Can make the game last a long time.\n\n[Rating: 7/10] This is a unique version of surround and capture.  On top of the expected tactical play, many interesting special patterns emerge, and there is a strategic level on top of that of where you groups will eventually collide.  The ability to play two at once (of different colors) changes the usual logic of games like that require 3 liberties, which then cannot be filled without risking snapback capture.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 174,
+  "community_word_count": 293,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.363798"
+}

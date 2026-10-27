@@ -1,0 +1,17 @@
+{
+  "bga_slug": "pingimus",
+  "bga_name": "Pingimus",
+  "bgg_id": "nan",
+  "rules_text": "Rules summary For tips on how to play pingimus, see Tips_pingimus Contents 1 Game play 1.1 Guessing 1.2 Voting 1.3 Scoring 2 Game length Game play Each round, every player is given a different thing to draw. Players have one minute to draw their pictures, Timers start at the moment they begin drawing. When all drawings have been drawn, they are dealt out in turn. Guessing For each drawing, everyone except for the artist makes a private guess of what they think the drawing is of. Voting When all guesses are in, the guesses are displayed to all the players, along with the original prompt that the artist was given. If multiple entries are very similar, players may vote to say that these should be treated as the same, single answer for scoring. For example: if one entry is \"ice tray\" and another is \"icecube tray\". Players vote on which they think was the original prompt. Scoring Votes are revealed. Guessers score 1 point for everyone who chose their guess. The artist scores 1 point for everyone who chose their original prompt. Note: the default BGA scoring method does not give points for correct guesses. It is up to the table administrator to decide this before the game begins. Game length Usually 3 to 5 rounds. Each round every player submits one drawing.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 225,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.180685"
+}

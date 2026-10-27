@@ -1,0 +1,17 @@
+{
+  "bga_slug": "caboodle",
+  "bga_name": "Bloxo",
+  "bgg_id": "8089419.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Setup 3 On Your Turn 4 Scoring 5 Ending the Game 6 Final Scoring Objective The goal of the game is to connect tiles with matching shapes to score points based on the count of the connected shapes. Setup There are 40 tiles in the game 2-player remove 1 tile 3-player remove 0 tiles 4-player remove 3 tiles Each player will then draw 6 tiles On Your Turn Place a tile so that the shapes on that tile match the other shapes on tiles already placed. The tiles need to be placed with the side touching a full side of another tile. (They cannot be offset or staggered) You must match up the shapes on all sides touching other tiles. This might mean that you are unable to place a tile on your turn. If you are unable to place a tile you will be forced to pass and you will lose 4 points. If you placed a tile, draw a new tile from the bag. Scoring When you place a new tile, all shapes that you connect to will score. You will count the total number of each shape in the grouping (contiguously connected). If you were able to connect all four of your shapes on your tile, you would score for all four of those groups. Ending the Game When a person plays their last tile, play continues until that round has completed and everyone has had an equal number of turns. The game also ends if none of the players can place a tile. Final Scoring The player with the highest score wins.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 274,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.304788"
+}

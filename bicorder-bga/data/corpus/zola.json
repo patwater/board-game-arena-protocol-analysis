@@ -1,0 +1,19 @@
+{
+  "bga_slug": "zola",
+  "bga_name": "Zola",
+  "bgg_id": "331666.0",
+  "rules_text": "Rules summary Gameplay 18 checkers each of orange and black are placed on a 6x6 board. On your turn, if you choose not to capture, move 1 space in any of 8 directions to be farther from the center. If you choose to capture, move any number of spaces in any of 8 directions to capture it. The distance afterwards must not increase. If you cannot move, you must pass. Mark Steere designed Zola in February 2021. INTRODUCTION Zola is a two-player game played on a 6x6 (or 8x8...) checkerboard initially filled with a checkered pattern of red and blue checkers. The two players, Red and Blue, take turns moving their own checkers, one checker per turn, starting with Red. If a player has a move available, they must make one. If they have no moves available, they must sit the game out and wait until they do have a move available. At least one of the two players will always have a move available. Draws cannot occur in Zola. MOVE TYPES There are two types of moves in Zola: non-capturing and capturing. NON-CAPTURING MOVES The non-capturing move is a king-like move to an adjacent (horizontally, vertically, or diagonally), unoccupied square. A non-capturing move must increase the straight-line distance to the center point of the board. CAPTURING MOVES The capturing move is a queen-like move along a straight (horizontal, vertical, or diagonal) sequence of zero or more unoccupied squares terminating with an enemy-occupied square. The enemy checker is removed and replaced with the capturing checker. A capturing move must maintain or decrease the straight line distance to the center point of the board. OBJECT OF THE GAME To win you must capture all enemy checkers. Mark's other games can be found at marksteeregames.com End of Game If you capture all 18 opponent checkers, you win. There cannot be a tie as at any time at least 1 of the players can move.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] It's just not quite there for me. Some similarities to Morelli which I strongly prefer. The most interesting bit is having to trade off positioning and capturing.  EDIT: Second play a bit better than the first as I understood what was going on better. Still, it feels very linear to me and the strategy seem to be one-note.\n\n[Rating: 4/10] Interesting abstract strategy game.  I like that you move towards the middle to capture but away to move.  It leads to some interesting layouts.\n\n[Rating: 4/10] The only strategy in this game is to make sure to have your pieces on the outside of the board since you can only capture by moving closer to the center (or equidistant to the center). It just a strategically shallow game.\n\n[Rating: 4/10] Zola is too straight forward and decided in the first moves of the game. Attack from the outsides to take out your opponents strongest attackers. When you attack, your piece move like a chess queen, except it has to move no farther from the center of the board (counting squares). When you don't attack, your piece moves like a king, but has to move farther from the center. Once you lose control of the board, you can't really come back. So the starting player has a huge advantage.\n\n[Rating: 4/10] Sometimes opacity intrigues me, sometimes it doesn't. In the latter case I can't claim to have any insight beyond being sure I felt lukewarm about the whole thing.  [1 play]",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 324,
+  "community_word_count": 252,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.374233"
+}

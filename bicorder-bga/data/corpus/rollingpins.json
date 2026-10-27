@@ -1,0 +1,19 @@
+{
+  "bga_slug": "rollingpins",
+  "bga_name": "Rolling Pins",
+  "bgg_id": "353799.0",
+  "rules_text": "Rules summary Overview Roll 1 or 2 dice and then cross out pins equal to the total (e.g. with 5 you could cross out 2 & 3 or 4 & 1) Keep rolling until you cannot make a valid cross out (e.g. with a 4, cross out 3 and 1, but as 3 was used in last example, you have to stop) You then get to start a second roll phase, but keep the same crossed out pins Once you cannot make a valid cross out on the second roll, your turn ends Scoring You score for the quantity of pins crossed out in a turn Two bonuses are afforded a) Crossing out all 10 pins with ball 2 gives you a score of 10 + the next first attempt's score b) Crossing out all 10 pins with ball 1 gives you a score of 10 + the score of both attempts on your next turn Extra Help You may click on the depicted bowling ball to add or subtract 1 from your current roll\n\n---\n\nRoll and Write game for 1 or more players. Rolling Pins is a simulation of Bowling. Based on a mechanic of Shut the Box with addition of special abilities that can be used to manipulate the dice, or score an automatic strike.\n\nRolling Pins was created for the 10th Roll & Write PnP Contest.\nThe files are available for free.",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Do you know what the probability distribution for rolling two dice roughly looks like? You do? Well, you can skip this one then. It's fine if you just want a classic dice game I guess (and props to anyone who is web-publishing games for free so the rest of us can try them), but it's not my jam\n\n[Rating: 2/10] two points. One for the idea and one for motivation.  It is boring as hell. Just throw some dice and be lucky.. or not. I am sure you can make an at least somehow good  bowling R&W with characters and weight of the balls and drifting and maybe some \"motivation\" to enhance accuracy.  But as long as this game doesn't exist, better go bowling with some friends and have some real fun and train your real skills. :D  Or if you want a better alternative, try \"Can't Stop!\"\n\n[Rating: 3/10] Designer: Veselko Kelava Playing time: 15-30 Min Weight: 2.00 / 5 Publisher: (Web published) Player count: 1-10 (best with: 4)  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Very low FUN: Low INTERACTION: Very low PLAYING TIME: Low LUCK: Very high REPLAY VALUE: Medium SOLITAIRE: Medium THEMATIC: Low[/b]  [b]Comments:[/b] [thing=353799][/thing] is a family dice game about roll and write, dice rolling and push your luck. The ideia is that players will roll the dice in order to fill up the numbers 1 to 10 (not necessarily in order), and as in bowling, finishing the whole 10 without failing will ea\n\n[Rating: 3/10] Repetitive roll and write with no player interaction. Also not thematic. I feel no need to revisit ever.\n\n[Rating: 3/10] Perhaps I missed something, but I just don't see the point. There's no interaction, you just roll dice and try to get lucky. There are far better ways to spend gaming time.\n\n[Rating: 3/10] Roll and see what happens game. I did not feel like I had much input to call it a game.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 236,
+  "community_word_count": 325,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.056486"
+}

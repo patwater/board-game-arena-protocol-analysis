@@ -1,0 +1,19 @@
+{
+  "bga_slug": "oxono",
+  "bga_name": "Oxono",
+  "bgg_id": "398388.0",
+  "rules_text": "Rules summary Overview Goal of the game: Be the first player to align 4 pawns of the same color or 4 pawns of the same symbol orthogonally. [ fast tutorial ] How to play? Choose a totem (X or O) to play at your turn. Then move it as many spaces as you want in a vertical or horizontal row of the board. A totem can not normally pass over a square occupied by another pawn or totem when it moves. Once you have placed a totem on its destination square, you must immediately place one of your pawns with the same symbol as the totem you just moved (X or O) on an orthogonally adjacent free space around the totem's new position. \u26a0\ufe0f If all squares (orthogonally) around a totem are occupied by other pawns (totem is considered to be \"enclosed\"): A player can play an enclosed totem by jumping (orthogonally) over a pawn (or series of pawns) surrounding the enclosed totem. In this case, the totem must be placed directly on the first free square available after the pawn (or series of pawns) just skipped. Then, the player must immediately place one of their pawns as normal. \u26a0\ufe0f Additionally, if all squares of the rows are occupied by other pawns (totem is not able to jump): Player can place the Totem on any free square on the board. Then, the player must immediately place one of their pawns as normal. \u26a0\ufe0f If all adjacent spaces around the totem are occupied, place one of your pawns of the same symbol as the totem on any empty space on the game board. \u26a0\ufe0f The symbols of the totems do not count in the alignment of the symbols of the pawns. End of the game When a player places the fourth (or more) pawn of the same color or the same symbol orthogonally, the game ends and this player is the winner. If both players have placed their 16 pawns without aligning 4 pawns of the same color or the same symbols, the game ends in a draw.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Designer: Jeremy Partinico Playing time: 15 Min Weight: 1.50 / 5 Publisher: Cosmoludo Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=398388][/thing] is an abstract strategy game about square grid and placing pieces. The ideia is that players will place move one of the two main pieces (totems) and then place a token of their own which matches the symbol on the moved piece (a X or an O). The goal is to either make \n\n[Rating: 5/10] Not really my cup of tea...my 7 year old daughter beat me both times...and both times I forgot win condition number 2 where a player who finishes off a run of 4 of the same symbol wins...set her up perfectly both times and she didn't miss it.\n\n[Rating: 5/10] Has decent enough strategic depth but I just don't know that it's actually very interesting. There are more interesting abstract strategy games out there for sure. However it is very quick to play.\n\n[Rating: 5/10] It is okay, but the strategy is limited and there is a lot of oops, don't make a mistake.  It's like a less fun Quarto.\n\n[Rating: 5/10] BGA: Interesting concept, not if this game has legs though. Feels kind of like a very very watered down chess.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 349,
+  "community_word_count": 234,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.252983"
+}

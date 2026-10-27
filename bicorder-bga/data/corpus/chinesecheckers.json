@@ -1,0 +1,19 @@
+{
+  "bga_slug": "chinesecheckers",
+  "bga_name": "Chinese checkers",
+  "bgg_id": "2386.0",
+  "rules_text": "Rules summary Contents 1 Goal 2 Moves 3 Scoring 4 Strategy Goal You own 10 marbles that start in the triangle at the bottom of the board. These marbles are the only ones you're allowed to move. Your goal is to bring all of them as fast as possible to the opposite triangle, at the top. Moves When it's your turn, you can either : \u2022 Move one marble to an adjacent free hole, in any direction - even backward. \u2022 Perform one or more consecutive hops. \u2022 A hop is defined as a jump over any adjacent marble - your own or your opponent's - to a free hole beyond it. \u2022 Jumping over a marble does NOT remove it from the board. \u2022 You may change direction between 2 consecutive hops. \u2022 While hopping, you may temporarily pass through a hole in a side triangle but you're not allowed to stay there. On BGA, after selecting a marble, legal moves are highlighted in white. Simply click the final position you want to reach. Scoring You score one point each time one of your marbles moves one step closer to the goal. It's therefore possible to gain several points at once with a well-calculated series of hops. It's also possible to score 0 if you move sideways or even to lose points if you move backwards. This scoring method guarantees that the game always ends when a player reaches 120 points - when all their marbles are inside the goal area. When this happens, the game ends immediately. The player with 120 points is the winner and all other players are ranked according to their score. Strategy \u2022 With hops you can progress much faster than with single steps. Try to align marbles to create a \"ladder\" that enables a large series of hops. \u2022 Avoid keeping an isolated marble at the back. Catching up is hard. \u2022 Watch your opponents' moves. If you see them building a ladder, try to block them. \u2022 With 4 or 6 players, it's usually better to cooperate with the player in front of you at the start of the game. If you don't, your shared opponents - players on the sides - will probably progress faster than both of you.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Boring, boring, boring.  I hate when all the pieces clog up in the middle, and it seems an eternity before things get moving again.  My wife likes the game, however.\n\n[Rating: 1/10] Chinese checkers is a total failure as a game.  Even as a child I hated this game.\n\n[Rating: 1/10] I think this might be the worst game of all time. I don't care how fancy this packaged or made, this is just not a good game. Seeing who can move pieces across the board in the quickest and most economical time is mind numbingly boring. If I get the urge to play a game like this I'll play Mancala instead.\n\n[Rating: 1/10] Girls ages 6-9 are not into it.  Wife likes it.  Played growing up also.  OK for multiplayer abstract.  Played 100 times.\n\n[Rating: 1/10] Boring. Boring. BORING.  Too boring to even properly describe.  If I had to describe it, it probably has \"checkers\" in the name because the skipping over pieces functions similiarly, only without the part where you get the satisfaction of taking another person's pace.  Also... the arc of almost nothing happening, excitement in the middle, and then crawl to the finish line... it's not fun, as has been pointed out by Tom Vasel and others. Avoid this game like the plague, unless you have good social reasons to play it.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 380,
+  "community_word_count": 228,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.198135"
+}

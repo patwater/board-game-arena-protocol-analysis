@@ -1,0 +1,19 @@
+{
+  "bga_slug": "dotsandboxes",
+  "bga_name": "Dots and Boxes",
+  "bgg_id": "17106.0",
+  "rules_text": "Rules summary Contents 1 Goal of the game 2 Setup 3 Player turn 4 Game end 5 Pie rule Goal of the game To claims the majority of the boxes. Setup A rectangular grid of dots, arranged in rows and columns, defines a grid of boxes, the dots being their corners. The grid starts empty. Player turn At each turn, a player draws (fills) one of the box sides, connecting one dot to another one adjacent to it vertically or horizontally. The player may choose whatever side and the sides themselves belong to nobody. Only when a box is completed (its fourth side is drawn), the player completing the box claims it and fills it with their own colour. Once the box claimed, the player has to fill another empty box side (and so on, as long as each action completes another box). Game end When all the box sides are drawn, the player who claimed the most boxes wins. Pie rule With some sizes, a variant may played which uses a kind of pie rule to compensate for the advantage of the first player. The first player plays up to a certain number n of turns drawing sides; the first player may decide to stop anytime after drawing the first side and the colours are (implicitly) assumed to alternate as during regular gameplay. At this point, the second player chooses between keeping the same colours or swapping them between the two players and the player with the next playing colour plays next. From this point on, players alternate as during regular gameplay. At the time of writing this page, only the 5 boxes \u00d7 5 boxes size may use the pie rule and the first player may draw up to 5 sides during the setup phase.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] When my older sister taught me this game, she called it \"the dot game.\" I don't see why you'd want to buy this when you can do it on paper!\n\n[Rating: 1/10] The BGG description calls this, \"simple, but also deep.\" [Insert Tim Robinson: \"You sure about that?\" meme.]\n\n[Rating: 2/10] After 5+ Plays: I've hated this game since I learned it as a child.  I don't know quite what it is that I dislike about it, but I'd rather just doodle on the scrap paper than play.  On a side note, who would actually spend money on a boxed version of this game?\n\n[Rating: 2/10] Only fun for kids really.  It's nice that you can play it simply by putting a bunch of dots on a piece of paper.  But there really isn't much strategy to it, and of course it is imbalanced depending on who starts and how many boxes there are in the grid.\n\n[Rating: 2.8/10] Give it some love!  We played dots and dashes constantly as kids.  In the car, on the bus, in class...  Good simple game.\n\n[Rating: 3/10] Another rite-of-passage game for children who've grown out of Noughts and Crosses. Best played with pencil and paper.\n\n[Rating: 3/10] One interesting game mechanic doesn't make an interesting game.  This one is about as uninteresting as checkers, but cheaper to buy: a pencil and a sheet of paper.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 299,
+  "community_word_count": 234,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.338259"
+}

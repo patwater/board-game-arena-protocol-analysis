@@ -1,0 +1,19 @@
+{
+  "bga_slug": "rainbow",
+  "bga_name": "Rainbow",
+  "bgg_id": "341510.0",
+  "rules_text": "Rules summary Summary Rainbow is a card game duel for two players using 9 different colored cards. Each card has 2 different colors on its front/back. Players hold 3 cards in hand and cannot initially see the second color on the back side of their cards, while the opponent can see the backside of your held cards. Players in turn play cards in the common area (the table ). You can earn cards by completing a rainbow (which are 6 different colors) or causing the opponent to make errors or shadows. The purpose of the game is to win more cards than your opponent. Tactics, combination skills and a good memory are what it takes to win. Play You can play 1 to 3 cards on your turn. However, if you want to play a second or third card, you must flip a card that is already in play on the table. You can pass at any time after playing a card from your hand or turning over a card from the table. (Actually, the UI seems to require you to play a card if you flip one over.) White cards are wilds. More than one can be on the board. When playing from your hand, you can choose to play as it is or flip it over. After each card played, the turn may end if one of the following conditions are met: Error \ufe30 If two cards on the table show the same color, your opponent wins the round. Shadow \ufe30 If you reveal a Black card on the table after playing or flipping a card, your opponent wins the round. Rainbow \ufe30 If you complete the rainbow (6 different colors of cards), you win the round. Whoever wins the round takes all the cards in play. The loser of the previous round begins the next round. End of game When the deck runs out and the player can no longer replenish their hand, the game ends immediately. The player with the most cards wins. When a player scores 29 or more points, it becomes impossible for their opponent to catch up and their opponent can safely concede the game.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] I love simple card games, but this is honestly one of the worst games I've ever played.\n\n[Rating: 3.5/10] BGA. First card and flipped and it was black. How many black?    Google \"AmassGames\" (2,300 board game reviews, podcast, 3000+ Instagram posts and more)\n\n[Rating: 4/10] I admit I'm not much of one for memory games, so I found this less appealing than some might. I also think BGA's implementation is probably less fun than playing \"live.\" However, there also seems to be too strong of a luck element, and that makes it feel too frustrating too quickly. Maybe someone who really loved memory games would get something from it.\n\n[Rating: 4/10] While there is strategy in Rainbow, I feel it's obscured by memory element. It's hard or annoyng to try to strategize while you're also trying to forcibly remember colors with no real meaning.\n\n[Rating: 4/10] Interesting game in which players play and flip cards to create sets with 6 different colours, or RAINBOWS as the game calls them. Too much of a memory game for my taste.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 364,
+  "community_word_count": 180,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.331283"
+}

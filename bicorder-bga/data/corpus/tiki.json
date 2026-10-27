@@ -1,0 +1,19 @@
+{
+  "bga_slug": "tiki",
+  "bga_name": "Tiki",
+  "bgg_id": "214910.0",
+  "rules_text": "Rules summary Gameplay On your turn, choose an action between moving a totem or creating a totem. If you choose to create a totem, place one tiki on an empty village without any tiki. If you choose to move a totem, move the whole totem a number of villages equal to the height of the totem, without return or diagonal movements. For each move, leave the lowest totem on the village passed. A totem belongs to the owner of the highest totem. After moving or creating, the player who isn't taking the turn chooses the resolve order of influenced villages. A village is influenced when there are 3 tikis on it. The owner of the totem gets the number of fruits indicated on the village tile. All tikis on it are then returned to their owners. The owner of the cursed village loses a fruit, which is spoiled and placed on the side, when it is influenced. If the player has no fruit, apply the effect on a fruit from the reserve. Shaman variant - Option to place the shaman between two villages when a shaman marshland (village that does not give positive or negative fruits) is influenced. Totems are not allowed to move between villages where there shaman was placed. End of the Game When a player owns 4 fruit, they win the game. When the fruit reserve is empty, the player with the most fruit wins. If it is a tie, return a fruit to the reserve that was previously removed due to spoilage. The player who wins that fruit, or who makes their opponent loses a fruit, wins the game.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] FIRST IMPRESSION:  Not sure why I played this one knowing it was an abstract and that I usually don't enjoy those. It might well be a fine game, but it isn't one for me.\n\n[Rating: 4/10] Played on Board Game Arena.  It's a reasonable premise (pretty much Tak with a scoring system) but in practice defense seems to be much easier than offense. This led to both players just building up the board until someone was forced to move, which generally only resulted in the shaman being shuffled around.  Might be more fun if played with a blitz timer, but the same can be said for pretty much any abstract game.\n\n[Rating: 4/10] This feels solvable. I don't know that it is (I wouldn't trust my hunches on that topic), but the feeling of solvability-- that no matter what you do, it might be a dumb mistake-- weighs on my spirit when a game has it.\n\n[Rating: 4/10] Simple abstract but with very fun components. It plays quite different from other stuff I played before so does scratch some new itches.\n\n[Rating: 4/10] I think the tile placements are a big part of how enjoyable this game is.  If they are aligned poorly the game can be very dull as there are limited good options to play.\n\n[Rating: 4/10] Designer: Nicolas Sato Playing time: 10-20 Min Weight: 2.13 / 5 Publisher: \u00d4z Editions  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK : Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=214910][/thing] is an abstract game with no luck, about placing and moving the totens in the cards, in order to make one of 3 totens high, which is when the card bellow give its value in fruits - from -1 to 2. The first person to get 4 fruits will be the winner.  In his turn the player either place a totem on",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 275,
+  "community_word_count": 325,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.342371"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "thewaytojuliet",
+  "bga_name": "The way to Juliet",
+  "bgg_id": "400859.0",
+  "rules_text": "Rules summary Objective This is a co-operative game Move Romeo to the balcony next to where Juliet is while avoiding guards of a specific trait. Game Play One player will be informed of a trait of the guards. This could be either the color of the card, the shape on the background of the card, or the dog breed. The other player will hold the information of Juliet's balcony. Each player takes turn moving Romeo or a guard one space orthogonally. Only Romeo is allowed to move up and down the start column. Once Romeo has left the start column, he is not allowed to return to it. Game End Players win when Romeo reaches Juliet. Players lose if he ever ends up next to a guard with the specific trait. This includes being in the final column next to the balcony. Players also lose if they move into the final column (next to the balcony) from the incorrect row. P\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Deduction game. I mean it is kind of an elimination game but not one that is really outstanding at all.\n\n[Rating: 1.5/10] Similar to those shifting tile puzzle games, but somehow far worse. Once you get the idea, you'll probably never lose, but it's a tedious endeavor either way. The artwork is adorable though.\n\n[Rating: 3/10] I don't see ANY staying power here...my 7 year old daughter and I easily won and there really isn't that much to it and it's fairly easy to quickly figure out what the other person knows.\n\n[Rating: 4/10] Even with the turn timer variants to add some difficulty, this game really doesn't feel like it has much to offer. I guess if the idea of a cooperative slide puzzle sounds super engaging to you, it would be worth checking out. In every game mode I've played, I've never even felt like there was much of a chance of losing. At the same time, though, because of the randomness of the board and the whatever cards you have to avoid each game, it seems like you could end up with unwinnable games. An interesting design, for sure, just not one I want to revisit regularly.\n\n[Rating: 4/10] Tried on BGA randomly. Slide puzzle the game with some fun hidden information. Kinda tricky\n\n[Rating: 5/10] In this game, players are trying to unite Romeo and Juliet.  They have to help Romeo dodge the active guards and lead him to the correct balcony.  One player knows which guards to avoid, the other knows which balcony Juliet is on.  Players cannot share this info with each other.  Players take turns sliding either Romeo or a guard tile orthogonally to an adjacent free space until Romeo either arrives at the correct balcony or is captured by a guard.  It's a pretty simple idea.  I imagine it\u2019d be pretty hard to lose this if you know what you\u2019re doing, but it was cute.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 163,
+  "community_word_count": 325,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.300184"
+}

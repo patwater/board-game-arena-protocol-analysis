@@ -1,0 +1,19 @@
+{
+  "bga_slug": "blooms",
+  "bga_name": "Blooms",
+  "bgg_id": "249095.0",
+  "rules_text": "Rules summary Blooms is a two-player territory game a bit like the classical game Go, but shorter, easier to learn, and more colorful. Definitions Bloom : a bloom is an entire group of connected stones on the board of the same color. A single stone (unconnected to others of the same color) is also a bloom. Fenced : a bloom is fenced when there are no empty spaces adjacent to any of the bloom\u2019s stones. Gameplay Each player owns 2 colors of stones. To start, Player 1 places one stone of either of their colors on any empty space. From then on, starting with Player 2, the players take turns. On your turn, you must place one or two stones onto any empty spaces. If you place two, they must be different colors. Then, capture all fenced enemy blooms. The first player to have captured X stones wins (this number is visible in the top right under each player name).\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] I usually like abstracts, but this one just isn't my style. Players who know the family of games descended from Go would have a better opinion on this than me.\n\n[Rating: 5/10] (7 plays.) Being bad at Go has always just made me despair. Being bad at Blooms, on the other hand, makes me want to play a lot more and get better. (Will I? I don't know.) Maybe it's because it's small, and so the path I'd be starting down isn't as long as with larger, classic games. But it also doesn't have the nice learning curve of Catchup, where every dumb mistake teaches me something. So far my dumb mistakes at Blooms only feel like the slightest glimmer of enlightenment.  2023 update: I did not play a lot more. I did play a lot more Medo, and ended up sort of entertained and sort of fru\n\n[Rating: 5/10] The similarity to Go may be overstated: at least on small and smallish boards (4-5) it definitely feels more like a game of tempo than one of influence. It's certainly possible larger boards offer more in terms of strategic scope, but Ai Ai can barely play strategically on a 5-board. I wish the win condition wasn't based on captures, and at the very least, official levels are required.\n\n[Rating: 5/10] Very clever adaptation of Go on a hex board, but it still feels like Go, and I don't particularly enjoy that game.\n\n[Rating: 5/10] Based on one play: Very similar to Go except that you control two colors and it plays on a hex board. You must play your pieces to surround your opponents sets to capture them. Can't say I am a fan of Go so this will likely only appeal to those looking for a similar, if slightly simpler game.\n\n[Rating: 5/10] Found it very similar mechanic to Go.  It was alright for a short abstract strategy game but not really my cup of tea.  I can see getting tired of this one quickly.\n\n[Rating: 5/10] Designer: Nick Bentley Playing time: 10-30 Min Weight: 2.00 / 5 Publisher: (Web published)  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK : Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=249095][/thing] is an abstract strategy game of perfect information, that happens, normally, in a 5x5 hexagon board. The ideia is positioning pieces in order to surround the pieces of your opponent, to capture them - as each piece captured is worth 1 point, and the first to 20 points will be the winner. ",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 162,
+  "community_word_count": 434,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.292048"
+}

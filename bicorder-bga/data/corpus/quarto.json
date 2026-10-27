@@ -1,0 +1,19 @@
+{
+  "bga_slug": "quarto",
+  "bga_name": "Quarto",
+  "bgg_id": "681.0",
+  "rules_text": "Rules summary Contents 1 Components 2 Game Play 3 Game End 4 Advanced variant Components Board with a 4\u00d74 grid. 16 pieces with four characteristics each: Light or dark; Tall or short; Circular or square; and Solid or hollow. Each possible combination of characteristics appears exactly once. e.g. light & tall & circular & solid. e.g. dark & short & square & hollow. Game Play The opponent selects an unplayed piece. The player places the selected piece on an empty space. Game End The winner is the player who forms a line of four pieces that all share a characteristic. i.e. not the opponent who selected the final piece. e.g. all light. e.g. all short. Advanced variant A 2\u00d72 square of four pieces that all share a characteristic also wins.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] It\u2019s not too bad, I like all the sneaky ways to win. But also it\u2019s too minimalist, nobody seems too attached to the results to play more.\n\n[Rating: 2/10] In the long term, could be \"solved\"....not any time soon though.  The Good: For a limited number of plays you can outguess and out play your opponent in this abstract.  The Bad: Moves eventually become obvious and the game loses it's charm and playability.\n\n[Rating: 2/10] A bit too calculable and dry for my tastes: the nice wooden components can't save me from the feeling that it's about computing all the possible next actions for your opponent in turn before taking the appropriate least-bad option. As someone who prefers to play more intuitively, I tend to feel I'm wasting (my and my opponent's) time when forced to play in this way but I don't see how the game could be approached differently.\n\n[Rating: 2/10] It's 4 in a row! But you win when someone blunders! Yay, it's over! Played at mochalunt 2024\n\n[Rating: 3/10] So, this game appears to be degenerately stalemate prone until the end game, and then it is simple computation.  The best you can do is notice when you can win and make sure you don't hand your opponent a piece that will make them win.  Opportunities to plan even one turn ahead appear to be exceedingly rare until you hit the point where you can plan out the rest of the game.  You can't even do basic forking strategies that emerge in most n-in-a-row games, since there is no ownership of pieces.  I might be missing something in the subtlety of \"choose the piece your opponent plays\".  That sounds\n\n[Rating: 3/10] The best thing about the game is that it only takes 3 minutes to play\u2026 No, I\u2019m not joking, it really does only take a maximum of 5 minutes to play. Yes, we decided to play it rapidly, but we did think about where to place our pieces. It\u2019s just that the first couple of pieces aren\u2019t as critical as the last 4-5 or so. That\u2019s when the game becomes slightly interesting as you\u2019re trying to visualize how to place your piece and which piece you need to give your opponent so that you set yourself up for the win. This can be tricky, but to be fair, if you\u2019re spending the listed 20 minutes on the game, ",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 132,
+  "community_word_count": 404,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.201818"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "artthief",
+  "bga_name": "Art Thief",
+  "bgg_id": "354720.0",
+  "rules_text": "Rules summary The Deck 1 Start card 18 Room cards (3 cards x 6 items) - each item has 1 card with black item square, 1 card with gray item square, and 1 card with white item square. 4 Guard cards (1 card x 4 arts) - Guards are always placed at the bottom of the deck. No plant guards. The Heist On your turn, draw a card and place it face up next to any room so that the squares line up. You may rotate the card if you like. Then move your pawn up to 5 squares orthogonally (not diagonally). Black can move onto only black and grey squares. White can move onto only white and grey squares. If the thieves stand on the same item on two different squares during that move, you steal it. Then if the room or guard played this turn shows the same painting or plant as two other rooms in play, choose one of those two rooms and flip it face down (either direction). It can no longer be entered or used to get items. A thief still in flipped room stays on the same tile, loses the item from that room, and must re-steal it elsewhere. The thieves win if they steal all the items on the score sheet before the deck runs out. The thieves lose if a guard of an item thieves do not possess is revealed.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] First half of the deck there were no matches, and so no need to move anyone. Just did not enjoy this one at all.\n\n[Rating: 4/10] I think this is entirely a luck game. If you play it well, you will win unless you draw incorrectly. I don't love that.\n\n[Rating: 4/10] This is a 2 player cooperative game where players are 2 robbers (White Tiger and Black Fox) with the goal of stealing valuable items before getting caught by the guards.  This can alternatively be played solo with one player playing both robbers.  Both robbers move orthogonally.  White Tiger moves through white or gray squares and Black Fox moves through black and gray squares.  To steal an item, both robbers have to be in different squares displaying the same item, at the same time.  There are 18 room cards shuffled and placed on top of the 4 guard cards which are also shuffled.  Each room ca\n\n[Rating: 4/10] Art Thief is a cooperative game of stealing art and plants. On your turn you draw a single card and must place it in one of 4 rotated orientations and adjacent to the existing cards so at least one square is side by side with at least one square on another card. There is no overlapping cards. Then you move your meeple 0 to 5 spaces. The white meeple can only move on white and gray squares. The black meeple can only move on black and gray squares. If both meeples stop on the same art or plant symbol, they successfully mark it as stolen. If you draw a card with a symbol that matches a pair of ex\n\n[Rating: 5/10] It's an ok cooperative game for two but there are so many good cooperative games out there (at 2 or more) that this one doesn't really do anything to stand out. It does play quickly though!\n\n[Rating: 5/10] Designer: Heather Gunn Playing time: 10-15 Min Weight: 1.00 / 5 Publisher: Stone Tablet Games Player count: 1-2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: Low PLAYING TIME: Low LUCK: Medium REPLAY VALUE: High SOLITAIRE: Very high THEMATIC: Low[/b]  [b]Comments:[/b] [thing=354720][/thing] is a cooperative card game about exploration, coordination and communication limits. The ideia is to reveal and place cards at the table in such a way that both meeples are above the same symbol at the same time, which will mean that the thieves stole the paint",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 240,
+  "community_word_count": 413,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.345350"
+}

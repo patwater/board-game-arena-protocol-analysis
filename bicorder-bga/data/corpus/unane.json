@@ -1,0 +1,19 @@
+{
+  "bga_slug": "unane",
+  "bga_name": "\u016anane",
+  "bgg_id": "472126.0",
+  "rules_text": "Rules summary INTRODUCTION \u016anane (ooh-NAH-nay) is played on a K\u014dnane board. That is, a rectangular grid of pits that can hold one stone each. The grid can be any size, with at least one even dimension. The board is initially filled with a checkerboard pattern of black and white stones. PLAY The two players, Black and White, take turns either moving a stone of their own color, or removing a stone of their own color (but not both actions), one stone per turn, starting with Black. Passing is not allowed. \u016anane uses the pie rule. White, on his first turn, has the option of switching colors and becoming Black, claiming the first move as his own, instead of moving a white stone. CAPTURING MOVES You can move to capture an orthogonally (horizontally or vertically) adjacent enemy stone in any direction. REMOVALS You can remove a friendly stone which has no orthogonal adjacencies with enemy stones.Figure 3, a black stone marked with a red dot. OBJECT OF THE GAME The goal is to have only one orthogonally interconnected group of your color (which could be a single stone). You can win on your turn or on your opponent's turn. If, after your turn, there is only one friendly group and only one enemy group, you win. DESIGN NOTES \u016anane was inspired by the ancient, Hawiian game of K\u014dnane. True to the spirit of K\u014dnane, \u016anane begins with a checkerboard pattern of stones, has short range captures, and is extremely simple. \"\u016anane\" is a fusion of Una (Spanish for \"one\") and K\u014dnane. This is intended as a tribute to K\u014dnane, not cultural appropriation. AUTHOR\u2019S NOTE Feel free to publish this rule sheet and to program the game of \u016anane. No licensing fee or royalties are expected. However, please don\u2019t change the name or the rules, and please attribute the game to me, Mark Steere. My other games can be found at marksteeregames.com.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5.5/10] Designer: Mark Steere Playing time: 2-200 Min Weight: 1.20 / 5 Publisher: Mark Steere Games Player count: 2 (best with: 2)  [b]COMPLEXITY: Very low COMPONENTS: N/a DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low to medium LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=472126][/thing] is an abstract strategy game about grid movement. The ideia is that players will take turns either moving a stone of their own color, or removing a stone of their own color (but not both actions), one stone per turn, starting with black. Passin\n\n[Rating: 6/10] I usually heavily (HEAVILY!) dislike Mark Steere's games.  This one, incredibly, is not so bad. Of course it's not a masterpiece, but it doesn't disgust me. I may also say it's pretty and elegant. I suppose it's the best rating he will ever obtain from me.\n\n[Rating: 6/10] Solid capture game but it is opaque. It's hard to tell how to win but it starts to make more sense after a few plays.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 3,
+  "rules_word_count": 322,
+  "community_word_count": 172,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.422294"
+}

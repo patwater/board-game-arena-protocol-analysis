@@ -1,0 +1,19 @@
+{
+  "bga_slug": "quoridor",
+  "bga_name": "Quoridor",
+  "bgg_id": "624.0",
+  "rules_text": "Rules summary Freeboard Starting position A B C D E F G H I 9 9 8 8 7 7 6 6 5 5 4 4 3 3 2 2 1 1 A B C D E F G H I Contents 1 Overview 2 Gameplay 2.1 Pawn Movement 2.2 Wall Placement 3 Game end Overview Abstract game played on a 9\u00d79 board. 2 or 4 players. The first player to move their pawn to the opposite side of the board wins. Walls can be placed to restrict pawn moves. Gameplay Each player has one pawn which starts in the middle of their respective side. 20 walls are distributed equally to all players. i.e. 2 players: 10 each i.e. 4 players: 5 each Players take turns to either: Move their pawn Place a wall Pawn Movement Adjacent squares in orthogonal directions. i.e. forwards, backwards, or sideways. Not through a wall. Not onto the same square as another pawn. Jump over an orthogonally adjacent pawn: When two pawns face each other on neighboring squares which are not separated by a fence: The player whose turn it is can jump the opponent\u2019s pawn (and place himself behind him), thus advancing an extra square (fig. \"Jump Behind\"). If there is a fence behind the said pawn: The player can place his pawn to the left or the right of the other pawn (fig. \"Jump Aside\") Note: jumps are never mandatory. Jump Behind The white pawn may move backwards , to the left or jump over the black pawn. A pawn may not move through a wall or onto the same square as another pawn. Jump Aside The forward jump is blocked by a wall. The active white pawn may additionally move to squares orthogonally adjacent to the black pawn. Wall Placement Each wall is two squares long. Must be placed between squares, aligned with the grid. May not jut out of the board. May not block all paths for each pawn to reach their destination side. Note: if a player places all their walls, they can no longer place walls. Game end A player wins if their pawn reaches any one of the nine squares on its destination side, opposite to their starting side. A team wins if either pawn reaches its destination side.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Worthless game, huge advantage going first. The most boring game ever, perfect for the brain dead.\n\n[Rating: 1/10] It's a curious one-time thought exercise, but its design philosophy is to make the best play the most cruel play. Maybe it's more fun with 4, but I don't really think I have it in me to try to find a table of three other people who won't experience extreme frustration at how hopeless victory can become with one brutal move.\n\n[Rating: 2/10] Abstract.  Bah.  I'm sure it's good at it what it does, I just don't like what it does.\n\n[Rating: 2/10] Several ways to win and I don't often see draws; even though after enough plays I think there could be.  The Good: Totally unique, visually appealing, lends itself to a few strategies.  The Bad: Runaway leader can spoil the game more often than not more than half way through.\n\n[Rating: 2/10] The start is great trying to predict where your opponent is going to go. But there is a point where you realize that you realize that you can't win and you just try to delay the inevitable. This is the case in a two player game. I haven't played it with 3 or 4 players yet but I imagine both are much better.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 383,
+  "community_word_count": 217,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.198374"
+}

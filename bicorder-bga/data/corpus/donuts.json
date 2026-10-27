@@ -1,0 +1,19 @@
+{
+  "bga_slug": "donuts",
+  "bga_name": "Donuts",
+  "bgg_id": "341358.0",
+  "rules_text": "Rules summary Contents 1 Aim 1.1 Board setup 2 Gameplay 2.1 Placement 2.2 Insertion 2.3 Flanking Aim Connect 5 donuts of your colour in a single line: horizontally, vertically or diagonally. This results in an immediate victory. When all the players counters have been used, and no one manages to reach this target, the player with the single largest orthogonally contiguous group of donuts wins. Board setup There are 4 board tiles, each of size 3 x 3. These are randomly arranged to create a 6 x 6 game board. Each player gets 15 donuts, which will either be Chocolate or Vanilla. Gameplay Placement The first player may place one donut of their colour anywhere on the board. The line in the centre of the square indicates the direction in which the next player must place their donut. Successively placed donuts must conform to the direction indicated, except where no valid position exists. In which case, that player has the freedom to place their donut in any empty plate on the board. Insertion By inserting your donut between two of your opponent's donuts you cause their donuts to be flipped to your colour. For example: V-V --> VCV = CCC.* Note that your opponent's donuts do not need to be directly adjacent to your just-inserted donut. For example: VC-CV --> VCCCV = CCCCC.* It is possible that the placement of one donut creates more than one insertion. Flanking Flanking your opponent's donuts is not an insertion, and does not cause any donuts to be flipped. (* V for Vanilla. C for Chocolate.)\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] I supported FunForge's Monumentum African Empires expansion & got ripped off... they never delivered to backers but did to retailers. For this reason EVERY Funforge product I rate will be marked with a 1 as they are a dishonest, thieving company. DO NOT BUY THEIR PRODUCTS!\n\n[Rating: 2/10] In the genre of \"forced movement abstracts,\" I'd play this over Kamisado, but only b/c it's over in a fraction of the time. There's a fleeting few turns where you have actual agency in this game and the rest of it just plays on rails. Not good.\n\n[Rating: 2/10] Yes, it's a game with interesting mechanics, but it's in no way fun to play. No intuition, just mechanical calculation of moves.  Othello made stupid.\n\n[Rating: 3/10] 5 in a row abstract with a twist.  The insert action is not intuitive but this game works.  Heavy focus on not losing the game early.\n\n[Rating: 4/10] An interesting concept.  I do like that the conversion is done by squeezing in from the middle rather than the outsides.  That simple change makes quite a difference.\n\n[Rating: 4/10] + Superfast abstract filler  - The second half of the game felt literally on rails...",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 264,
+  "community_word_count": 199,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.235078"
+}

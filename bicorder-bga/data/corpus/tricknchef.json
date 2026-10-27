@@ -1,0 +1,19 @@
+{
+  "bga_slug": "tricknchef",
+  "bga_name": "Trick-n-Chef",
+  "bgg_id": "435687.0",
+  "rules_text": "Rules summary Must-follow trick-taking game. The game lasts 3 rounds, with 10 tricks in each round. The player who wins a trick by playing the highest card takes all the cards from that trick. The player who plays the lowest card, regardless of suit, takes a Chef token. If there is a tie for the highest card, the trick is won by the player who played their card last. If there is a tie for the lowest card, the Chef token is taken by the player who played their card first. Each other player takes a coin. Before playing a card to a trick, a player may use one or more coins from their supply. Each coin increases or decreases the value of the played card by 2. A card\u2019s value may be higher than 10 or lower than 0. The suit with the fewest Chef tokens remaining becomes the trump suit. If several suits are tied for the fewest tokens, all of them are trump suits. Once there are no Chef tokens of a particular color left in the supply, that suit can no longer become trump. At the end of the round, each player reveals their score pile and assigns Chef tokens of the corresponding colors to the cards, starting with the lowest-value cards and proceeding to the highest. Players score points for each star on cards with Chef tokens and for each remaining coin.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 7/10] Trick-n-Chef is a clever trick-taker that skips predictive bidding and instead uses a dynamic trump suit driven by Chef tokens. Each player starts with one token with matching suit tokens placed in the center. The suit with the fewest Chef tokens becomes trump for the trick and there can be multiple trumps because of this.  The twist is what happens after each trick: the winner takes the cards, while the player who played the lowest card gets to take a Chef token from the center. Everyone else gets a coin. Coins can later be spent to modify a played card by plus or minus two, giving you some n\n\n[Rating: 7.5/10] When I first read the rules of Trik n Chef, I thought it would lack real agency\u2014since everyone involved in a trick gets something, it seemed like actions wouldn\u2019t matter much. But after playing, I was pleasantly surprised. Despite the shifting trump making control limited, there\u2019s a lot of room for clever choices and adaptation. Each hand feels different, and interpreting your cards based on the changing situation is both challenging and satisfying.\n\n[Rating: 8/10] Simple and smart at the same time trick-taking game for experienced trick-taking fans!\n\n[Rating: 9/10] Cool, smart and pretty trick-taking game with nice components and linen cards. Enjoy the process and dynamic process of the game. Adore the author as well\n\n[Rating: 9/10] A very polished trick if you are looking for something out of the ordinary. It has very unusual scoring and dynamic trump card change. It is interesting to play with experienced players.\n\n[Rating: 10/10] An excellent board game - smart and surprisingly deep, yet easy to learn. Rounds are quick, engaging.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 239,
+  "community_word_count": 282,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.328171"
+}

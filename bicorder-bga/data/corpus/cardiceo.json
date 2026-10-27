@@ -1,0 +1,19 @@
+{
+  "bga_slug": "cardiceo",
+  "bga_name": "Cardiceo",
+  "bgg_id": "337503.0",
+  "rules_text": "Rules summary Setup The deck consists of 60 cards, with 4 of each card from 1-15. Deal each player 10 cards, or 5 cards for short mode. No matter what, the rest of the cards are removed from the game. Gameplay On your turn, roll 3 dice with 4, 8 and 12 faces. Then you may discard cards. Cards may only be discarded if the sum of some of the dice are equal to the number on the card. If a die is used to discard cards, pass it to the next player. Otherwise, it is placed in the middle. If there are dice in the middle, they are locked and aren\u2019t rolled for that turn. You still get to use it. If no cards can be played, the next player can choose to keep them locked or reroll all of them. End of the Game If a player discards their last card, the game is over and they win!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1.33/10] Hay juego malos, hay juegos horribles, hay juegos espantosos. Este es todo eso junto.\n\n[Rating: 2/10] FIRST IMPRESSION:  Precious little game play decision making. Do my dice match one or more of my cards? Yes? Yeah! No? Bummer.\n\n[Rating: 2/10] Way too much luck in this dice chucker. There really is no decent decision to make.\n\n[Rating: 2/10] Barely a game, too many facets of luck colliding into what amounts to a nothing of a game. If you get lucky enough to actually have some sort of a choice it isn't even a fun choice lol.\n\n[Rating: 2.2/10] !.!!KS 2024 ->> see private into Barely a game. Barely any choices, and even then - hand management is almost always obvious and choosing what values to keep for others (on rare occasions) requires memory.\n\n[Rating: 3/10] This game is based purely on luck, and there are not many decisions to be made if you roll numbers that don't match.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 162,
+  "community_word_count": 160,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.221578"
+}

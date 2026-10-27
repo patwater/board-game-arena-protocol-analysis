@@ -1,0 +1,19 @@
+{
+  "bga_slug": "minefield",
+  "bga_name": "Minefield",
+  "bgg_id": "420797.0",
+  "rules_text": "Rules summary Why have prohibited glyphs? There's a reason for it. Not just because I thought it would be fun. Prohibiting this particulur set of glyphs prevents deadlocks from occurring. It ensures that someone will win, every time. Minefield is an SPO OOSCG (Single Placement Only, Orthogonal Only Square Connection Game). This is a razor thin subclass of connection games. No moving, removing, flipping, chain reactions, juggling bowing balls on a unicycle... Just adding stones, one stone per turn. Like all my games, Minefield is finite. It isn't possible to have a cyclic draw. Not every OOSCG is finite. In fact, you might even have a non-finite OOSCG on BGA. I only do finite, as a matter of aesthetics. Some people are having trouble grasping the premise of this game. Black is trying to form a path connecting the top and bottem edges. White is trying to form a path connecting the left and right edges. If you understand nothing else, understand that. Some players have observed that, while Minefield's stated goal requires an orthogonally interconnected path, you can actually win with an ortho-diagonally interconnected path. This is not an error in the rule sheet. I have a collection of 18 OOSCGs (Orthogonal Only Square Connection Game), of which Minefield is one. But it so happens that in Minefield, once you've formed an ortho-diagonal path, your opponent can't stop you from filling it in and converting it to an orthogonal path. Also, you would never want to start filling in an ortho-diagonal path prematurely, before you had connected your edges. So the program declares a winner and ends upon the formation of an ortho-diagonal path, because you've essentially won at that point. This has no effect on the gameplay. I'm keeping the stated goal in the rule sheet as an orthogonal path, in keeping with all of my other OOSCGs. OOSCGs is a science and a serious hobby of mine. How to make a square connection game with no possibility of a deadlock or any kind of a draw. Some designers allow for the possibility of an endless cycle of moves between cooperating players. I don't. All of my games, connection and otherwise, are strictly finite.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Designer: Mark Steere Playing time: 2-200 Min Weight: 1.50 / 5 Publisher: Mark Steere Games Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: N/a DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low to medium LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=420797][/thing] is an abstract strategy game about chaining, connections, tile placement and pattern recognition. The ideia is that players will take turns placing their own stones onto unoccupied points, one stone per turn starting with Black. Passing is not allow",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 1,
+  "rules_word_count": 368,
+  "community_word_count": 91,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.348578"
+}

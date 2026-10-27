@@ -1,0 +1,19 @@
+{
+  "bga_slug": "kabaleo",
+  "bga_name": "Kabaleo",
+  "bgg_id": "94891.0",
+  "rules_text": "Rules summary Contents 1 Kabaleo 2 Setup 3 Game Play 4 Game End 4.1 Tie-breaks Kabaleo Be Discreet and Secretly Win! A game mixing bluff and strategy, Kabaleo promises an intense and unique experience! A dynamic game of placing pyramids, removing them from the game, stacking them and changing the colour of pyramid piles. The player whose colour is most represented on the board wins the game. Setup Pyramid bases are placed randomly on the table. The rest of the pieces (pyramids) are divided and placed visibly in front of the players. Each player is given a hidden pyramid colour. The object of the game is to ensure that this is the majority colour across the playing board at the end of the game. Game Play On their turn, each player places a pyramid of any available colour at a location of their choice. When a piece is played on top of a non-matching coloured pyramid, the pile colour changes to the new colour on top. If a player places a piece on top of a pyramid of the same colour, both pyramids are removed from the game and the pile reverts to the colour of the piece revealed. Note: Players cannot play a colour pyramid on a base of matching colour. Players cannot play a piece on the same location as the previous move. Game End Once all pieces have been played, the player left with the most piles of their colour on the board wins the game. Tie-breaks The most top pieces highest pyramid\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] The core idea has potential, but after one or two games of 5 minutes you'll have enough. Uninteresting game. Can't understand how this was published.\n\n[Rating: 1.9/10] I think there is a serious problem with last-player advantage. Told demo team I'd buy it/admit my error/promote it if they could beat me (when I played last in turn order) but they couldn't.  Some minor amusement if you play a series of games but I think there are just so many better abstracts.\n\n[Rating: 2/10] Such a disappointment from Gigamic. They've published some of my favorite abstracts (Gyg\u00e9s and Quoridor, to name a couple). This is an utterly awful game.  The depth of the strategy is minimal and revolves primarily around trying to guess your opponent's secret color. Some people claim there's a subtle art to the deduction. Hogwash. It's mindless dropping off colors for the first 75% of the game. Any attempt in the early game to read between the lines of your opponent's strategy is completely obfuscated by them having to play all of the pieces they were dealt. You'd be completely guessing at t\n\n[Rating: 2/10] I must agree with the consensus that this is just terribly dull, and with a trivial strategy element.\n\n[Rating: 3/10] Seems overly random (starting distribution) and simplistic. Last player has a definite advantage.\n\n[Rating: 3/10] A hidden role abstract where you are stacking different colors to make sure yours are on top. It is so hard to figure out what color your opponent is going for, so it is a bit of random luck.\n\n[Rating: 3/10] 2p game of placing pieces of different colours on top of each other, whoever's secret colour has the most pieces on top at the end wins. You just can't do anything clever - whoever got luckier covering up slightly more of the other player's colour earlier when it was random choice should win and, by the time it's obvious, just keep covering them. Not interesting.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 258,
+  "community_word_count": 330,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.351056"
+}

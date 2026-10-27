@@ -1,0 +1,19 @@
+{
+  "bga_slug": "timelinetwist",
+  "bga_name": "Timeline Twist",
+  "bgg_id": "379290.0",
+  "rules_text": "Rules summary Object of the Game Build the longest (left to right) timeline possible to score as many points as possible Turn Play Play proceeds in order amongst the players. When it is your turn, you may either a) Play a card that will be placed at its appropriate spot on the timeline either (up to twice in a turn), this constitutes your turn; a1) before the first card on your timeline (to its left) for two game points; a2) after the last card on your timeline (to its right) for two game points, or a3) in an empty space above and between two cards on the timeline for one game point. You can also b) discard a card (if the icon on the upper portion of the card matches the top of the discard pile) -- your turn ends and the next player plays. If you can do neither a) nor b) you may play a card that can not be placed on the timeline (because there is no empty space where it would fit on the timeline), it will be turned to the side, remain in your hand, and will not be replaced. The game ends when one of the players has four unreplaceable cards in her hand or all cards have been discarded, rendered unreplaceable or placed on the timeline. Hint: one should keep the gaps between cards played on the timeline as close together in time as practical so as to give yourselves the maximum number of spaces to which one can play cards safely and score maximum points.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Timeline games went from great (110 card, tin) to terrible - this timeline twist. Coooeration style is based mainly on luck. Realy nothing to be proud of....\n\n[Rating: 2/10] Takes standard Timeline (which can already be played co-op) and adds a bunch of restrictions which guarantee you'll be unable to play many of the cards in your hand.  I didn't expect much and was still surprised by how terrible this is.\n\n[Rating: 2/10] A poor reimplementation of a good game. Original Timeline is simple, elegant and educational; this is silly, unnecessarily fiddly and too random. I love the idea of making it cooperative, but would much rather just play the original game with cooperative rules.\n\n[Rating: 3/10] A game in which players try to correctly play cards that represent historic events. It needs to played with a good number of players to work I think.\n\n[Rating: 3/10] Timeline is a simple, reasonably interesting and educational game. The cooperative mode in Timeline Twist is at once unnecessary, random, and pulling the focus away from the subject matter of the game (the timeline) and putting it on deck manipulation in order to artificially maximise your final score instead.  Luckily, you can also play normal competitive Timeline with the deck, but then the number of cards is quite small.\n\n[Rating: 4/10] Not a big fan of timeline games and this one is not very different from the classic version\n\n[Rating: 4/10] Fine because you learn about different significant (and non-significant) historical events, but frustrating for those not familiar with history\n\n[Rating: 4/10] Really disappointed... I like timeline, it's always nice to learn things while playing, but this one, first there are not enough cards and the coop mode is really bad, too much luck involved....",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 265,
+  "community_word_count": 294,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.270752"
+}

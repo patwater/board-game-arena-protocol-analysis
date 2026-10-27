@@ -1,0 +1,19 @@
+{
+  "bga_slug": "invector",
+  "bga_name": "Invector",
+  "bgg_id": "472199.0",
+  "rules_text": "Rules summary Invector is played on a K\u014dnane board - that is, a rectangular grid of pits that can hold one stone each. The grid can be any size, with one even dimension and one odd dimension. The board is initially filled with a checkerboard pattern of black and white stones. Figure 1 shows a 5 x 4 grid. Mark Steere designed Invector in April 2026. PLAY The two players, Black and White, take turns moving stones of their own color, one stone per turn, starting with Black. Passing is not allowed, but if you don't have a legal move available, your turn is skipped. Invector uses the pie rule. White, on his first turn, has the option of switching colors and becoming Black, claiming the first move as his own, instead of moving a white stone. CAPTURING MOVES You can move to capture an orthogonally (horizontally or vertically) adjacent enemy stone in any direction. In Figure 2, Black can capture by replacement a white stone marked with a green dot, but not the white stone marked with a red dot. NON-CAPTURING MOVES You can move to an orthogonally adjacent, unoccupied pit, closer to center, Manhattan distance. That is, your stone must be closer, via a series of orthogonally adjacent pits, to a center pit after your move than it was to a center pit before your move. [There are two center pits.] In Figure 3, Black can move to any of the orthogonally adjacent pits (intersections) marked with a green dot. But Black cannot move to any of the orthogonally adjacent pits marked with a red dot. OBJECT OF THE GAME The goal is to capture all enemy stones. When you have removed all enemy stones from the board, you win. DESIGN NOTES Invector was inspired by the ancient, Hawiian game of K\u014dnane. True to the spirit of K\u014dnane, Invector begins with a checkerboard pattern of stones, has short range captures, and is extremely simple. Invector simply combines two basic, off-the-shelf ingredients: orthogonal, adjacent capturing moves, and orthogonal, adjacent moves closer to center. Nothing fancy, but it works. Gameplay is finite, decisive, and robust. Flour and water wins the day. Invector is ultimately its own game. K\u014dnane is more violent. Every move involves at least one capture. But Invector is more lethal. Armies don't just come to a standstill, shake hands, and part amicably. One of the armies must be destroyed to the last man. AUTHOR\u2019S NOTE Feel free to publish this rule sheet and to program the game of Invector. No licensing fee or royalties are expected. However, please don\u2019t change the name or the rules, and please attribute the game to me, Mark Steere. My other games can be found at marksteeregames.com.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Even worse than usual Steere's games. Dominant strategy and a winner that is already clear after the first half of the match.  And, of course, basically more of the same.\n\n[Rating: 5/10] Designer: Mark Steere Playing time: 20-60 Min Weight: 2.00 / 5 Publisher: Mark Steere Games  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Medium LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 2,
+  "rules_word_count": 457,
+  "community_word_count": 74,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.310993"
+}

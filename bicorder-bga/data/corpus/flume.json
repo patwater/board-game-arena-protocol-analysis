@@ -1,0 +1,19 @@
+{
+  "bga_slug": "flume",
+  "bga_name": "Flume",
+  "bgg_id": "67080.0",
+  "rules_text": "Rules summary Contents 1 Goal of the game 2 Setup 3 Player turn 4 Game end Goal of the game To have the majority of stones at the end of the game. Setup In a square, odd-sized, game board, all board edge points are filled with neutral stones. Player turn From there on, players take turns placing a stone of their colour in whatever free point they want, Red moving first. For the first move only, the central cell cannot be used (to avoid a known winning strategy for the first player). If the stone a player placed is orthogonally ( not diagonally ) adjacent to 3 or to 4 other stones (of whatever colour: own, opponent's or even neutral), that same player has to place another stone, again in whatever free board point one likes, and so on, until the player's last placed stone is adjacent to only 2 or less other stones. Game end When the board is completely filled, the player with the majority of stones wins. As the total number of board cell is odd, draws are not possible.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] If this isn't a solved game it has to be at least close to it. This is just Dots and Boxes with a few extra steps during setup.\n\n[Rating: 3.4/10] Strictly better than Boxes, because Boxes isn't worth buying, and this fixes the problem you needed to buy a playing set. Instead you use a regular Go set and good to go. How brilliant!\n\n[Rating: 3.5/10] Designer: Mark Steere Playing time: 30 Min Weight: 1.50 / 5 Publisher: Mark Steere Games Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=67080][/thing] is an abstract strategy game about area influence, reminescent of Dots and Boxes. The idea is to use to have more pieces on the board than the opponent once the board is full, and to do this, players will position their pieces in such a way to be able to add extr\n\n[Rating: 4/10] Quick plays on BGG. tough to prevent the opponent from cascading, but not my cup of tea.\n\n[Rating: 4.5/10] [i]Jugando en igGameCenter[/i]  Muy similar al [[Dots and Boxes]] pero en tablero y piedras de GO, la estrategia del juego es muy b\u00e1sica y se aprende muy f\u00e1cil, en muchos casos depende demasiado de como se han puesto las piezas y a la larga termina siendo muy mon\u00f3tono.  No hay mucho m\u00e1s por decir, precisa m\u00e1s \"work\" para hacerlo un poco m\u00e1s diferente sin perder la esencia y divertido.  [b]Nota:[/b] 4.5 (7/7/2015)",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 185,
+  "community_word_count": 261,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.383046"
+}

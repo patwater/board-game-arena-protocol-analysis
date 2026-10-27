@@ -1,0 +1,17 @@
+{
+  "bga_slug": "phat",
+  "bga_name": "Phat",
+  "bgg_id": "nan",
+  "rules_text": "Rules summary Overview Standard 52 cards. Rank order is ace high A K Q J 10 9 8 7 6 5 4 3 2 Phat is a four player trick-taking game. Players opposite each other are a team. The first team to score 181 points wins. Phat cards score immediately. A team that collects more than half of the Muck scores 8 points at the end of the round. If both teams collect half of the Muck, the 8 points are carried over to the next round. Phat Trump Non-Trump Card(s) A K Q J 9 5 9 5 Points 4 3 2 1 18 10 9 5 Total 80 Muck All Trump & Non-Trump Cards A K Q J 10 Points 4 3 2 1 10 Total 80 Game play All the cards are dealt. The first player is selected randomly. Each round the first player responsibility passes clockwise. The suit of the first card of each round is the trump suit. Each player plays one card. Suit must be followed if possible. The trick is won by: The highest trump, otherwise The highest card of the suit led. The winner of each trick leads the next.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 200,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.364249"
+}

@@ -1,0 +1,17 @@
+{
+  "bga_slug": "farkle",
+  "bga_name": "Farkle",
+  "bgg_id": "238510.0",
+  "rules_text": "Rules summary Multiple combinations can be scored together. Each 1 scores 100 points. Each 5 scores 50 points. Triples score 100 times their rank, except that three ones score 1000. Four of a kind score twice as much as triples. Five of a kind score 4 times as much as triples. Six of a kind score 8 times as much as triples. Three pairs score 1000. Straight of six scores 1500. Six dice that can not be scored otherwise score 500 points. If you have no dice to score after rerolling, lose all your accumulated points. Once a player has reached the goal score, each other player gets one more turn to attempt to exceed that player's score.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 120,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.137437"
+}

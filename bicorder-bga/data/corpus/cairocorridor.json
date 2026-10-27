@@ -1,0 +1,19 @@
+{
+  "bga_slug": "cairocorridor",
+  "bga_name": "Cairo Corridor",
+  "bgg_id": "137173.0",
+  "rules_text": "Rules summary Cairo Corridor is a two player game where players alternate playing pentagonal tiles until a \"corridor\" is established. A corridor is a group of empty pentagons adjacent to each other that connects all 4 sides of the board. You may never place a tile that blocks the last possible \"gap\" for such a corridor. The game ends when there is only one possible corridor left and no more tiles can be placed adjacent to it. The winner is the player with the most tiles next to the corridor. In case of tie, the last player to play loses the game. On BGA: In this implementation, yellow pentagons are how illegal moves are denoted. If you think about the rules a little bit, you will come to understand that these illegal pentagons will eventually form the final corridor. Pentagons with blue borders are scoring pentagons because they are next to illegal moves (which are the final corridor).\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Cool idea but not exciting in practice. Feels like it's easy to keep it a 1-2 point game, just alternating placement.\n\n[Rating: 5/10] I think this looks cooler than it is in-practice. It is one-for-oneish in a way I find dissatisfying. Someone will eventually get cut-off and then all the drama is sucked out of the game as you each trade points into the end-game. It's alright - I'd play it. It is kind of like Fresh Fish where you are trying to decide where the road leads, and I'd much rather play that over this. It's quick though.\n\n[Rating: 5/10] Designer: Markus Hagenauer Playing time: 20 Min Weight: 2.00 / 5 Publisher: nestorgames Player count: 2 (best with: 2)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=137173][/thing] is an abstract strategy game about tile placement, area influence and network building. The ideia is that players will place their pieces in order to create the mandatory path, which will connect 4 sides of the board, in a way that will benefit you the most\n\n[Rating: 5/10] Interesting concept for abstract game, but I think towards the end there can be some \"move counting\" to see who wins, which I am not fan of.\n\n[Rating: 6/10] Fun, spatial abstract that relies on pattern recognition and look ahead in multiple directions. It reminds me of the inverse of a game like Hex where the idea is simply to connect one side to the other. In Cairo Corridor, a connection is assumed. You are instead filling in the spaces around the connection, trying to amass the greater number of pieces alongside the corridor. The opening can seem chaotic, but I suspect that initial placement is more important that I now comprehend. As the board develops, keen spatial skills help you to visualize what the final layout may look like, and then make\n\n[Rating: 6/10] In general, I don't care for the area majority mechanic.  I do like the idea of playing with negative space and the kind of negative space is quite rare -- I've only seen it in Fresh Fish.\n\n[Rating: 6/10] Love the idea of the negative space being important with area majority, but it feels like the height of the game is reached near the middle rather than the end. Really takes the wind out of the sails of the player that gets foiled early on, but maybe that is just how this game functions and it is what it is. Still an interesting design to mess around with.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 160,
+  "community_word_count": 441,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.333854"
+}

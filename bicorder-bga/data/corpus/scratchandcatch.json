@@ -1,0 +1,19 @@
+{
+  "bga_slug": "scratchandcatch",
+  "bga_name": "Scratch and Catch",
+  "bgg_id": "441764.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Second Card Effects 4 Game End Overview Get rid of your Fleas and collect cats Turn On your turn, play 2 cards First card does NOTHING Second card will have an effect based on how it's played Second Card Effects Normal or Scratch added to Stack - Take all cards on the immediate adjacent spaces Normal or Scratch added to Empty - Discard fleas equal to the number of connected adjacent cards in a sequence including itself Scratch (black border) bonus - Give each opponent fleas from the supply equal to the number of cards in the space regardless of whether they are Scratch or Normal. e.g. a Scratch added to an empty space means there is now one of that number so everyone else takes 1 Flea. A Scratch added to a pile of two before it, means there is now three in that pile and so everyone else takes 3 Fleas Game End When either a player cannot draw cards at end of turn or a player runs out of Fleas, the game ends Except for the Game Ender, everyone else takes a final turn Each collected Cat is a point Fleas gain you points if under 11 Fleas lose you points if over 15 Fleas neither gain nor lose if 11-15 The player with the most points wins! If tied, the tied player with the least Fleas wins!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Played on BGA.  Light card game with non-intuitive rules and not many interesting decisions.\n\n[Rating: 5/10] Light card game trying get rid of bugs by completing runs of cards. It is lucky, party-type game. Not really something I would play.\n\n[Rating: 5/10] [b]Abstract card game where you are trying to shed negative tokens that you start the game with while also picking up positive points by collecting cards[/b]  + I like the core gameplay well enough; a lot of it is about limiting opportunities for your opponent + The two pronged scoring is interesting (shedding your fleas vs. scoring points) + I always like the subtle decision of when do I topdeck  - The scratch cards inject a little too much randomness - The scoring balance feels a little off - it's kind of trivial to prioritize - The deck makeup isn't symmetrical which makes it more difficult\n\n[Rating: 5/10] W grze Scratch & Catch pr\u00f3bujesz pozby\u0107 si\u0119 pche\u0142. Gracz dok\u0142ada dwie karty, z czego pierwsza nic nie robi, a druga albo bierze wszystkie s\u0105siednie karty albo pozwala odrzuci\u0107 pch\u0142y. Ca\u0142a zabawa polega na zarz\u0105dzaniu kartami, zbieraniu ich i tworzeniu sekwens\u00f3w, by m\u00f3c pozbywa\u0107 si\u0119 pche\u0142. Gra jest szybka i przyjemna do rodzinnego pogrania, ale bez polotu. Mo\u017cna zagra\u0107, na pewno nie musz\u0119 mie\u0107 jej w kolekcji.\n\n[Rating: 5.5/10] Designer: Nicolas Boria Playing time: 20-30 Min Weight: 1.30 / 5 Publisher: The Flying Games Player count: 2-6 (best with: 2-3)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: Medium PLAYING TIME: Low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=441764][/thing] is a family card game about hand management and connections. The ideia is that players will have 5 cards hands, and will play two (from hand and/or the draw deck) per turn: the first one without effect, and the second triggering one of two effects:",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 241,
+  "community_word_count": 314,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.239881"
+}

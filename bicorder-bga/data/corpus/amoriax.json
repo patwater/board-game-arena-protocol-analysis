@@ -1,0 +1,19 @@
+{
+  "bga_slug": "amoriax",
+  "bga_name": "Amoriax",
+  "bgg_id": "429439.0",
+  "rules_text": "Rules summary Overview Amoriax is a \ud83d\udc64 2 players player abstract strategy game in which players take turns moving one of their 12 pieces on a 9x9 board in order to be the first to reach the central square. Game Turn Each turn, a player moves a piece into an empty square in one of 3 ways: \u265f Move a piece from one of the 4 corners into the opposite one \u265f If the destination square is outside the marked inner area of the board, make a knight-like jump , going over any other pieces \u265f Slide a piece in any horizontal or vertical direction as far as possible, without going over other pieces or the edge of the board The Red piece that starts in the center of the board is neutral and can be moved by any player. However, it cannot be moved two times in a row. Game End Player who manages to move his/her piece (not the Red one) into the central square of the board immediately wins the game.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Designer: N/A Playing time: 5-20 Min Weight: 1.50 / 5 Publisher: (Web published) Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=429439][/thing] is an abstract strategy game about movement points. In [thing=429439][/thing] the goal is to take control of the crown in the middle of the board through tactical maneuvers. The playing stones only move around the board, that is - they do not jump or get knocked out.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 1,
+  "rules_word_count": 176,
+  "community_word_count": 95,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.341591"
+}

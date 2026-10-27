@@ -1,0 +1,19 @@
+{
+  "bga_slug": "gipf",
+  "bga_name": "GIPF",
+  "bgg_id": "527.0",
+  "rules_text": "Rules summary Standard Rules You start with 3 GIPF pieces (double-stacked pieces) on the board in the starting position, as well as a reserve of 12 single pieces. Each turn, you place a piece from your reserve onto one of the dots surrounding the main hexagonal board. Then you must push the new piece into the playing area along a line connected to the dot, stopping at the first intersection of the board proper. Any pieces ahead of it are pushed ahead along the same line as well, if they are displaced by pieces pushed into them. You cannot push pieces off of the board. Forming a continuous line of four pieces in the player's color results in three actions: 1) All of the normal pieces (friendly and opposing) in the line contiguous with the 4-in-a-row are removed from the board. For GIPF pieces, the player with the completed line may choose to keep them on the board instead. 2) The friendly pieces in the contiguous line are returned to the player's reserves. 3) Any opposing pieces in the contiguous line are captured and no longer available to the opposing player. When two groups of four in a row are created simultaneously: 1) If the groups do not intersect, both are captured. 2) If the groups do intersect, the player of that color may choose which group to take. If a GIPF piece is at the point of intersection, the player may choose to remove one or both lines. In either case, the player also may choose to keep the GIPF piece on the board or remove it with either line. 3) If both players must take pieces, the player who placed and pushed chooses first. All GIPF pieces removed from the board are turned into two single pieces in reserve or capture. No new GIPF piece can be created during the game. There are two victory conditions: 1) The opponent has to move but has no pieces in their reserve 2) The opponent loses their last GIPF piece Tournament Rules The board is started without any pieces. On your first move, you place and push a GIPF piece onto the board. You can follow this up with any number of additional GIPF pieces on your subsequent turns. Once you place your first single piece, you may no longer create any more GIPF pieces.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] I like the rules, but it takes forever to get anywhere. And that's kind of a death sentence when most of this series is so damn fast and approachable. This becomes the kind of abstract you get someone to play once out of curiosity, then never again. Unlike YINSH or TZAAR or DVONN where unsuspecting people immediately want to try it again and go for a new strategy.\n\n[Rating: 2/10] The very definition of abstract. The very definition of boring. The very definition of frustration.\n\n[Rating: 2/10] Boredom in an oversized and overpriced box. This would have been a hit when I was 8 and playing Checkers and the sort.\n\n[Rating: 3/10] Perhaps I misunderstood this game but it is incredibly slow and difficult to create a winning move. Most of the early game is a tit-for-tat to reduce numbers before the strategy begins to become apparent.\n\n[Rating: 3/10] Complete drudgery.   The act of playing the game is one of trying not to give openings to your opponent. There isn't room for strategy, or tactics, or patterned play beside the obvious \"the center is good\".\n\n[Rating: 3/10] Nachdem ich P\u00dcNCT und DVONN gespielt habe ist GIPF mit Abstand das langweiligste Spiel aus der Reihen. Die anderen werden auch auf jeden Fall ausprobiert!",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 396,
+  "community_word_count": 214,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.327934"
+}

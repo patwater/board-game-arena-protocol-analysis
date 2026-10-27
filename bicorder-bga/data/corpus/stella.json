@@ -1,0 +1,19 @@
+{
+  "bga_slug": "stella",
+  "bga_name": "Stella \u2013 Dixit Universe",
+  "bgg_id": "329845.0",
+  "rules_text": "Rules summary Objective Score the most points by guessing what others associate with the clue word. Gameplay The game consists of 4 rounds. At the start of each round, reveal a new clue word. All players see the same word. Each player chooses 1 to 10 cards that they think are related to the clue word, marking each chosen card with a checkmark at the bottom left. Everyone reveals how many cards they chose, and the one who chose the most goes \"in the dark\" . In case of tie, no player goes \"in the dark\" . Starting from the scout, each player chooses 1 of their cards to reveal. If more than 2 players chose the same card, they all get a spark and score 2 points. If exactly 2 players chose that card, they each get a super-spark and score 3 points. If only that player chose that card, that player falls and cannot score any more sparks or super-sparks, nor be the scout this round. A fallen player's cards are still part of sparks or super-sparks. The round ends when all players either fall or have no cards remaining to reveal. During scoring if you are \"in the dark\" (chose most cards) AND you fell, then deduct 1 point for each spark and super-spark. After each round, 5 cards from a row are replaced and the scout goes to the next player. End of the Game The game ends after 4 rounds. The player with the most points wins. If there is a tie, they share the victory.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Skojarzenia i spora losowo\u015b\u0107. Jak co\u015b odgadywa\u0107, to Decrypto, a nie klony Dixita.\n\n[Rating: 4/10] I've got little clue why I'd ever play this instead of just playing Dixit.   The scoring system is a bit funky and convoluted to get the incentives correct to make this work at all, and even then it just is more frustrating than fun to me. You get a bunch of images and a word comes off the deck, and everyone has to try to mark where they think the associations are, but the way scoring works you're kind of incentivized to find a lot of connections, so they try to put in rules to encourage players not to go for too many....  And in the end, that causes a lot of problems that make this game fail \n\n[Rating: 4/10] I only rarely enjoy dixit, but this one feels worse. It's too random to my taste, you need to be lucky what others pick.\n\n[Rating: 4/10] Codenames-style guessing which pictures match a randomly-generated keyword. A bit drab for lacking the creative element, largely coming down to how players interpreted that game-provided keyword. Turn order rotating rather than being tied to the bidding (which has its own separate penalty) also feels like a misstep.\n\n[Rating: 4/10] For these kind of games, I like eclectic card art better, as in Mysterium. Gameplay has too many guardrails compared with Attribute. Play those 2 instead.\n\n[Rating: 4/10] Dixit en moins bien. Les indice sont fix\u00e9s par le jeu. Le scoring est diff\u00e9rent mais autant nul.\n\n[Rating: 4/10] Ranking: :star::star::nostar::nostar::nostar:  Maybe better than Dixit? Enjoyable party game but I'm not really in to that.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 263,
+  "community_word_count": 276,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.132031"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "evogamenoname",
+  "bga_name": "Evo: The \u201cGame no Name\u201d",
+  "bgg_id": "54321.0",
+  "rules_text": "Rules summary Overview The aim is to capture an opponents castle by moving onto it (The castle itself cannot move) Turn On your turn You have 3 options: 1) Rotate a piece 2) Move a piece 3) Move then Rotate a piece Pieces All pieces (except the castle) are essentially identical, the icon which is currently the right way round (aka at the top from your perspective) is the active type, these are split into: Warrior - Moves 1 square Left/Right, Forward, or Diagonal Left/Right forward (5 options) Blade - Moves up to 2 squares forward Catapult - Moves up to 3 squares diagonally forward Shield - The only type which can move backwards, 2 squares straight back or 1 square diagonal back\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 7/10] Almost entirely an SFB and Starfire issue with a one-page fiction by David Weber.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 1,
+  "rules_word_count": 125,
+  "community_word_count": 16,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.354248"
+}

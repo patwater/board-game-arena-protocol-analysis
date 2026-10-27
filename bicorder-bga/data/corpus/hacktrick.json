@@ -1,0 +1,19 @@
+{
+  "bga_slug": "hacktrick",
+  "bga_name": "Hack Trick",
+  "bgg_id": "54321.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Start of a Hand 3 Turns 4 Scoring 5 Winning 6 Additional rules Overview Hack Trick is played with a deck of 18 cards: 3 each of values 0, 1, 2, 3, 4, and 5. There is also a board with squares numbered 1 to 9. Each player has a pool of 10 markers. To win a hand, you must place your markers so that three of them are either on the same square or on three squares forming a row, column or diagonal. Because of the arrangement of numbers on the board, the latter winning condition is equivalent to placing your markers so that three of them are on squares whose numbers sum to 15. Start of a Hand Players take turns being the dealer. The dealer starts with 4 cards, and the other player starts with 3 cards. 2 additional cards are dealt face up and set aside; these are out of play for the entire hand. The player with 4 cards begins the hand by placing one of their cards to start the Row (no markers are placed at this time). Next, each player announces the sum of the three cards in their hand. Now the other player takes their first turn; henceforth, the players alternate turns. Turns On your turn, you may first pay one captured token, if you have any, to learn the sum of your opponent's current hand. Next, you must play or draw one card from the deck. If you play, you add one of your cards to the Row. The card you add must differ from the most recent previous card already in the Row. If you cannot play, you must draw and your turn ends immediately . After playing, you place one of your markers on the square whose number is the sum of the card you played and the most recent previous card already in the Row. If the square contains any of the opponent's markers, you capture them. If your marker completes a row/column/diagonal or triple, the hand ends immediately and you win. To end your turn, you must either Pass (for free); or command your opponent to Play! (costs one unplayed marker of your colour), in which case they must play rather than draw, unless they cannot legally do so, in which case they must either: show their hand and then draw; or Guard! (also costs one unplayed marker of your colour), which prevents your opponent from commanding you to Play! on their next turn. Scoring You receive 1 point for winning a hand. However, if the winning combination included the special marker (labelled \"x2\"), and this special marker was not the last marker played to complete the combination, then you receive 2 points instead of 1. In the event that a player must play but has no marker of their colour left to place on the board, the hand ends immediately and their opponent wins 1 point. Winning The winner is the first player to reach 5 points or more. Additional rules On your turn, if you have 0 cards in hand, you must draw. If you have 4 cards in hand, you must play. If the last card is drawn from the deck, then all but the most recently played card in the row are immediately picked up and reshuffled to make a new draw pile. Play then continues as before.\n\n---\n\nCover artist: Gary Kalin",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 7/10] Almost entirely an SFB and Starfire issue with a one-page fiction by David Weber.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 1,
+  "rules_word_count": 576,
+  "community_word_count": 16,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.016806"
+}

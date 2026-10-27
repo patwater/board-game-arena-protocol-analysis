@@ -1,0 +1,17 @@
+{
+  "bga_slug": "silo",
+  "bga_name": "Silo",
+  "bgg_id": "473007.0",
+  "rules_text": "Rules summary Move your highest checker within a stack to your right one column, carrying with it any enemy checkers that may be stacked above it. Note that since the players are 'sitting opposite' each other, each player is moving in a different direction. Object: Be the first to get all of your checkers into one contiguous column. In other words, a pure sub-stack of only your checkers. Enemy checkers may be above and/or below your sub-stack, but not inside it.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 83,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.374018"
+}

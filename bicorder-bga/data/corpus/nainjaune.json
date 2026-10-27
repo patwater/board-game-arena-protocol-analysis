@@ -1,0 +1,19 @@
+{
+  "bga_slug": "nainjaune",
+  "bga_name": "Nain Jaune",
+  "bgg_id": "13350.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Scoring 4 End Round 5 Game End Overview The aim is to get rid of all your cards first Turn On a turn, as the active player, lay as many cards in a run of any suit as you can, this can start at any point i.e. A start is fine, but also 5 start Note: The original rules state same suit, but the \"modern\" rules state any suit, and this implementation allows any suit. After which, the other players can try to continue, so if you laid A 2 3 4, they can add 5 6 7 ... or just 5 or pass If going round the players, a King is played, that player ends the run and can start a new run in a suit of their choosing If the available cards in hand means no one can continue the sequence, the last player to play a card can start a new sequence Scoring Whoever completes a sequence, either by King or default high card, gets 1 counter of each other player In addition, if the final card was an honour (King, Queen, Jack, 10, 7), they also receive all counters found in the corresponding box End Round The round ends when one player has played all their cards All other players total up their hand debt, Face cards worth 10, Aces worth 1, and number cards their number value. This debt is then paid to the player who emptied their hand A player will have to double their debt if any of the following applies: the player who played their last card was the only player to play that sequence, a player holds the 7 of Diamonds, a player holds an Honour card Game End After the final round is played, total up the points, and the player with the most wins\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] 2015-11-16 : First and only play was over a decade ago and to this date this is the only game I can remember quitting before it ended This is not a game, it's a brainless activity  and should be removed from the BGG database.\n\n[Rating: 2/10] Too luck based. Sounds like some other rulesets offer larger decision spaces, but the concept in general did not appeal to me enough to try to find those rules.\n\n[Rating: 3/10] A card game where players play sequential cards to a common pile, with the occasional choice how to reset the pile, rewarding card counting. You randomly get points for playing certain cards and about as randomly get corresponding penalties for holding them at the end of a hand.\n\n[Rating: 3.5/10] [thing=13350][/thing] is a traditional card game played with a standard deck of cards. The ideia is to play sequences of cards in order to be the first one to shed all the cards in hand, and the first to do this wins the round, and gains points accordingly to what the other still have in hand. There are also points to be gained when playing some types of cards, as each round players bid points to the pot, from which these extra points come from. After a given number of rounds, the person with the most points will be the winner!  The original rules give a more thoughtful and restricted play (an\n\n[Rating: 4/10] [i]2019/09/07 - 1 play at 2p[/i]  A traditional french card game that is very simple and accessible to kids, while still providing some betting and bluffing elements that will keep adults engaged. But it's just not the kind of game that interests me.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 315,
+  "community_word_count": 286,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.255217"
+}

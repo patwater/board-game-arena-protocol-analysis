@@ -1,0 +1,19 @@
+{
+  "bga_slug": "quato",
+  "bga_name": "Qu4to",
+  "bgg_id": "414639.0",
+  "rules_text": "Rules summary The player with the most after 3 rounds wins. In case of a tie, the first player who played all cards in the last round wins. [ Fast tutorial ] Contents 1 Gameplay 1.1 Set 1.2 Pass 1.3 4s 2 2-player Gameplay Before a round starts, everyone must determine using the green side or the blue side. The first player must play a \"Set\". Then, players take turns to choose to player a \"Bigger Set\" or pass. Once all other players choose to pass, the player who plays the card(s) wins the trick and must play a new \"Set\". When only one player still has cards in their hand, the round ends. Players receive scores according to the order they empty their hands. And add up the score earned from \"4\"s. Set To play cards on your turn, you must play a set of 1 to 4 cards. Each set must be cards of the same number or consecutive numbers. If there is a Leader Set on the table, your set must beat it. - Set with more cards beat set with fewer cards. - If the number of card is equal, same number beat sequences. - If the type is also same, higher card values are stronger. Exception: 4-4-4-4 is the highest set in the game. 2 < 6 < 3 4 < 2 2 < 5 6 7 < 1 1 1 < 8 9 10 11 < 11 11 11 11 < 4 4 4 4 Pass If you choose to pass, you must flip a card from your hand or draw a card from the deck and decide to use the green or blue side. 4s If you play a set included 4(s) and beat other set, you immediatly receive 1 point. 2-player In 2-player game, you don't receive any point from playing 4. The lead player of the next round is whom doesn't earn point.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Scout but worse. The way the cards can be flipped doesn't ever lead to a change in decisions (at least in my experience) meaning you really just play the cards you can and hope your hand is better than your opponents'. Fun art though.\n\n[Rating: 4/10] Another card game, where I just play things that I usually have no choice over other than that what I have in my hand.\n\n[Rating: 5.7/10] card management card similar to scout and big 2 each card with 2 sides and can choose which side to play when pass, choose to draw 1 card or flip 1 card whoever plays all the cards win only 4 card to be played at most and rank 4 card is the same for both sides not as much variation as SCOUT\n\n[Rating: 6.3/10] tl;dr: a bit too basic  This is a pretty basic ladder climbing game. Play one or more cards. Larger sets beat smaller sets, sets of equal cards beat runs and tie breaker is the value of the cards in the set. The twist here is that at certain points players can turn over cards to change their value. That sounds like a cool concept for a ladder climbing game. The problem is that the amount of hand manipulation is quite minimal, so players can only do so much to improve their hand and set themselves up for victory. So I found this disappointing. There are plenty of far more interesting ladder cli\n\n[Rating: 6.5/10] Designer: Paulo Oliveira Playing time: 15-20 Min Weight: 1.55 / 5 Publisher: Grok Games Player count: 2-5 (best with: 4)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Medium FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: High REPLAY VALUE: Very high SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=414639][/thing] is an abstract family card game about ladder climbing and hand management. The ideia is that players want to be the first to shed all their cards, and to do so, they will play singles, sequences and sets of cards. After 3 rounds, the person with the most p",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 324,
+  "community_word_count": 348,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.396717"
+}

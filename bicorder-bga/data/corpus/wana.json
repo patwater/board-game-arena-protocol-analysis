@@ -1,0 +1,19 @@
+{
+  "bga_slug": "wana",
+  "bga_name": "Wana",
+  "bgg_id": "364012.0",
+  "rules_text": "Rules summary Contents 1 Game Overview 2 Setup 3 Gameplay 3.1 Movement 4 End of Game & Winning Condition Game Overview Wana is an abstract strategy game where two players maneuver their units across a network of lines. Through tactical positioning, the goal is to eliminate the movement options of the opponent's marbles. Victory is achieved by completely blocking an enemy piece. Setup Each player has 8 marbles of their color. These are placed on the divots at the intersections between the lines. Gameplay Players alternate taking turns. On your turn, you must move one of your marbles. Movement A marble can move as far as you want along the line it is currently on. The marble must move without making any turns. A marble cannot move through or onto the same space as another marble. A marble that travels off the board will reappear and continue traveling from the opposite side of the same line. End of Game & Winning Condition The objective is to trap an opponent's marble by surrounding it with any combination of own or opponent marbles. A marble is considered trapped if it cannot be moved at the beginning of its owner's turn. If you have a marble that cannot be moved at the beginning of your turn, you lose the game. The first player to successfully trap an opponent's marble wins the game.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] It feels like there is a strong tempo aspect to this game, and the first player seems to have an advantage. I might recommend a three-move pie rule to help balance things. That said, it isn't a bad game, but neither is it a great game.\n\n[Rating: 5/10] Designer: Khanat Sadomwattana Playing time: 5 Min Weight: 1.60 / 5 Publisher: (Self-Published) Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK : Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=364012][/thing] is an abstract strategy game about enclosur and pattern movement. The goal is to move your pieces in such a way as to surround and block the movement of a piece - if as the start of a player turn, if he has a lock up piece, he loses!  The basic of the \n\n[Rating: 7/10] Quick little 2 player game.  Definitely keeps you thinking.  Great little abstract game\n\n[Rating: 7/10] Very good game, but after a few rounds, I feel like victory is only achieved through your opponent's mistakes. If both players are experienced, the game can go on for a very (too) long time. I don't see any way to really build up an attack.\n\n[Rating: 7.4/10] A tricky vertigo inducing simple abstract. I really enjoyed this one and it looks really cool.\n\n[Rating: 9/10] Very nice, abstract game, can be short or long, depends how good strategist you are :)\n\n[Rating: 9/10] Bought at CMON 2024, the creator is really friendly and has a handful of promising abstracts under his belt. I've played this one maybe 50 times. Great quick game over coffee",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 231,
+  "community_word_count": 282,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.417396"
+}

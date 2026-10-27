@@ -1,0 +1,19 @@
+{
+  "bga_slug": "thirtyone",
+  "bga_name": "31",
+  "bgg_id": "19957.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Game play 3 Scoring 3.1 Same Suit 3.2 Same Value 4 Turn end 5 Options Objective Score the most points to avoid losing lives. Game play Select 1 action each turn: Swap 1 card in hand for 1 face-up card. Swap all cards in hand for all the face-up cards. Pass for the remainder of the round and keep the cards you have. Scoring Same Suit 2 or 3 cards. Add the values: Rank A K Q J 10 9 \u2026 2 Value 11 10 9\u20262 Same Value Must be 3 cards. Always scores 30.5 . Turn end A player loses a life with: < 21 points, or \u2265 21 points & lowest or tied lowest score. Options Number of players 2 3 4 5 6 7 8 Number of lives 2 3 5 Rule set Schwimmen A commerce game using a piquet pack. Blitz A draw and discard game using a standard deck. Custom Table creator can customize variant options. Exchange mechanism Commerce May exchange 1 or 3 cards with face-up cards. If all players consecutively pass, all face-up cards are replaced. Draw and discard Draw from the deck or discard pile, then discard. Cannot discard the same card taken from the discard pile. Three of a kind Fire Three of a kind: 30.5 points. 3\u00d7 A : 32 points. Three of a kind Three of a kind: 30.5 points. Disabled Remove 2 to 6 Dealer hand exchange Dealer may exchange their hand with 3 cards from the deck before play begins. Draw and discard variant: exchanged cards are shuffled into the deck. Commerce variant: exchanged cards are used as the initial face-up cards. Hand tiebreaker Suit (for regular hands) or the rank (for threes of a kind) breaks hand value ties. 31 affects all other players Round end by closing or 31: player with the lowest hand value loses a life. Round end by Fire: all players except the winner lose a life. Closer rule Tie with the round closer: closer wins the tiebreak. Closer's score is the sole lowest: loses 1 more life. Points limit Round end: players with \u2264 20 points or lowest score > 20 lose 1 life (except the winner). First turn close limit Non-dealers cannot close the round during their 1st turn.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] This is not a game - I don't rate it a 1 because I know people that enjoy it and would probably play it if they insisted. But I would never choose to play it and don't see why anyone would. You might as well play War. Luckily the best play is often to immediately knock and help the game end more quickly.\n\n[Rating: 2/10] Played as what a friend called \"Stop The Bus\" with a single-card discard and minimum 25 for knocking, which was quite a slog.\n\n[Rating: 2/10] Player elimination, can go way too long with too many people, not many decisions, pretty random, uninteresting. I'd be good to never play again but I get why some people enjoy it as a way to pass time with family or for gambling.\n\n[Rating: 3/10] Not sure why you'd ever play this over Rummy, unless you were trying to teach young children a game to lead them into Rummy.\n\n[Rating: 3/10] Used to play it a lot with my mother and father, when we were camping (On my fathers wish). It didn't really appealed to me when I was a kid, and it doesn't appeal to my today, neither.\n\n[Rating: 3/10] [boardgame=88900]Yaniv[/boardgame] is more interesting and not much too complicated for a \"non-gamer\" family audience.  [boardgame=17521]Golf[/boardgame] is better with young kids.\n\n[Rating: 3/10] Decent card game for 2p.  There is luck, there is some card play and there is bluffing.\n\n[Rating: 3/10] Uninteresting game where luck of the draw is way too prevalent with no mitigation and basic decisions",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 387,
+  "community_word_count": 261,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.182989"
+}

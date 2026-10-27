@@ -1,0 +1,17 @@
+{
+  "bga_slug": "quatrix",
+  "bga_name": "Quatrix",
+  "bgg_id": "16095.0",
+  "rules_text": "Rules summary Contents 1 Game Overview 2 Goal of the Game (Instant Win) 3 Gameplay 4 Pro Tips Game Overview Quatrix combines line-building and area control strategy with a forcing mechanic. Every move restricts the opponent's freedom of action. Goal of the Game (Instant Win) You win the game immediately if: You form a continuous line of 4 of your color (horizontal, vertical, diagonal). OR You occupy (capture) 4 squares of the same color (e.g., 4x Blue) with your pieces. Gameplay Place a piece on an empty cell. The symbol on your piece dictates the opponent's mandatory next move: X Symbol: The opponent must place their next piece on a cell in a diagonal line from your piece. Square Symbol (\u25a1): The opponent must place their next piece on a cell in an orthogonal line (horizontal/vertical). Free Choice: If all cells in the required directions are occupied, the opponent may place their piece anywhere on an empty cell. Pro Tips Be careful to not let your opponent capture quickly 3 same colors ! Keep a balance between your X and \u25a1 pieces but force your opponent to spend one of the kind.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 194,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.421846"
+}

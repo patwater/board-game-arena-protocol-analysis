@@ -1,0 +1,19 @@
+{
+  "bga_slug": "heythatsmyfish",
+  "bga_name": "Hey, That's My Fish!",
+  "bgg_id": "8203.0",
+  "rules_text": "Rules summary Each player takes turns to place their penguins on the \"1\" ice floe hexes. Then, take turns to move a penguin in a straight line over a contiguous group of ice floe hexes in any direction, without passing through other penguins. When you move a penguin, you claim the hex that it started its move on. When all penguins are on separate \"islands\" of hexes, the game lets players take turns to clear up those islands individually. Finally, the penguins (who are now all on single hex islands) are removed and claim the hexes they were standing on. Highest total of fish on the claimed hexes wins! (If tied, most individual hexes is the tiebreaker.) Variants Sleepy Penguins : At the end of your turn, you choose which penguin the next player moves on their turn. (You can't choose a penguin that's on an isolated set of hexes, or a single hex.) Pushing Penguins : If an opponent's penguin is adjacent to yours, with water on the other side, you can have your penguin move into their hex to push them into the water, removing that penguin from play. Neither penguin takes the hex it was on. (I think this is how it works in play? I can't find a printed ruleset for the variant.)\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Most games guide the players toward crashing into each other and interacting. Here the arc is that everyone interacts a little at the start, then drifts apart on isolated islands. It feels like a creepy way to indoctrinate kids into Eurogames! I find this game depressing and lifeless, even Checkers has more interaction than this. Go is about claiming territory, but the interaction keeps going up as it progresses. And for a similar theme, Ice Cool is literally about crashing into other players and laughing.  Now noticing it\u2019s by the same designer as Bottle Imp, where players grab points and don\n\n[Rating: 1/10] An obnoxious amount of setup for just an ok 5 minute abstract, the core strategy is cutting off an island all for yourself from the board so there's some engaging positioning to be made to prevent your opponents from doing that while still collecting the high point tiles which makes for a fun couple of plays but quickly loses its interested because the board setup guides your decisions too much. Not in the sense that it's railroaded or the game playing itself, but by assigning calculable point values to the moves  it does rob the game of the difficult decisions that lead to emergent inflection\n\n[Rating: 1.5/10] Deluxe version  It's mean, which I like. But sometimes cutting people off helps them get more points. Not sure about it's merits yet. It's length helps it. I've never found set up to be a bear if everyone helps.   Part of Trade for new copies of the 2 TI3 expansions\n\n[Rating: 2/10] Played only on BSW.  The charming theme can't overcome the fact that this mostly abstract game is about as deep as a glass of water.  Might be suitable for young children to play against each other, but I can't see it working as a parent-child game.\n\n[Rating: 2/10] I can't believe I let my husband talk me into playing/buying this game.  Too cutthroat.  Takes 10 minutes to set up and 5 to play.  Prone to AP problems.  Prone to OCD players fiddling with it too much.  No thanks.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 219,
+  "community_word_count": 352,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.165491"
+}

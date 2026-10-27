@@ -1,0 +1,19 @@
+{
+  "bga_slug": "quantik",
+  "bga_name": "Quantik",
+  "bgg_id": "286295.0",
+  "rules_text": "Rules summary Game play Each player gets 2 spheres, 2 cylinders, 2 cubes and 2 cones in their colour. A random player starts. When it is your turn, you can place a piece on the board, so long as there is not already an opponent's piece of the same shape in the same row, column or region. Game End The first player to place the fourth different shape in a row, column, or region wins the game. If a player cannot make a valid move, they lose.\n\n---\n\nQuantik is a pure abstract strategy game. The goal is to be the first player to pose the fourth different forms of a line, a column or a square zone.\n\nEach turn the players will put one of their pieces on the boardgame. It's forbidden to put a shape in a line, a column or an area on which this same form has already been posed by the opponent. We can only double a shape if we have played the previous one ourself. The first player who places the fourth different form in a row, column or zone wins the game immediately, no matter who owns the other pieces of that winning move.\n\n\u2014description from the publisher",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] I'm always a fan of simple rules that generate deep game play. Quantik has a classic abstract appearance with a simple board and basic 3D pieces. It also has classic abstract rules which are amazingly simple. The board is a 4x4 grid with 2x2 grids in the corners having alternating elevation. There are 4 shapes and each player has 2 of each shape in their color. Each turn, you put a piece on the board. You cannot put the same shape in a row, column or 2x2 area on which this same form has already been added by your opponent; you can put 2 of your own color same shape in the same line or 2x2 corn\n\n[Rating: 3/10] If you like computing decision trees like a computer, you'll enjoy this game. (You won't.)\n\n[Rating: 3/10] I really dislike these movement-less [I]n[/I]-in-a-row games. They feel very static and tedious. This reminds me quite a bit of [thing=681][/thing], from the same series, although they're definitely distinct games.  See my thoughts about other 2-player combinatorial abstracts in my [geeklist=361723][color=#005bca]2-player Combinatorial Abstracts I've Played[/color][/geeklist] geeklist.\n\n[Rating: 3.5/10] It's a fun little puzzle until you figure out how to always win as the second player, at which point it suddenly becomes worthless. It sure does look nice though.\n\n[Rating: 4/10] *4* (Initial plays) Very simple abstract game that kind of feels like tic tac toe. There isn't much room for clever play. It's super quick so I could be talked into it.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 205,
+  "community_word_count": 250,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.040133"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "piratas",
+  "bga_name": "Piratas!",
+  "bgg_id": "311702.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Combat 4 Game End Overview Start Fights with other Pirates to gain Treasure and be the first to hold 5 Treasure at the start of your turn Turn Each turn you can take two actions, these can be either draw a card or play a card Drawn cards come from the facedown deck Playing a card depends on its type Treasure Cards CANNOT be played, instead you are trying to collect them Instants are played to the discard after the effect resolves Crew can be played to an empty Crew space, either your own or someone else's (max 2 per player) Vessels are played tot their spot on your area and have 3 health (max 1 at a time, but you can play a new vessel to replace the current one) A Cannon can be played to initiate combat Combat Active player picks a single opponent to attack Active player places one cannon facedown Active player can place a 2nd cannon facedown if they have both their actions available Defender can pick up to two combat cards to play facedown Reveal all cards and count up shots fired, factor in Crew and Vessel abilities, and the player with the most shots wins the combat (ties go to Defender) The combat loser discards all their crew, except Ghost Crew, and their Vessel takes 1 damage (if this was it's 3rd damage, any cards under it are returned to their owners) All played combat cards are then discarded Combat winner looks at opponent's hand and picks a card to take for themself Game End If at start of turn a player has 5 Treasures in hand, they display these to everyone and win!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Designer: Pedro Sales, Renato Sim\u00f5es Playing time: 10-25 Min Weight: 1.33 / 5 Publisher: Geeks N' Orcs Player count: 2-6 (best with: 4)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Medium FUN: Low INTERACTION: Very high PLAYING TIME: Low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Low[/b]  [b]Comments:[/b] [thing=311702][/thing] is a family card game about set collection and take that. The ideia is that players will draw and play cards, trying to make their ships stronger, to be better prepare against attacks, while also weaking the ships of others; furthermore, players w\n\n[Rating: 5/10] Good amount of interactivity but seems a little too luck dependent for how much fun you'll have. Drawing a bunch of cool/interactive cards makes the game feel great. Getting a bad draw means you sit there and get beat up. Unfortunate.\n\n[Rating: 5.7/10] simple take-that card game with an aim to earn 5 treasure  various cards involve different actions with direct confrontation  easy to teach and highly interactive\n\n[Rating: 7/10] Confesso que a arte das edi\u00e7\u00f5es anteriores me afastavam do jogo, mas agora com essa repaginada no visual resolvi adquiri logo na pr\u00e9-venda. Houve uma melhora not\u00e1vel na produ\u00e7\u00e3o, talvez at\u00e9 o suficiente para justificar a substitui\u00e7\u00e3o das edi\u00e7\u00f5es antigas, caso voc\u00ea j\u00e1 tenha em sua cole\u00e7\u00e3o. Enfim, me agradou bastante, mesmo eu n\u00e3o sendo um grande f\u00e3 de party games.\n\n[Rating: 8/10] \u00c9 um jogo de Take That incr\u00edvel.  Imposs\u00edvel n\u00e3o rir, n\u00e3o se divertir com esse jogo na mesa.  Vale a pena a compra.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 291,
+  "community_word_count": 252,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.406490"
+}

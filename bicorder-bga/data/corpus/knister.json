@@ -1,0 +1,19 @@
+{
+  "bga_slug": "knister",
+  "bga_name": "Knister",
+  "bgg_id": "29355.0",
+  "rules_text": "Rules summary Overview In every round, all players write down the sum of both dice (2-12) on their own score sheet in the blue 5x5 grid. As you play the sum of a pair of dice in a row / column / diagonal row, score them. You get double points for whatever you score on your two diagonals. After 25 rounds, all 5x5 grids are finished. Sum up the score. The player with highest score wins. Finish a row / column / diagonal row Score them with the combination on the left of the sheet. The numbers can appear in any order in the row / column / diagonal. For example, \"a straight without a 7\" can be be 52346 or 10,8,12,9,11. Diagonal rows are worth double points 2er (pair) = 1 point 3er (Three of a kind) = 3 points 4er (Four of a kind) = 6 points 5er (Five of a kind) = 10 points 2er + 2er (Two pairs) = 3 points Full House (2 of one number and 3 of a different dice total, for example 69969) = 8 points Str 7 (Straight with 7, for example 45678) = 8 points Str 7 (Straight without 7 for example ) = 12 points Solo results The publisher lists these tiers for solo play: 50-79: Good 80-99: Very good 100+: Amazing It appears that anything over 50 is a win in BGA's opinion\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Roll-and-Write meets Poker meets Bingo? No room for clever play, too luck dependent on final rolls\n\n[Rating: 2/10] Dice rolling and probability counting game. Can be quite bland once the strategy is out.\n\n[Rating: 3/10] Straight-forward and uninteresting roll and write. Not for me at all but if you are looking for a very distilled experience in the genre this is definitely one to look at.\n\n[Rating: 3/10] Played on BGA.  There's strategy, but I'm not willing to do the math for yahtzee meets bingo.\n\n[Rating: 4/10] If you like Take It Easy you will probably like this game.  Very similar.  I don't care for either one of them.  No need to buy the published game; all you need is pencil and paper and a couple of dice.\n\n[Rating: 4/10] Components: Barest bones components (downloaded scoresheet from the Geek).  Experience: Amusing puzzle. A bit like Tetris, in that I have to put a number somewhere, possibly hosing a row or column. It's interesting to see how different players arrive at different scores, even given the same information.  First Played: 2010-07-31 Last Played: 2010-07-31 Eagerness to Play Again: Eventually  Plays (2): 2 players: 2",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 237,
+  "community_word_count": 195,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.215226"
+}

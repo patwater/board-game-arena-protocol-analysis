@@ -1,0 +1,19 @@
+{
+  "bga_slug": "murusgallicus",
+  "bga_name": "Murus Gallicus",
+  "bgg_id": "55131.0",
+  "rules_text": "Rules summary Rules On a player\u2019s turn, the active player must perform one of the following two actions: 1) Distribute a stack of two owned pieces onto the two nearest squares in any one orthogonal or diagonal direction. Each destination square must be empty or contain a single owned piece (singleton). This implies that distribution is blocked by the edge of the game board, the presence of an opponent piece, or any stack, including owned stacks! Note that the distribution onto owned singletons creates new stacks. Stack size is limited to two. Stacks never consist of opposing pieces. 2) Sacrifice a piece from an owned stack to remove any one orthogonally or diagonally adjacent opponent singleton from the board. Sacrifice cannot be used to reduce opponent stacks to singletons. Sacrifice is not forced by the mere presence of an opponent\u2019s singleton. If at the start of a turn, a player cannot perform either action, the player is stalemated and loses the game. A player wins by Breakthrough, distributing a piece in the opponent\u2019s home row , or Stalemate, leaving the opponent with no moves or sacrifices.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Seems to favor turtling and playing defensively. I have strong distaste for this kind of thing. Otherwise this game has a nifty movement mechanic.\n\n[Rating: 5/10] An alright abstract strategy game.  It was interesting trying to stalemate your opponent while trying not to get stalemated yourself.\n\n[Rating: 6/10] Love the manacala mechanism for moving pieces and it's overall simplicity, but it's not very dynamic.\n\n[Rating: 6/10] Solid abstract that only suffers from a somewhat limited replay value. Luckily, this effect doesn't kick in until you've more than gotten your \"value\" out of the game. Surely worth a try.\n\n[Rating: 6/10] Working abstract that seems to be characterized by an initial rush to the centre followed by a slow process of repositioning, potentially to attack but more likely to outlast the opponent as the available moves run out.\n\n[Rating: 6/10] Designer: Phil Leduc Playing time: 20 Min Weight: 3.10 / 5 Publisher: nestorgames  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=55131][/thing] is an abstract strategy game with no luck, about moving your pieces, both to restrain the possible move of your opponent as well as trying to break through and reach the the home row of his pieces. The first person to reach the home row of the opponent or makes him unable to move, wins!  The mechanics ",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 188,
+  "community_word_count": 238,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.317356"
+}

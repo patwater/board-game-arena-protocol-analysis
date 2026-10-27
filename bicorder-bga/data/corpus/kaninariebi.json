@@ -1,0 +1,19 @@
+{
+  "bga_slug": "kaninariebi",
+  "bga_name": "Kani Nari Ebi",
+  "bgg_id": "436073.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Gameplay 2.1 Sea Current 2.2 Bonding 2.3 Captures 3 Game End Overview Kani Nari Ebi(\u304b\u306b\u306a\u308a\u30a8\u30d3) is a \ud83d\udc64 2 players player strategy game inspired by Hasami Shogi. Each player starts with 5 Crab pieces placed on their home column of the 5x5 board and on their turn moves them attempting to surround and capture the opponent's pieces. Gameplay One their turn, a player must move one of their pieces to another space on the board. There are 2 kinds of pieces that differ in movement pattern: \ud83e\udd80 Crabs move any number of spaces horizontally (but cannot jump over other pieces) \ud83e\udd90 Shrimps move exactly one space diagonally Crabs have an opportunity to promote to Shrimps each time they end their move in the opponent's home column at the opposite edge of the board. Sea Current Each time a piece stops in the middle column, it's forcibly carried away either up or down , up to player's choice, as far as possible without going over another piece or the edge of the board. It's always possible to choose any of the 2 directions, even it if will result in the piece remaining in place. The Current must be resolved before Bonding and Capture checks (see below). Bonding If a piece ends its move near a group of friendly pieces of the same type (all \ud83e\udd80Crabs or all \ud83e\udd90Shrimps) connected orthogonally, the player receives a Bond Bonus that allows them to make another diagonal move with any piece from the group. The Bonded piece is affected by the Current as usual and can be promoted and make an additional Capture if the conditions are met. This effect can only be used once per turn . An advanced game variant allows Bonds between any pieces. Captures When a piece ends its move in the same row or column as another friendly piece and all spaces between them are filled with opponent's pieces , those opponent's pieces are captured and removed from the board until the end of the game. It's equally possible to surround and capture multiple sets of opponent's pieces in a single move. Game End The game ends as soon as one of the players fulfills one of the following win conditions: \ud83e\udd90 Promote 3 Crabs to Shrimps (captured Shrimps don't count) \ud83e\udd45 Capture 3 opponent's pieces \u26d4 Ensure that the opponent does not have any valid moves on their turn\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Designer: \u304b\u3076\u304d\u3051\u3093\u3044\u3061 (Kenichi Kabuki) Playing time: 15-20 Min Weight: 1.50 / 5 Publisher: Game Nowa Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: Low SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=436073][/thing] is an abstract strategy game about grid movement and enclosure. The ideia is to move your pieces in such a way to either capture 3 pieces of the opponent, or to promote3 crabs (by reaching the other side), or to leave the opponent without movements - in \n\n[Rating: 6/10] A cute but rather shallow 2 player abstract game. The size of board and limited types of movement resulted in not incredibly memorable experiences.\n\n[Rating: 8/10] The game is very clever, and it's not that easy to anticipate every possible scenario. A tip for designers looking to launch their game internationally: come up with a name that's easier to remember! ;) You can try the game on BGA.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 3,
+  "rules_word_count": 408,
+  "community_word_count": 167,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.347434"
+}

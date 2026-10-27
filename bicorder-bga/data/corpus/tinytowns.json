@@ -1,0 +1,19 @@
+{
+  "bga_slug": "tinytowns",
+  "bga_name": "Tiny Towns",
+  "bgg_id": "265736.0",
+  "rules_text": "Rules summary Players take turns to be the Master Builder and call a colour of brick. Every player places a brick of that colour in an empty space on their board. If you have bricks in the same pattern as a building template (which may be mirrored, flipped or rotated) you may then choose to build that building. Click on the building's card and then click which space on your playerboard you want the building's tile to be placed. It must be one of the squares that contained a brick you used to build it. Some buildings give points, some give powers, some give both. Bricks do not have to be placed next to one another, you can start different buildings in other places. You can also leave a complete pattern of bricks unbuilt until a later turn. When a building requires another to be \"adjacent\", this means orthogonal (up, down, left or right) - not diagonal. Continue on until all playerboard squares are filled. You will lose points for bricks that do not form a building. Different buildings will be drawn each game.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] :star::nostar::nostar::nostar::nostar:  Good \"roll and write\" game, except the \"roll\" is player deterministic. This makes the game better than many roll and writes.  Still an incredibly dull game. Too solitaire for my taste. The player elimination can be annoying if you got eliminated early and the game drags on for the others.\n\n[Rating: 1/10] While playing games cannot forget that AEG has poor customer service, works basically for US.\n\n[Rating: 1/10] Boring bingo style VP optimization puzzle, I see no reason to return to this one as you've seen all the game has to offer on the first play.\n\n[Rating: 2/10] Pick a colored cube and stick it somewhere on your board hoping to match it with various patterns selected for the game and which give you scoring opportunities.  Everyone else has to take the same colored cube and place it too.  Then the next player goes.  Complete a pattern, remove those cubes and put a building on one of those squares.  The buildings may give you end game points if they're placed just right.  The is one of the most awful, stupid, and random games I've ever played.  Add to that the fact that at least one player is going to take forever to decide what color to take and/or whe\n\n[Rating: 2/10] 05/21/19 Played Tiny Towns. To me its not a game (as there is virtually no player interaction), just an activity. I was bored the whole game. I hope to never see it again.\n\n[Rating: 2/10] Not intuitive for new players. Not a very good gateway game but also not a lot of depth for experienced players.\n\n[Rating: 2/10] Not crazy for spatial games I think or for tetris like games either and hated the spatial aspect and difficulty to plan in my 4p game since you cant really predict what other colors people pick. Came 3rd ish, I think.   Plays: 1\n\n[Rating: 2/10] For a simple little city building game there is a fair amount of depth and potential for clever forward planning. For a light game there is a good amount of player interaction, trying to choose blocks in the order you need but not that your opponents need.  Unfortunately tiny towns has a couple of glaring issues, firstly the monuments don't seem even remotely balanced, clearly 0 playtesting done on this. Without them though everyone has the same starting board state and no reasons to pursue different layouts.  Secondly the game incentivises you adding a cube at the wrong time, if your successf",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 186,
+  "community_word_count": 420,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.160238"
+}

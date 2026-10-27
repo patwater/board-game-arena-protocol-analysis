@@ -1,0 +1,19 @@
+{
+  "bga_slug": "connectsix",
+  "bga_name": "Connect6",
+  "bgg_id": "22847.0",
+  "rules_text": "Rules summary Contents 1 Players and stones 2 Game board 3 Moves 4 Winner Players and stones Connect 6 is a two player game. Each player plays with stones, as in Go and Gomoku . Game board Connect6 is typically played on a go board. Moves Black plays first, putting one black stone on one intersection, then White and Black take turns to place two stones on unoccupied intersections each turn. Winner The player who is the first to make a line of at least six stones (horizontally, vertically, or diagonally) wins!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Abstract game far removed from the modern board game style. It consists of forming a chain of six elements of your color. Alternatively 2 pieces are placed, trying to block the opponent or create possibilities to complete your chain.\n\n[Rating: 3/10] Go-Moku with dual stone placement. Basically the same \"first mistake loses\" kind of game, drawish on small boards.\n\n[Rating: 4/10] [thing=22847][/thing]  has very simple rules: place stones, win by making 6-in-a-row.  Abstracts, on general, are already a niche that while I respect (usually deep games, with amazing replay value, all with minimal rules), I don't find fun. It is an exercise for the mind, and when I play, I often don't want force my brain, specially in a 1x1 battle.  Thus, [thing=22847][/thing] ended up in a pile of OK abstracts, that I can play from time to time. Yet, differently from several others, often the first half of the game falls into boring build up, with a not so intense finish.\n\n[Rating: 4.5/10] I've only played a few games of this so far but it's not what I'd call a very interesting game. It obviously has a fair amount of depth and we are still novices so the games end rather quickly based on our novice mistakes but I can see veteran players having some crafty games of this.   Certainly the rules and gameplay are VERY easy to grasp and the game can be played with a few stones/bits from other games on either a Go board or on any homemade 19x19 grid.  The game so far just isn't something I can really get interested in but maybe with more future plays it will improve. So far for me it's\n\n[Rating: 4.8/10] With Cannon as one of the best 2-player combinatorial games created in the past 10 years.  C6 completely obsoletes Go-moku for me.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 94,
+  "community_word_count": 307,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.321868"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "gorami",
+  "bga_name": "GORami",
+  "bgg_id": "121011.0",
+  "rules_text": "Rules summary GORAMI is a strategy game for 2 persons from the box \"Gurami - The Game\" containing 3 games based on the Gurami puzzles. There are 3 boards to choose from which differ in the amount of triangular fields (16, 22 or 24). The players choose a colour (yellow or blue) and receive sets of discs each with the numbers 1, 2 and 3 (3 sets for the 16 field board, 4 sets for the other). Turn by turn the players place discs on the board with the goal to conquer more stripes than the opponent by having higher sums of one's own gaming pieces. A stripe is an area containing all adjacent fields in one of the three possible directions. The placing rules are simple: ~ Every field can just take 1 disc. ~ It is forbidden to place same numbers on neighbouring fields (regardless the colour). It is possible to capture discs : ~ If you place a disc on the last empty neighbour field of an opposing piece, the piece is turned to one's own colour. ~ If it is one of your own pieces, nothing happens. The game ends when all fields are filled , or if both players cannot place another disc. The pieces in every stripe are summed up. The higher sum is marked with a coloured fish token. The player who has collected more fish tokens wins. In case of a tie the player with the higher sum on the middle fields (these are all fields without connection to the border; for the 22 field board it is a triangle consisting of 4 fields, for example) wins. If the score is still tied, the game ends in a draw.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Interesting concept but it's not very fun.  Basically a simplified sudoku puzzle against an opponent.\n\n[Rating: 3/10] BGA: Perhaps too simple. I find this one frustrating and too limited. First player has a HUGE advantage.\n\n[Rating: 4/10] Two-player number puzzle which didn't grab me. Possibly a little too abstract for my tastes.\n\n[Rating: 4/10] [thing=121011][/thing] is three games in one box, all being puzzly types of games. The main attraction is the Gorami, a 2 players game in which the objective is to conquer more stripes than the opponent by having higher sums of one's own gaming pieces.  The best thing I can say about it is that [thing=121011][/thing] works. But I don't particularly enjoy abstracts, and these have less teeth (and depth) than several others in the genre.  Mostly a mathematical effort than an actual fun game. Can have uses as an educational tool, however.\n\n[Rating: 4/10] Too simple and also a little too abstract for an abstract game? I don't know how else to describe it, but the puzzle of the game is just uninteresting.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 289,
+  "community_word_count": 179,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.359266"
+}

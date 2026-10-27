@@ -1,0 +1,19 @@
+{
+  "bga_slug": "baolakiswahili",
+  "bga_name": "Bao la Kiswahili",
+  "bgg_id": "14186.0",
+  "rules_text": "Rules summary Setup: Each player owns one half of the board consisting of 2 rows with 8 bowls each. Each bowl takes two stones. The first row is the one next to the opponent\u2019s bowls. Move selection: A player selects one of their bowls containing at least two stones for starting their move. Then they select one of the neighbor fields to determine the direction of the move. The move can be canceled by selecting the same field again. Move execution: All stones from the selected bowls are taken and then starting with the selected neighbor field, they move around the player\u2019s two rows in a circle, leaving one stone in each bowl. When the last stone is put into its bowl, the move either stops if it was empty before, or continues in the same way, by emptying the respective bowl and move further in the same direction, leaving stones in each bowl. If the latter happens with a bowl in the player\u2019s first row and the opponent has stones in the directly adjacent bowl, they are taken as well for the move. End of game: A player has lost if their first row is empty, or they have no bowls left with more than 1 stone.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] + All in all, a better version of the original (solved) mancala game  - Still super-dry and repetitive\n\n[Rating: 4/10] The game is very random. It's very hard to predict the outcome of a particular move since a move may trigger hundreds of other moves.\n\n[Rating: 4.5/10] anthropologically interesting, Bao is ludically a pain. Just to understand what will happen after Your move is often an exercise in memory and math. You have to keep track in your mind of the number of seeds in all the holes as you go sowing here and there... really not for me!\n\n[Rating: 4.5/10] Designer: (Uncredited) Playing time: 40 Min Weight: 3.50 / 5 Publisher: (Public Domain)  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Medium LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=14186][/thing] is an abstract strategy game about mancala. The idea is to move your your pieces in order to take hold of those of the opponent, as the first person without pieces in their first row, will lose.  The mechanics are simple, very easy to teach and play. As is a feature in many strategy abstrac\n\n[Rating: 6/10] I wish I could work out how to play this game well - it all seems a bit random at the moment.\n\n[Rating: 6/10] Funny, portable, a mix of fortune and mind. I have two, one big and one little that i take with me when i flight.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 210,
+  "community_word_count": 248,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.322653"
+}

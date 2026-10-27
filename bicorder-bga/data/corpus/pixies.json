@@ -1,0 +1,19 @@
+{
+  "bga_slug": "pixies",
+  "bga_name": "Pixies",
+  "bgg_id": "411875.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Round end 4 Game End Overview The game plays over 3 rounds Turn On your turn, take a card from the display and place it in your area, whoever chose last chooses first next To place a card there are a number of conditions Firstly, if the number on the card matches a number in your grid, it will be placed in the empty space If the grid space is filled with a facedown card, treat it as empty and place it there If the grid space is filled with a faceup card, pick which one to keep faceup and the other goes facedown under it (so either the old or new card could be faceup) If the grid space is filled with a faceup card with a facedown card under it, it is considered validated, and as such the new card has to go facedown on an empty space Round end The round ends when a player has at least 1 card in all 9 spaces Validated cards (faceup cards covering a facedown card) score the number on the faceup card Spirals visible anywhere score 1 point each Crosses visible anywhere lose 1 point each Condition cards score based on their condition e.g. 1 point per faceup The largest orthogonally adjacent same colour faceup cards score 2/3/4 points per card in round 1/2/3 Don't forget that multicoloured cards count for wherever they're needed Note down the round scores, shuffle all the cards, and start a new round Game End Once three rounds are finished and scored, the player with the most points wins!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Sorry Folks, but this Game is about as entertaining as tidying up your room. When doing the latter, at least you have a decision to make from time to time.  There are similar but more entertaining games around (like Skyjo)\n\n[Rating: 2/10] So much randomness. You pick a card and just undergo it. The design is unique (but not particularly nice).\n\n[Rating: 2.5/10] Jeu de draft ultra m\u00e9canique. Sans twist. Sans imagination. Ca fonctionne mais \u00e7a n'a aucun int\u00e9r\u00eat.\n\n[Rating: 3/10] C'est beau, c'est magnifique m\u00eame (bravo \u00e0 l'artiste), mais en terme de jeu c'est vide. Du hasard complet, l'issue des parties est d\u00e9cid\u00e9e au tirage des cartes. Passez votre chemin, ou achetez le bouquin de l'illustrateur si se sont les graphismes qui vont ont s\u00e9duits.\n\n[Rating: 3/10] It's quick and not too hard on the noggin.  Occasionally you have tough choices but mostly obvious. Probably better at 2 than 3p.\n\n[Rating: 3/10] Pixies tries to be whimsical but ends up feeling chaotic and shallow. The randomness overwhelms any strategic decision-making, making it frustrating rather than fun. Art so sick,\n\n[Rating: 3/10] Played at 3 player count. 3 rounds, the scoring takes as long as to play a round ! score each round of players, then add up all 3 rounds for final score is bothersome. So the scoring has put us off forever playing again . . .\n\n[Rating: 3/10] Boring hate drafting game with obvious choices and no tension. You also cannot think in advance and make any strategy, because there is no way to know what cards will randomly be drawn",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 274,
+  "community_word_count": 266,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.093156"
+}

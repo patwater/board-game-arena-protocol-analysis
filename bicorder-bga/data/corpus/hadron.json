@@ -1,0 +1,19 @@
+{
+  "bga_slug": "hadron",
+  "bga_name": "Hadron",
+  "bgg_id": "368118.0",
+  "rules_text": "Rules summary INTRODUCTION Hadron is a two player game played on a 5x5 (or 7x7...) square board, initially empty. The two players, Red and Blue, take turns adding their own tiles to the board, one tile per turn, starting with Red. If you have a placement available, you must make one. Passing is not allowed. Draws cannot occur in Hadron. PLACEMENT RULE You can place a tile in isolation, not adjacent to anything. Or you can place a tile to form one (horizontal or vertical) adjacency with a friendly tile and one adjacency with an enemy tile. Or you can form two adjacencies with friendly tiles and two adjacencies with enemy tiles. OBJECT OF THE GAME The last player to make a placement wins. If you don't have a placement available on your turn, you lose.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Designer: Mark Steere Playing time: 15 Min Weight: 1.75 / 5 Publisher: Mark Steere Games Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Low INTERACTION: Low PLAYING TIME: Low LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=368118][/thing] is an abstract strategy game about tile placement. The idea is place your pieces in such a way that you will be the last to add on the board, a once the other person is without placement, the last one that added a piece to the board will be the winner!  The mechanics \n\n[Rating: 4/10] Only played once on BGA, maybe it needs more plays to appreciate the depth, but after one try it didn\u2019t stand out\n\n[Rating: 4/10] A simple Connect Four like abstract game. It's an interewting twist that placement adjacent to other tiles is limited by co ditionx that can be manipulated by the opponent,  but in the end there doesn't seem to be much deeper tactics behind play.\n\n[Rating: 4/10] Something about the flow of the game feels very similar to the Dots and Boxes game. As you play, the large majority of the beginning of the game feels inconsequential and the ending comes down to just mapping out a few moves to get your opponent stuck.\n\n[Rating: 5/10] It's an easy-to-learn abstract, but not one I'd likely play again. There are other Mark Steere games I enjoy much more.\n\n[Rating: 5/10] Simple abstract that works.  I liked how the board opens or closes based upon your moves.  Would play again.\n\n[Rating: 6/10] 2-player abstract area-control game each player takes turns to play a piece to fulfill the requirements whoever cannot makes a legal placement loses the game a bit dry and similar to other games like chess\n\n[Rating: 6/10] The goal of the game is to be the last player to have a valid move. To play a piece, it must be adjacent to an equal number of your pieces and your opponents pieces (including diagonals). It seems to be similar to The Game of Nim, but it's just tough for me to see the moves ahead. I like trying out games like this, but this one is one of my least favorite variants.\n\n[Rating: 8/10] Bonus star for the minimalism. This is not a bad game at all; it's fascinating - perfect for my Kanare Abstract generic board.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 9,
+  "rules_word_count": 138,
+  "community_word_count": 404,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.338500"
+}

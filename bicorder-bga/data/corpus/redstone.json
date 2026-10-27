@@ -1,0 +1,19 @@
+{
+  "bga_slug": "redstone",
+  "bga_name": "Redstone",
+  "bgg_id": "120533.0",
+  "rules_text": "Rules summary Redstone is a variation of Go in which red stones are used to capture. Red stones are permanent. They cannot themselves be captured. Redstone is a game of annihilation. The goal is to eliminate all enemy stones from the board. Passing is not allowed. Redstone is naturally finite. So there's no need for ko. A capturing placement results in one or more groups, of either or both colors, having no liberties. Such a placement can only be made with a red stone. Conversely, a red stone can only be placed if it bounds (completely deprives of liberties) one or more groups of either or both colors. Self capture is allowed. When multiple groups without liberties result from a placement, all such groups are removed immediately following said placement, regardless of the groups' colors. Unlike Go, if you unbound your own temporarily bounded group by removing a neighboring enemy group, you must still remove your own temporarily bounded group. Since Redstone is a game of annihilation, not of point score, Go\u2019s komi is not needed. Redstone uses the pie rule for balance. http://www.marksteeregames.com/Redstone_rules.pdf\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] This game is just a variation of Go. I am a core Go player (around 5 Dan), played 20 years and over 10k games I played this game last night on BGA, strong recommend not playing this game bigger than 7x7 unless you have a lots of time Time wasting for this game and I don\u2019t think it is a good variation of Go. I will not play again for this game.\n\n[Rating: 1/10] Okay I do own it since I have go but I'mma remove it from \"owned\" on here along with some other other awful go variants that I never ever wanna play.\n\n[Rating: 2/10] Having played an inane game of this Go variant I will now proceed to never do so again.\n\n[Rating: 4/10] Designer: Mark Steere Playing time: 45 Min Weight: -- / 5 Publisher: Mark Steere Games  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Medium LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=120533][/thing] is an abstract strategy game about eclosure and capture. The idea is to place your pieces to surround pieces of the opponent and take them off the board, while also securing places in such a way for your pieces to not be taken out. Once the game is over, whoever has the most pieces on the boar\n\n[Rating: 4.567/10] Not my fav of Mark's.  Too long, bit fiddly, cute idea but needs undo as some bits were unclear\n\n[Rating: 5.5/10] It's a Go variant. Playing online is fine. I don't think I know anyone who would have the time and patience to play this with me and keep track of all those stones in person.\n\n[Rating: 8/10] Well I own Go board and red stones, so I own this.  As a Go variant this looks outstanding.  Rating based on ruleset.\n\n[Rating: 9/10] Fascinating reimagining of Go.   Go is my fave game (10/10).  + the redstone/annihilation is slightly easier to explain than ko+superko/territory + the red stones change the game enough to require some new strategies.  - needs more components?   I would be interested to see what would happen if Go experts studied this game properly for a year, but I doubt that will ever happen.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 186,
+  "community_word_count": 376,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.379231"
+}

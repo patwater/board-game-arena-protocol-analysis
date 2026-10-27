@@ -1,0 +1,19 @@
+{
+  "bga_slug": "personanongrata",
+  "bga_name": "Persona Non Grata",
+  "bgg_id": "315747.0",
+  "rules_text": "Rules summary The Game Round - All players play simultaneously. - Each turn (day), players select one Information card and one Action card and place them face down. After revealing, they execute their actions: Download: Reveal and place the Information card in your play area. Encrypt: Place the Information card face down in your play area. Send (Left or Right): Reveal and place the Information card in the player\u2019s play area to your left or right, respectively. - Players pass remaining Information cards to the next player (clockwise/counterclockwise based on the week). - The week ends after all Action cards are used. Last card in hand is discarded. Archiving Information - Reveal all Encrypted cards. - Compare relevance points of Information cards for each corporation. - First-place player archives the top Corporation card; second-place player takes the Key card. - If a tie occurs, the player with the Key decides the winner. End of the Game - The game ends after three weeks. - All remaining Information cards are archived. - Players gather archived cards, activating corporations with an Activator (any Corporation card or Worker). - Score based on activated cards and Key cards (1 point each). - The player with the highest reputation points wins. Tiebreakers are the number of activated corporations, then Key cards, and finally sharing the victory.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Designer: S\u00e9rgio Halaban Playing time: 20-25 Min Weight: 1.30 / 5 Publisher: Dijon Jogos Player count: 2-4 (best with: 2)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Medium REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=315747][/thing] plays quickly and have a pretty good amount of interaction and choices made in its time frame. Still, the gameplay lacks elements to really grab attention and something that takes it above the rest, in order to be remembered and played over so many other\n\n[Rating: 5/10] Set/Point-collection based on card colors and scores. It has some moments of cleverness, but it is not very exiting as whole.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 2,
+  "rules_word_count": 223,
+  "community_word_count": 117,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.402749"
+}

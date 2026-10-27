@@ -1,0 +1,19 @@
+{
+  "bga_slug": "djambi",
+  "bga_name": "Djambi",
+  "bgg_id": "17691.0",
+  "rules_text": "Rules summary Rules The rules ( https://en.wikipedia.org/wiki/Djambi ) leave space for interpretation on some fine points of the game. Choices made for the BGA implementation are the following: - you can kill your own pieces , except the leader (sometimes sacrifice is necessary); - the Reporter has the choice not to kill (the Press is not above making some arrangements with political parties); - a Chief is eliminated if fully entrapped by corpses with no Necromobile left in play; - the master move of the Diplomat is available (removing a Chief from the Maze, then replacing them by another Chief when leaving the Maze); - the master move of the Assassin is available (killing a Chief in power, then killing another Chief when leaving the Maze and setting up their corpse in the Maze as a puppet regime!) - when only two players are left, if chief A enters the maze, the next turn will be for player B , before player A gets two consecutive turns. Credits Illustrations for the \"Whimsy\" theme (see game preferences) have been created by Reno ( http://reno-pixellu.com/blog/ ), Boulet ( http://www.bouletcorp.com ) and Lucie Albon ( http://www.luciealbon.net/ ).\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] I think abstracts should be played with 2 players. I don't like politics in most games and this is definitely one of it.\n\n[Rating: 3/10] Maybe this would be a better game if all players were at the same skill level.  Unfortunately, the game balance is very fragile, giving HUGE advantages to the players that play after the weak players.\n\n[Rating: 5/10] An alright abstract war game.  I like that when you take over an enemy their pieces become part of your army.  I dislike that you only get one turn though as the first person to get a person to submit will then be targeted 2-1 and it's then very unlikely that they'll win.\n\n[Rating: 6/10] Designer: Jean Anesto Playing time: 60 Min Weight: 3.33 / 5 Publisher: Salvador Gadea SA (Gadea Games)  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Medium FUN: Medium INTERACTION: High PLAYING TIME: Medium LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=17691][/thing] is an abstract game with no luck, about moving your pieces around, in order to capture the Leader of the other players, both to eliminated them as well to take control of their remaining pieces.  Pieces have different movement paterns and effects, and is up to the players \n\n[Rating: 6.5/10] rescatado de los trastos del vecino que iban a la basura..  se necesita ser 4 y pensar mucho.  ME gustaria jugarlo.  Se perdi\u00f3 en una mudanza..tragedia..pero finalmente apareci\u00f3. jugado antes de usar bgg\n\n[Rating: 6.5/10] Takes a while, bit of downtime, I love the corpse blocking elements and how pieces are released as they are freed :)  Digital",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 196,
+  "community_word_count": 271,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.350509"
+}

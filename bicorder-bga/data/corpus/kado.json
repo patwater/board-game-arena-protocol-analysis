@@ -1,0 +1,19 @@
+{
+  "bga_slug": "kado",
+  "bga_name": "Kado",
+  "bgg_id": "428317.0",
+  "rules_text": "Rules summary Cards have three characteristics: a value from 1-5, a ribbon in one of five colors, and one of five objects. Players take turns being the giver, and when you're the giver, you draw a card, look at it in secret, then give it to someone face down; this player can look at their card. Once you've given everyone (including yourself) a card, the player to your left can try to swap gifts with you. If they want to, they name a color and object; if either of them match the gift you gave yourself that turn, you must swap cards, then everyone adds their card to their display. If they fail to name either your gift's color or object, the next player can try. (If someone guesses both color and object, they receive a face-down card as a 2-point bonus at game's end.) After twelve rounds, everyone will have twelve cards in a grid that's three rows tall and four columns wide. If all the ribbons in a column are the same color, you score points equal to the highest value in that column. For each row, choose an object in that row, then sum all of the values on cards that show that object.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Wow, I didn't realize Spicy could be made far far worse. Now you assemble stuff in a grid and count up a VP salad! Drifting even further away from the bluffing game, even though it's technically still there. But do you really want to study someone's grid just to figure out what VPs they might be going for? Not that they have much control over that, since it's severely restricted how to distribute cards.  That's.... that's not kado. I think Bauza is just grabbing random Japanese words he finds on the internet at this point.\n\n[Rating: 3.5/10] Designer: Antoine Bauza Playing time: 15 Min Weight: 1.15 / 5 Publisher: Lumberjacks Studio Player count: 2-5 (best with: 3)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Low FUN: Low INTERACTION: High PLAYING TIME: Low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=428317][/thing] is a family game about tile placement, set collection, push your luck, challenges and connections. The ideia is that players will draw and receive tiles, and with them, they will try to make the best board, both by matching ribbons on a column and matching\n\n[Rating: 4/10] Deduction and blocking game that is really simple to set up. Combines many elements and distills the good stuff.\n\n[Rating: 4/10] Not a terrible idea but... Antoine Bauza? Hmm. I guess this continues a trend of me feeling like his games are a bit underbaked. Here you do a Biblios style gift and then each player can try to guess what you kept for yourself to steal it. You score rows and columns. There are two problems. First, the guessing is really, really difficult to both get right and also to even incentivize going for in the first place. Second, the scoring isn't compelling. The properties of tiles don't overlap making the scoring pretty boring. The scoring reminds me of Pixies in the sense that categories have differ\n\n[Rating: 5/10] It's fine for what it is and it does play quickly. I'm still not sold on the challenge mechanic - I like the idea of it but not so sure that it's overly effective other than taking a gamble.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 209,
+  "community_word_count": 362,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.280357"
+}

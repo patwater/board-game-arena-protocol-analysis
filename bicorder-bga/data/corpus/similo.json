@@ -1,0 +1,19 @@
+{
+  "bga_slug": "similo",
+  "bga_name": "Similo",
+  "bgg_id": "268620.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Setup 3 Gameplay 4 End of the Game Objective Similo is a cooperative game that all players win by identifying (NOT selecting) the secret character. Setup One player is the clue giver and other players are guessers. The clue giver draws a hand of 5 cards. A 3x4 grid of cards is dealt out, with one card being highlighted (to the clue giver only!) as the secret character (indicated by an exclamation point). Gameplay The game consists of 5 rounds. At the start of each round, the clue giver plays a card from their hand either vertically (to convey that the secret card has \"something similar\" to the secret character) or horizontally (\"something different\"). Then they draw 1 card. The guessers discuss and decide which cards are not the secret character. They then remove a number of cards (1 first round, 2 second round, 3 third round, 4 fourth round, 1 last round). If the removed characters are not the secret character, the next round starts. Otherwise, the game ends. End of the Game If the guessers remove the secret character at any point during the game, all players lose. If the last character remaining is the secret character, all players win.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] One player gives picture clues to others from round to round and you try to solve game so that exactly one picture stays on the table all the time. Too straight forward and unexciting. Not for me, sorry.\n\n[Rating: 3/10] This game is better with Dixit cards. But I do like the board games variant. Own '22, '23 and '24\n\n[Rating: 3/10] I don't even really remember my plays of this and they weren't that long ago. I just remembered being deeply bored with it.\n\n[Rating: 3/10] It is...a game...cooperative Dixit style game...It reminds me of Mysterium which I don't like. Very cheap game anyway, if you want a gift for your friend's kid you can buy this one. It is not that bad.\n\n[Rating: 3/10] [2022-06-05] 1@2p: I don't care for the edgy / vibrant art, but worse, the core game has little charm for me. I seem not to do well at any communication limits cooperative games, possibly because I have autism or because I have so shrunk from society. But even if I could do well, I can't see anyone having more fun with this than with The Mind.\n\n[Rating: 3/10] I'm not a fan. I just don't get the appeal as it's far too ambiguous and subjective of what \"similar\" or \"different\" is to each person. It's like dumbed down version of codenames that takes away all the creativity and fun.\n\n[Rating: 3/10] This is a train wreck for anyone other than Fantastic Beasts super fans - and who is that?  There's so many forgettable characters from that movie with similar names, this is only going to be playable in very specific groups.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 210,
+  "community_word_count": 279,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.157468"
+}

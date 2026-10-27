@@ -1,0 +1,19 @@
+{
+  "bga_slug": "edgecut",
+  "bga_name": "Edgecut",
+  "bgg_id": "474648.0",
+  "rules_text": "Rules summary Edgecut is an OCG. An orthogonal connection game. Brown is trying to form an (orthogonally interconnected) path of brown stones connecting the top and bottom brown edges. Blue is trying to connect the left and right blue edges with a path of blue stones. The mechanism for determining legal moves is complicated and is described in the rule sheet. But legal moves are highlighted in pink, and most moves are legal. So you just have to swap two stones that are highlighted.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] a game that needs an unreasonably large board and a significantly long and drawn-out setup phase.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 1,
+  "rules_word_count": 86,
+  "community_word_count": 18,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.424299"
+}

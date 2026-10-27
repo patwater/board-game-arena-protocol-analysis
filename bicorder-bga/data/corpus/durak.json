@@ -1,0 +1,19 @@
+{
+  "bga_slug": "durak",
+  "bga_name": "Durak",
+  "bgg_id": "29351.0",
+  "rules_text": "Rules summary Overview Attack and Defend with your cards, if you win against an attack you get a go, if you lose against an attack you are skipped. Cards are 6-A with trumps. Turn The active attacker plays any card of their choosing The player to their left is the defender To successfully defend, you must either play a higher rank card or a trump If you fail to defend, you must take all played cards into your hand. In addition, other players may give the defender cards from their hand if they match the rank of an attacking or defending card played so far. Then the player to the defender's left becomes the new attacker If you successfully defend, the original attacker has the opportunity to attack again. However, for every subsequent attack, the rank of the new attack card must match a card already played (attack or defend). If the current attacker cannot meet this requirement, the attack opportunity passes to the player on the defender's left and so on to give all other players a chance to attack. The maximum number of attacks across all players for a round is 6. However, if all other players pass consecutively, the round may also end early. If the defender successfully defends against 6 attacks, or less if the attackers forfeit, all played cards are discarded. The defender becomes the new first attacker, and the player to their left is the new defender. Regardless of whether a round of attacks ended in success or defeat for the defender, all players draw up to a minimum hand size of 6. The original attacker draws first, followed by the other attackers in clockwise order, finally the defender draws. This is mainly to facilitate order of draw for when the deck is running out. The last player still holding cards after the deck runs out loses.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Fun game, but if I were pulling out the deck in this situation I'd propose Shithead.\n\n[Rating: 2/10] It is just not a good game. There are much better games if you just have a deck of cards.\n\n[Rating: 2/10] Feels like a slightly evolved version of War with multiple unnecessary rules. Sorry Russia.\n\n[Rating: 3/10] Played twice because friend wanted to play, but it's not quite for me. I generally don't like games where you are trying to get rid of your hand but could end up drawing more cards due to other players attacking you (like Uno), and I think it's fine as far as \"play same number/trump type card\" to defend/transfer the attack, but if I were to play a trump game, I'd much prefer The Crew for its design and different missions.\n\n[Rating: 4/10] I would prefer to play the similar Scandinavian Svarta Maja/Mustamaija for sentimental reasons.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 315,
+  "community_word_count": 153,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.298764"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "modten",
+  "bga_name": "Mod Ten",
+  "bgg_id": "378106.0",
+  "rules_text": "Rules summary Contents 1 INTRODUCTION 2 DECK 3 BGA DECKS 4 RANKS 5 PLAY 6 OBJECT OF THE GAME 7 Dealer Selection INTRODUCTION Mod Ten is a shedding card game for 2, 3, 4, 5, or 6 players. DECK Either a single, or double stripped deck is used. In a single deck, the following cards are removed All games: 5s, 10s, and face cards. 3/5/6 player games, additionally: The Ace and 9 of Spades. In a double deck (BGA default) deck, the following cards are removed All games: 10s and face cards. 3/5/6 players games, additionally: The Aces and 9s of Spades, Clubs and Diamonds BGA DECKS N players, deck 2 - single w/o 5s,10s, face cards. 3 - single w/o 5s, 10s, faces; Ace, 9 of Spades. 4 - double w/o 10s, faces. 5, 6 - double w/o 10s, faces; Ace, 9 of S, C, D. RANKS High to low: 9, 8, 7, 6, 5, 4, 3, 2, Ace. Suits are irrelevant. PLAY The player to the dealers left leads by placing any card from their hand face up on the table. Continuing clockwise, players must follow suit if possible. If not, their turn is skipped. If your played card brings the sum of table cards to a multiple of 10, you collect all the table cards, place them face down on the discard pile, and lead another card of any suit. OBJECT OF THE GAME The first player to play their last card wins the game. Dealer Selection The dealer of the first hand of the game is selected at random, in subsequent hands it will be the player to the right of the last player to shed a card in the previous hand.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Simplistic shedder, played on BGA, not a lot here.  Perhaps with a larger group it might be more interesting.\n\n[Rating: 3.5/10] Played a couple of times on BGA and it was, well, kind of boring. Gameplay is too simplistic and repetitive: just consult what was played to try to prevent the next person to make a 10 and do what they want.  A match is, at least, very short. Is likely better live, in which memory (remembering what was already played) would have a part. As it is, [thing=378106][/thing] is a pass.\n\n[Rating: 6/10] This is a very simple French-deck shedding game, where you play one card at a time, matching suit with the previously played card (otherwise you lose a turn). Additionally, whenever the total ranks played to the pile reaches a multiple of 10 (hence the name), that player clears the pile and gets to lead off the next sequence with any card in their hand. To make the deck interesting, face cards, tens and fives are taken out.  With more than 2 players, this game offers far too little control for players to have any sense of meaningful choice. You either happen to be able to land on a \"mod 10\" op",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 3,
+  "rules_word_count": 288,
+  "community_word_count": 207,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.384290"
+}

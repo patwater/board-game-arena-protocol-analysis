@@ -1,0 +1,19 @@
+{
+  "bga_slug": "herooj",
+  "bga_name": "Herooj",
+  "bgg_id": "127304.0",
+  "rules_text": "Rules summary HEROOJ (heroes, in esperanto language) is an abstract board game for 2 players, which can be played on an 8x8 board, with 10 pawns (double-sided pieces) and 4 masters for each player. Rules: PAWNS: A pawn can move 1 or 2 cells orthogonally or diagonally forward, (backwards and sideways moves are not allowed for pawns). they can capture by jumping orthogonally over an adjacent friendly piece and falling on an immediately adjacent enemy piece, which is removed from the board, (backwards and sideways captures are allowed). MASTERS: A master can move 1 or 2 cells in any direction, orthogonally or diagonally forward and backwards. Also, it can capture in the same way of pawns (jumping over an adjacent friendly piece and falling on an immediately adjacent enemy piece) but in any of 8 directions. HEROOJ: When a pawn reaches the far rank of the board is promoted to \"heroo\". It can move sideways and backwards (orthogonally and diagonally), but NOT FORWARD. It captures like pawns. GOAL: The goal of HEROOJ is bringing back one heroo to the player's safe zone (2 first rows of the player's side). A player can also win if they eliminate all the opponent's pawns/herooj.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Probably a fine abstract game in here somewhere but internalizing how the rules and pieces work just didn't work for me.\n\n[Rating: 6/10] Designer:  David Crespo Playing time: 30 Min Weight: -- / 5 Publisher: (Unknown)  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK : Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=127304][/thing] is an abstract strategy game, and a very thinky game about advancing your pieces, such as to get one of them in the last rank in the opposite side, then return to it to your home spaces (the first two ranks in your side). The game is played in a 8x8 board, with each side having 10 pawns (move 1 or \n\n[Rating: 6/10] A 2 player abstract game similar to Chess and Checkers. You have 3 kinds of pieces. Pawns move 1 or 2 spaces diagonally or orthogonally forward without jumping pieces, or capture by jumping a friendly orthogonally forward, sideways, or backwards adjacent piece and landing on an adjacent opponent piece on the opposite side. Master pieces move 1 or 2 spaces diagonally or orthogonally in any direction without jumping pieces, or capture by jumping a friendly orthogonally or diagonally adjacent piece and landing on an adjacent opponent piece on the opposite side. When a pawn reaches the opponents e\n\n[Rating: 6/10] Played a bit of this on BGA. I like the capturing rules. I really like the win condition. I love the variety of shapes the game takes on. Can feel quite \"heisty.\"  On the other hand, sometimes it feels sorta sticky and \"standoffish.\" I'm not sure how interesting it ultimately is.   It also seems to be a tough learn for folks. I think I've won most of my games from opponents just forgetting how exactly capturing works.  I'd still take it over checkers.\n\n[Rating: 7/10] Quite interesting game with a good number of tactical decisions. Rated from playing on BGA.\n\n[Rating: 7/10] Very good abstract game.  I like the masters and the way to kill an opponent is by leapfrogging a teammate.  Both lead to some interesting positioning on the board.  I also like the win condition is a race to get a pawn back and forth across the board.\n\n[Rating: 7/10] Certainly I'm the classic abstract strategy combinational time frame, 20-30 minute. I like it.  BGA",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 203,
+  "community_word_count": 396,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.364482"
+}

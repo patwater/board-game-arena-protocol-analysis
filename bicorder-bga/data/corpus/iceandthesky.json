@@ -1,0 +1,19 @@
+{
+  "bga_slug": "iceandthesky",
+  "bga_name": "Ice and the Sky",
+  "bgg_id": "180938.0",
+  "rules_text": "Rules summary Contents 1 Main rules: 2 Extras: 3 Scoring: 4 Deck: Main rules: Each player has an objective in the top right under their name. The objective consists of one line or column and one number. The goal is to have the sum of that line or column be equal to that number after all 12 cards have been played. Each turn, you must play one of your cards on the board. The CO 2 cards should be covered before the end of any round. Extras: All cards in all colors from 0 to 3 are present in each age. The objective of line or column is different for all players. The number is chosen between 344556. Scoring: It's present on the top. You gain for each round +1 per objective done, and -1 per objective failed. At the end of the game that score is multiplied by 3 minus the number of CO\u00b2 cards visible at the end of any round. Your elo gain is equal to your score. A bonus of 50% is applied in expert mode. Deck: Note which cards have a CO\u00b2: First generation: air 1, ice 2 Second generation: air 3, earth 1, ice 0 Third generation: air 2, earth 0 and 2, ice 3 With expert mode, you add: First generation: earth 3 Second generation: air 0 Third generation: ice 1\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Co-op but artwork uninteresting. Deduction game but so many better ones out there.\n\n[Rating: 2/10] It was too long, boring and not fun at all. Moreover, all the \"ecolo\" stuff is totally non-thematic with the mechanics. Really disliked it a lot.\n\n[Rating: 3/10] A cooperative deduction card game where players are trying to hint other players what their scoring criteria is WHILE trying to figure out your own. The team tries to score as high as possible.\n\n[Rating: 3.5/10] Designer: Florent Toscano Playing time: 20 Min Weight: 1.60 / 5 Publisher: Jolly Thinkers  [b]COMPLEXITY: Baixa COMPONENTS: Medium DOWNTIME: Low FUN: Low INTERACTION: Low PLAYING TIME: Low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Low[/b]  [b]Comments:[/b] [thing=180938][/thing] is a cooperative game that have limited commucation and hand management. Interaction is indirect, as everyone plays their cards trying to match the goals of the others (no player see their own goal, but can estimate what it is), but there is no way to actually act with the others in any way.  Rules \n\n[Rating: 4/10] The game elements are ok but the discription on the back of the box sounds way better than it realy is\n\n[Rating: 4/10] [i]Balance water, earth, and air to hidden goals while limiting CO[size=6]2[/size].[/i] Played in: [url=https://boardgamegeek.com/geeklist/301212/item/9224334][u]2022[/u][/url]",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 230,
+  "community_word_count": 213,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.270230"
+}

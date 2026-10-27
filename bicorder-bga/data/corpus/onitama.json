@@ -1,0 +1,19 @@
+{
+  "bga_slug": "onitama",
+  "bga_name": "Onitama",
+  "bgg_id": "160477.0",
+  "rules_text": "Rules summary Contents 1 Setup 2 Gameplay 3 Actions 4 Winning Setup Both players have 5 pawns, 4 students and 1 master. The master starts on the temple arch. 2 students start on each side of the master. Shuffle the 16 move cards and deal 2 to each player face up as their starting hand. Put another card in the middle. Remove the remaining 11 move cards from the game. Gameplay The player with the same colour as the stamp in the middle goes first. On your turn, do these two actions in order: 1. Move 2. Exchange If you can make a legal move, you must make it. If you can't make a legal move, you must skip moving and still exchange. Actions MOVE Choose one of the two move cards in your hand. Then, choose a pawn and move it as shown on the card. The square grid illustrates the possible moves. The black square in the middle represents the space your chosen pawn occupies. The coloured spaces show where your pawn can move in relation to its starting position. You can move your pawn to any one of the spaces indicated. Other pawns and temple arches don't block the movement of the pawn across the board. You can never make a move that would cause a pawn to move off the board or move onto the same square as one of your own pawns. Capturing If your pawn moves onto a square that is occupied by one of your opponent's pawns, the opponent's pawn is immediately captured and removed from the game. Moving over or through a square occupied by an opponent's piece does not capture it. EXCHANGE Add the move card in the middle to your hand. You may use it starting from the next turn. Take the move card you just used and place it in the middle facing your opponent. If you couldn't move, you can choose either of the two cards in your hand. Winning There are two ways to win: Capture your opponent's master pawn. Move your master pawn to your opponent's temple arch space.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] clean design. but can be repetitive if same cards appear.  updated: from 9 points to 1 points. Coz i hate games with expansion just to milk more money\n\n[Rating: 1/10] Fun little game but I can't see it having real staying power for me vs the classic abstracts or even Hive.\n\n[Rating: 1/10] stinking toxic mat and miniatures. Unplayable and I am not the only one... (should not be sold!)\n\n[Rating: 1/10] Terrible chess wannabe abstract. Why play this when chess is so much better and available? Terrible boring game, that also is a bit random and not super amount of strategy.\n\n[Rating: 1/10] For whatever reason, wasn't connecting with the variable movement criteria here. First few plays felt very awkward and dry.\n\n[Rating: 2/10] Interesting mechanic but it didn't pan out well for us.  Each player would horde any 'good' card to prevent the other player from having access to more powerful moves meaning the same cards with comparatively simple/boring moves were the only ones being used.  It ended up feeling more like a game of chess with slightly more powerful pawns, but pawns nonetheless.\n\n[Rating: 2/10] Very simple, not many options despite 10 different ways to move. The game is very slow with the limited movement and very predictable due to the few options everyone has. Bad games can occur due to bad card combinations. A gateway abstract. Barely a game.\n\n[Rating: 2/10] This is not a serious abstract and is essentially broken if played with much thought.  Might be good for kids.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 355,
+  "community_word_count": 257,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.192065"
+}

@@ -1,0 +1,19 @@
+{
+  "bga_slug": "herd",
+  "bga_name": "Herd",
+  "bgg_id": "369336.0",
+  "rules_text": "Rules summary Overview The aim is to occupy the most spaces at the end of the game when all spaces are occupied Turn Roll two dice From the lower value, remove that many opponents' stones From the higher value, place that many of your own stones If placing a stone completely surrounds your opponent's stone with your own, it is removed, and you get +1 to the number of stones you can place this turn You cannot place in an empty space completely surrounded by opponent stones If you cannot place all stones allowed, your turn ends early and none are carried over\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] A almost luck game. Where the player that got high numbers in the dice during the game will ususly win\n\n[Rating: 2/10] 2 player abstract with far too much luck involved. Especially early on, wildly different die rolls can lead to one player feeling completely out of the game. Even if they actually aren't, that isn't a state a game should put player in, especially in this genre. The main reason for this low score comes from the end of the game, though, where you can easily see that one player has the game locked down, but the dice might extend the gameplay longer than necessary. In a game with such high luck, though, simply conceding in this situation isn't necessarily correct either.\n\n[Rating: 2.5/10] Designer: Mark Steere Playing time: 15-30 Min Weight: 1.75 / 5 Publisher: Mark Steere Games Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Low INTERACTION: High PLAYING TIME: Low LUCK: Very high REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=369336][/thing] is an abstract game about dice rolling and encircling. The idea is to roll the dice, take out pieces of your opponent in such a way to surround singles, as you get extra pieces to place that way, and gets a free removal. Once the board is full, the person with th\n\n[Rating: 3/10] This one is way too lucky - if all players had to work from the same dice rolls at least it would be fair, but the inequalities make it unnecessarily frustrating and when one player repeatedly rolls high the benefits compound.  #LetterH #Lucky #Unfair #BGA #Tutorial\n\n[Rating: 4/10] The luck of the die rolls can easily create a situation where it's simply impossible for a player to come back from a losing position, not due to skill, but due to luck. The fact that this game doesn't end until all the spaces are filled also doesn't help, as the stone removal mechanic can create an endgame where the outcome is inevitable, but the number of turns to finish the game is not.   Even though I was winning by a landslide, I just wanted the game to be over, and it was unclear how soon that was actually going to happen.  Randomness in an abstract strategy isn't a death-knell if it's d",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 105,
+  "community_word_count": 390,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.331557"
+}

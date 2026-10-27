@@ -1,0 +1,19 @@
+{
+  "bga_slug": "blastradius",
+  "bga_name": "Blast Radius",
+  "bgg_id": "434293.0",
+  "rules_text": "Rules summary Contents 1 Gameplay 2 Your Turn 3 Exclusion Zones 4 End of Game 5 Credits Gameplay To start, Red covers any space. From then on, starting with Blue, players take turns. Your Turn On your turn, you must form the smallest tower possible. You do this by placing a piece on an empty space or one of your towers. If this forms a tower of height 2 or more, pieces may be removed as described below. Example: If you can play on an empty space you must do that. Example: If you cannot play on an empty space, but you have towers of size 1, 1, and 2, you must play on one of the size 1 towers. Exclusion Zones Each tower is surrounded by an exclusion zone with a radius equal to the tower's height. Example: A tower of height 1 has an exclusion zone containing 6 hexes. Example: A tower of height 2 has an exclusion zone containing 18 hexes. You cannot place pieces within an exclusion zone. When a tower grows to height 2 or more, its exclusion zone grows. All towers within that zone belonging to either player are immediately removed. End of Game The game ends when only one player has pieces left on the board (except at the end of Red's first turn). The player with pieces remaining is the winner. Note that a tie is impossible. Credits Game design: https://www.marksteeregames.com/BlastRadius_rules.pdf Images: Handmade. Sound effects: Clunking Large Stones Together 1.wav by F.M.Audio -- https://freesound.org/s/570532/ -- License: Attribution 4.0 Clunking Large Stones Together 5.wav by F.M.Audio -- https://freesound.org/s/570529/ -- License: Attribution 4.0 Explosion Distant by Johnnyfarmer -- https://freesound.org/s/209769/ -- License: Creative Commons 0\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Designer: Mark Steere Playing time: 15-20 Min Weight: 1.00 / 5 Publisher: Mark Steere Games Player count: 2 (best with: 2)  [b]COMPLEXITY: Very low COMPONENTS: N/A DOWNTIME: Low FUN: Low INTERACTION: Medium PLAYING TIME: Low LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=434293][/thing] is an abstract strategy game about piece placement in a hexagon grid. The ideia is that players will take place a piece which must not be in the radius of other pieces, until there is not a way to do this, when the rule is that the player must make increa\n\n[Rating: 3/10] Impossible to play in real life. For all intents and purposes this is a video game\n\n[Rating: 7/10] Enoyable abstract: you must place mini nukes on the board as small as possible on any radiation free space. Once the board has no free space, you can start growing your existing nukes to increase the radius of radiation and eliminating any opponent's and your pieces caught in the blast radius.  Cons: -There can be a string of moves where you are just filling spaces and the other player is just growing their nukes, making them the likely winner, decided early on.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 3,
+  "rules_word_count": 282,
+  "community_word_count": 204,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.409860"
+}

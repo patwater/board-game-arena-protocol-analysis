@@ -1,0 +1,19 @@
+{
+  "bga_slug": "soluna",
+  "bga_name": "Soluna",
+  "bgg_id": "131199.0",
+  "rules_text": "Rules summary Soluna is a simple and fast-playing 2-player brain teaser for adults or children. The game consists of twelve double-sided discs; each disc has one of four space-themed symbols (sun, stars, moon, comet) on one side, and a different symbol on the other side. Players alternate to combine discs or stacks (of discs) on the table, until one player has no valid turn. Contents 1 Goal 2 Start of Game/Start of Round 3 Turn summary 4 End of the round Goal The first player to win four rounds wins the game. A round is won when a player blocks their opponent, by leaving them no valid turn. Start of Game/Start of Round All discs are placed randomly on the table, one by one (alternately), by the two players. Each disc's face (side) is also chosen randomly. This results in a varied set of symbol at the start of each round. Players take their turns, alternately. For the first round, players decide amongst themselves who should start. For all other rounds, the player who lost the previous round should start. Turn summary On their turn, a player takes one stack and places it on another stack that is either: same height same top symbol (compare only the symbol on the top disc of stacks) Stacks cannot be divided. If a player is unable to make a valid move, see \" End of the round \" below. End of the round The round ends when one of the players cannot move any stack: that player has lost the round (and the other player wins that round). For example, a round will end with either of these two scenarios: All 12 discs are together in one stack (the other player cannot put a stack onto another stack) Both of these are true: all stacks have different symbols on their top disc, and all remaining stacks have different heights (all contain a different number of discs)\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Quick abstract that can be endgamed.  Would be good for a maths class exercise but as a fully fledged game no.\n\n[Rating: 2/10] Just a bunch of random moves because the layout is too complex to do the math until someone has lost/won without knowing it.\n\n[Rating: 3/10] The game is very fast, but you have almost no choices. You have one maybe two possibility to chcange the result of the game.\n\n[Rating: 3/10] BGA: Probably too simple to be interesting. Similar to  quarto and other games that are boring at first and suddenly over.\n\n[Rating: 3/10] Too simplistic to be fun.  May as well play tic tac toe.  At least there's always a winner with Soluna though.\n\n[Rating: 3/10] Totally algorithmic Interesting only as a possible project to learn alpha/beta pruning and some other programming stuff Definitely not a game\n\n[Rating: 3/10] Optimal play would require calculating the whole decision tree. A sign of a bad game. Guess if you like that e.g. in Chess, you might like this one.\n\n[Rating: 3/10] You roughly just trying to keep the number of moves in a round odd. It's a bit tedious but might be okay live.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 325,
+  "community_word_count": 198,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.361980"
+}

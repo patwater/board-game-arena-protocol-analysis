@@ -1,0 +1,17 @@
+{
+  "bga_slug": "mascarade",
+  "bga_name": "Mascarade",
+  "bgg_id": "13592.0",
+  "rules_text": "Rules summary Contents 1 Gameplay 2 End of the Game 3 Mask Powers 4 Variants Gameplay Choose a scenario or randomly draw one to play. The other masks are removed from the game. Each player takes 6 coins and a mask. The remaining coins and masks, depending on player count, are placed in the middle. The justice board starts empty. After everyone has read and remembered all the masks, turn them face down. On your turn, take an action from view, exchange or announce. If you choose to view, secretly look at your mask. If you choose to exchange, take your mask with another's and exchange or pretend to exchange them. If you choose to announce, declare the name of the mask you think you have. All other players may challenge. If nobody challenges, apply its power without revealing. Otherwise, reveal the mask of all players involved. The actual owners apply the effect (even out of turn) and all other players pay 1 coin and place them on the justice board. You cannot do this action if you are forced to reveal your mask during the last player's turn. The first four turns must be exchange. Afterwards, any action may be taken. Play proceeds clockwise (i.e. the player on your left takes the next turn when sitting in a circle). End of the Game If you have 13 coins, you immediately win. If someone runs out of money, the richest player wins. You can also win with the cheater if you have 10 or more coins. Mask Powers Beggar: Demand a coin starting from the player to your left. If they have more coins than you, they must give you one. Cheater: If you have 10 or more coins, you immediately win the game. Empress: Take 3 coins from the bank. Fool: Take 1 coin and perform the exchange action with any 2 players. Guru: Choose another player. They must announce their mask, then reveal their card. If they are wrong, they must pay 4 coins to you. Judge: Take all the coins from the justice board. Fines are paid afterwards. King: Take 2 coins from the bank. Patron: Take 3 coins from the bank. Your neighbors take 1 coin each. Peasant (x2): Take 1 coin from the bank. If two peasants are revealed, take 1 extra coin. Princess: Take 2 coins from the bank. Choose another player who must reveal their card to everyone but themselves. Puppeteer: Choose 2 players and take 1 coin from each of them. They must switch masks and coins. Sorceress: Exchange your coins with a player of your choice. Fines are paid afterwards. Spy: View your card and another player\u2019s and perform the exchange action with them. Thief: Take 1 coin from each of your neighbors. Trickster: Take 2 coins from the richest opponent. Choose if tied. Widow: Take coins until you have at least 10. Variants Script: You can choose from standard, advanced and custom. Log masks: You can choose whether masks are logged. Custom scripts have these requirements: The judge must be in play. At least one-third of the masks must bring money into play. Both or neither peasants must be included. Certain masks have player requirements. At most 2 cards are in the center.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 545,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.312558"
+}

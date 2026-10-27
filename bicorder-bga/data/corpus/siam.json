@@ -1,0 +1,19 @@
+{
+  "bga_slug": "siam",
+  "bga_name": "Siam",
+  "bgg_id": "20782.0",
+  "rules_text": "Rules summary In Siam, rhinoceros and elephants are competing to be the first to push a rock out of the board. An elephant or a rhinoceros can push a rock, but you need two animals pushing in the same direction to push two aligned rocks. An animal can push another animal too, except if the other animal is pushing in the opposite direction. And finally, an animal can push a whole line with multiple rocks and animals, if opposite forces don't cancel their effort. So you will have to be very mindful of the direction in which every animal is pushing, which is indicated by an arrow above the animal. On your turn, you can do one of the following actions: Place one of your animals on the board (on one of the border cells) Remove one of your animals from the board (if it is on one of the border cells) Move one of your animals, then choose the direction it is facing Stay in place and change the direction one of your animals is facing without moving it Push! Either with an animal already on the board, or with an animal outside of the board, pushing while entering the board. When a rock is pushed out, the game is won - but beware, the winner is the player with the closest animal oriented in the pushing direction, not whoever makes the final move! This simple set of rules creates a lot of possibilities. You'll be really surprised to see how often a situation seems hopeless, and still, one push done the right way will change everything!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] This game is a very basic puzzle game where you are trying to use your tokens to push a stone of the board.  Our game ended very quickly and I have no desire to try it again.\n\n[Rating: 4/10] This is one of those games where you're building up a large board state that will eventually collapse. You enter pieces on the board and push a few things, but will probably reach a long series of forced turns leading to the end of the game. The core of the game is tracking those long sequences and trying to position yourself for victory.  I don't really like that sort of game. (I do love [thing=194655][/thing], which can devolve into the same sort of puzzle\u2014but I usually choose not to play that way, focusing instead on repeatable patterns and larger positioning.)  I don't think the positionin\n\n[Rating: 5/10] A pretty good two-player abstract.  It seems to be short enough to play a few games in one sitting (as a filler, perhaps, as it's not too heavy).\n\n[Rating: 5/10] This is one of these logical games that I don't know how to rate properly. It is not bad but also doesn't stand out from other titles. Feels like game with some depth, you haven't discovered yet, but maybe there is nothing more here.\n\n[Rating: 5/10] A pushing game, where the objective is to get your opponents pieces off the board.  Not bad, but a better implementation is in Epigo.\n\n[Rating: 5/10] I just don't know what the hell I'm supposed to do in this one. Seems simple enough but I lose so fast\n\n[Rating: 5/10] Extremely simplistic abstract with short length. I would buy it for its aesthetic but as far as gameplay is concerned there isn't much value here.\n\n[Rating: 5/10] I feel like this needs a larger board. As is it has a tendency to suddenly end before it gets interesting.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 270,
+  "community_word_count": 322,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.343169"
+}

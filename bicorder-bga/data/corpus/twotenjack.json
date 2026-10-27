@@ -1,0 +1,19 @@
+{
+  "bga_slug": "twotenjack",
+  "bga_name": "Two-Ten-Jack",
+  "bgg_id": "432629.0",
+  "rules_text": "Rules summary The Deck 53 cards, one regular deck plus a joker A number of cards will be removed so that the total deck can be equally divided amongst the number of players. e.g. In a three player game, two cards are removed leaving 51 cards (17 x 3 players) The exact cards removed from the game are noted in a bar across the top of the screen. Card Rank (Highest to Lowest) Joker (unsuited) Ace of Spades Hearts (A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2) Other cards (A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2) Deal 4 cards are dealt to each player in typical clockwise fashion The remainder of the deck is placed face up in the center of the table, except the top card which is face down. Scoring A summary of the points earned, or lost, for each card collected in a trick is displayed on the right side of the screen. If you collect all six scoring Hearts they score negative points instead of positive. If you collect all six scoring Spades they score positive points instead of negative. Play Leading The first player must not lead a Joker, Spade, or Heart, if possible. If not possible, they can pick any card and play it face down. This face down card is not eligible to win the trick. Following Going clockwise, all players then follow suit, if possible. If not possible, they can play any card. - If the second player is following a face down card they can play any card. - If the led card is the Joker, other players must follow with trump cards, if possible. (Ace of Spades or a Heart) - The Joker must be played if the trick was led with the 3 of Spades. - The Joker is unsuited and can be played anytime. - The Ace of Spades, while a trump and stronger than all cards except the Joker, must still be played according to the must follow suit rule. End of Trick The winner is determined based on the card rank noted above. The winner collects the cards for their personal score pile for the round. One new card is drawn from the center pile for each player starting with the winner and going clockwise. Aside from the first card, which was placed face down after the initial deal, all other cards are face up so that each player knows what was dealt. A summary of cards in hand known to all players is displayed on the right under the scoring summary. The winner leads the next trick. End of Round Points are tallied for all tricks. Shuffle and deal a new hand. End of Game After a number of rounds equal to the number of players the game ends. Highest score wins. [Handling of ties in this implementation is unknown to me. Please edit if you observe a tie or otherwise know the answer.]\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Digital   Not great, agreed that a bad hand can't save you as with many traditional games\n\n[Rating: 5/10] I little too random for me. The ranking of the cards makes any kind of strategy difficult. One bad deal, and you're done.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 2,
+  "rules_word_count": 502,
+  "community_word_count": 43,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.391353"
+}

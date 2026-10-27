@@ -1,0 +1,19 @@
+{
+  "bga_slug": "letscatchthelion",
+  "bga_name": "Let's Catch the Lion!",
+  "bgg_id": "56796.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Pieces 3 Turn 4 Game End Overview Catch your enemy's lion to win Pieces The pieces can be moved in the directions denoted by their dots. Chicks can move forward one space. The Chick can be promoted to a Hen if it exits on the opponent's side. The Chick wont be promoted if it is placed in the back row. Hens can be moved similar to Lions except can not move diagonally backwards A captured Hen always downgrades to a Chick A lion can move one space in any direction. A Lion cannot knowingly move into a space where it could then be captured. An elephant can move one space diagonally. A giraffe can move one space left, right, forward or back. Turn On your turn, pick one of your pieces and move it one space in an allowed direction (but you cannot move into your own pieces) Alternatively, you may place a piece out onto the board If you move your piece onto an opponent non-Lion piece, capture it and keep it to your side ready to deploy Game End There are four ways to end the game First, if the same actions are repeated 3 times, there is a draw If you catch your opponent's lion, you win! If your Lion exits on the opponent's side, you win! However, you lose if your Lion is caught right after he reaches there If you cannot make a move, you lose\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] Japanese version - abstract game a bit like The Duke. Just a bit to cheesy thinky\n\n[Rating: 3/10] A super-mini-Shogi for teaching purposes, even smaller than Mini Shogi. Evidently it works, but I would rather play Doubutsu Biscuits than Doubutsu Shogi.\n\n[Rating: 3.5/10] Shogi for kids. Fairly interesting, but from my experience, the game often ends in a draw due to repetition (the original Shogi hardly ever ends in a a draw).\n\n[Rating: 4/10] Dobutsu Shogi, included in Yokai no mori. Fast and fun to play with kids. First steps towards learning Shogi.\n\n[Rating: 4/10] 2021 D\u011btsk\u00e1 hra roku Winner 2009 Japan Boardgame Prize Voters' Selection Nominee 2009 Japan Boardgame Prize U-more Award Winner",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 249,
+  "community_word_count": 116,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.259379"
+}

@@ -1,0 +1,17 @@
+{
+  "bga_slug": "volto",
+  "bga_name": "Volto",
+  "bgg_id": "6941248.0",
+  "rules_text": "Rules summary During the carnival, everyone wears masks, so it's the perfect opportunity for your family to eliminate the rival family. Discredit the opposing contender in St Mark's Square to ensure the title of Doge! Contents 1 Win Conditions 2 Turn 3 Capture 4 Masks Win Conditions in Volto, your goal is to either: - have your candidate reach the opponent's palace line - capture your opponent's candidate - have your opponent capture both your ladies Turn On your turn, move one of your masks either to an empty space or onto an opponent's mask, capturing it. Capture If you capture a Noble, Advisor, or Soldier, the captee is removed from the board. If you capture a Lady, BOTH the captee and captor are removed from the board. If you capture a Candidate, you immediately win. Masks There are 5 Mask types, each with their own movement style Noble (3) - Moves 1 space orthogonally, may capture Advisor (3) - Moves 1 space diagonally, may capture Soldier (1) - Moves forward, as many spaces as they want. The spaces must be empty, except for the last one as they may capture on the last space Lady (2) - Moves 1 space orthogonally or diagonally, cannot capture Candidate (1) - Moves 1 space orthogonally or diagonally, may capture\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 219,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.304298"
+}

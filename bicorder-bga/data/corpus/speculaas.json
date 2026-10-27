@@ -1,0 +1,19 @@
+{
+  "bga_slug": "speculaas",
+  "bga_name": "Speculaas",
+  "bgg_id": "397747.0",
+  "rules_text": "Rules summary Objective Act as a pastry chef collecting spice cards and matching them to recipe cards to earn victory points. Each player gets a stack of recipe cards and a stack of ingredient/spice cards.Keep honey tokens nearby as a general pool. How to Play The game takes place over two rounds, with all players acting simultaneously. Drafting Recipes: Pick one recipe card from your hand or stack to add to your personal grid, then pass the remaining cards to the next player (clockwise in round one, counter-clockwise in round two). Drafting Spices: Take the ingredient stack, select your spices (either one double-spice card or two single-spice cards) to place into your grid, and pass the rest. Using Honey: Instead of a regular spice, you can select honey cards to claim a honey token, which acts as a wild card and scores diagonally on a recipe. Building the Tableau: Place cards adjacent to your existing grid layout to fulfill the specific matching conditions shown on your recipes. Winning the Game After two full rounds, players tally up their points based on how successfully their adjacent spices match the conditions on their recipe cards. The player with the highest total score wins.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] A simple drafting, card placing game where players are alternately taking recipes and ingredients from dedicated piles with uninteresting end-game scoring.\n\n[Rating: 5/10] I didn't feel like there was as much control as I would have liked in creating a pattern. Drafting the cards felt random to me, just trying to make the best of what comes my way. Ultimately, this one didn't do enough to separate itself from other games like this. It works for what it is.\n\n[Rating: 5.5/10] I like the chess pattern with goals and spices. Reminds me of Kohaku. I like Kohaku better, because that is so pretty.\n\n[Rating: 6/10] The game drew me in with its cute theme and I wanted to support a Croatian-made title. Once we started playing, the game immediately reminded me of Sushi-Go with its closed drafting and set collection, but expanded with a few twists like the card placement and drafting from two separate decks. Having two sets of hands is a unique mechanism but managing them in practice was very fiddly. The players around the table often mixed up which deck to use next so we had to call it aloud each turn just to keep track, especially since you can draft 1 or 2 spices per round so simply counting leftover card\n\n[Rating: 6/10] [b][url=https://boardgamegeek.com/video/570020/speculaas/speculaas-review-quick-take-with-tom-and-chris]Dice Tower Reviews: Speculaas   [/url][/b]",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 203,
+  "community_word_count": 224,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.300941"
+}

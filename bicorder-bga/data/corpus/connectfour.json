@@ -1,0 +1,19 @@
+{
+  "bga_slug": "connectfour",
+  "bga_name": "Connect 4",
+  "bgg_id": "2719.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Game play 3 Board sizes 4 Opening rule 5 Arena mode Objective Connect Four is a two-player connection game. The objective is to connect four of your colored discs in a straight line while preventing your opponent from doing the same. Game play The players take turns dropping one colored disc from the top into a vertically suspended grid. The discs fall straight down, occupying the lowest available space within the column. The game ends when one player forms a horizontal, vertical, or diagonal line of four of their own discs. If the entire board fills up before either player achieves four in a row, then the game ends in a tie. Board sizes Five board sizes (6x7, 8x9, 9x8, 9x9, and 10x10) are available in the BGA implementation. Opening rule Two optional opening rules are implemented to eliminate first player advantage. Pie rule: After the first player's first move, the second player may switch colors. Swap rule: The first player places three discs - a red disc, a yellow disc, and another red disc. After the first 3 discs are placed, the second player may switch colors. Arena mode The 6x7 board size is unavailable in Arena mode because the game is too easily solved. The opening rule is locked as the swap rule, to allow various opening moves to be played and to remove any potential first/second player advantage. The board size option rotates as the season passes (8x9 \u2192 9x9 \u2192 10x10 \u2192 8x9 \u2192 ...). Gurus, do not vote for a 6x7 board size or non-swap openings!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] I hated this even as a kid.  I have a thing against games where you're basically limited to doing one thing (in this case, putting a chip in the grid) and that's about it. Strategy is very low, and, like tic-tac-toe, it's a stalemate type of game.  If you want to get kids into abstract strategy with a bit more, do checkers or chinese checkers or something like that.\n\n[Rating: 1/10] Just think, dinosaurs died to bring us the plastic in Connect 4.  Bad trade on someone's part.  Give me back my dinosaurs!\n\n[Rating: 1/10] I don't particularly care to play solved games.  It is a nice game for learning how to write computer games though.\n\n[Rating: 1/10] Get four in a row by stacking on your neighbor and yourelf.  This is a simple planning game that was eventually solved, and thus is broken.\n\n[Rating: 1/10] Dry. More complex than Tic Tac Toe, but smarter guys than me have already solved it.\n\n[Rating: 1/10] HEY, LET'S GET A PIECE OF PLASTIC AND SLIDE THINGIES INTO IT AND CALL IT A GAME.  OHKAY.  Connect these four:  THIS GAME BLOWS CHUNKS.\n\n[Rating: 1/10] I used to have fun with it. Then it became a \"solved game\" - meaning, if you're the first player you can guarantee you won't lose by playing in a prescribed way.  That kinda takes the fun out of it - for me, half the fun is trying to find the optimal move - but once that's done, what's the point of playing anymore?\n\n[Rating: 1/10] Ugh. I didn't like it much when I was a kid, and I'm 99.95% sure there are better options for my child, when that time comes around.\n\n[Rating: 1/10] I guess there's some strategy here.  Wait, nevermind, this game is complete crap.\n\n[Rating: 1/10] In this game, you try to make a line of 4 circles. Usually played with a bored-looking face. Apathetic circle dropping is also the norm.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 10,
+  "rules_word_count": 269,
+  "community_word_count": 328,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.156009"
+}

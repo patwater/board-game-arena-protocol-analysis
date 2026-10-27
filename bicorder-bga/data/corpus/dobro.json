@@ -1,0 +1,19 @@
+{
+  "bga_slug": "dobro",
+  "bga_name": "Dobro",
+  "bgg_id": "357991.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Round End 4 Game End Overview Have the most points after 3 rounds Turn You can play a single card with a value equal or greater than the current played value You can play two cards of the same value if the sum of both cards are equal or greater than the current played value If you play a card or cards equal to the current played value, the new current played value will be doubled. You can play a special card You can take all played cards and add them to your score pile At end of turn, draw back to 6. Round End After the draw pile is emptied, the next player to empty their hand ends the round Any hand and play cards are discarded Gain points depending on how many score cards you have compared to other players (more cards = less points) Game End The game ends after 3 rounds, the player with the most points wins!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] The kind of game you play while having a casual conversation or over drinks. As such, it's very simple, random and there isn't much to it.\n\n[Rating: 1/10] Wait, this is literally just Knizia's Escalation, with a few minor differences changing 2% of it. Even the card distribution for almost all of the values are exactly the same! But the rules are messier and more confusing, for such a light game. You can only play doubles, instead of however many you want? Huh?  I do like Escalation, so I wouldn't mind this but.... plagiarizing it is kinda gross.\n\n[Rating: 2/10] Played once. Hated. Forced to play again, still managed to hate it even more.  Just not my type of game\n\n[Rating: 2/10] FIRST IMPRESSION:  Kind of a bit of Uno with some additional rules that double the power of the cards when you match, etc. We played one round and decided we had enough.\n\n[Rating: 3/10] Ladder climbing game that manages to feel worse to play than most despite being pretty similar to Uno and other games with its distribution of cards. Luck just plays way too high of a factor in the game, frequently leaving you a single play on your turn if any. My big issue stems from the special cards, though. The end of each round seems to come down to a game of hot potato with everyone trying to avoid taking the insurmountable pile of cards in the middle and the only recourse you have against that is randomly having drawn a special card previously. It also feels like the turn order can real\n\n[Rating: 3/10] Jogo de cartas tipo Uno, \u00e9 ok, 15 minutos de todos trabalhando para estragar o jogo de uma pessoa\n\n[Rating: 3/10] Least favorite of the card shedding games I've played recently. It's fun if you have the cards you need, it's not if you don't.\n\n[Rating: 3/10] There's just so many better climbing games out there than this one there's no reason to get into arguments over how to interpret the rules over matching cards and how it all works...and it doesn't really do anything to set itself apart.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 8,
+  "rules_word_count": 172,
+  "community_word_count": 361,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.283811"
+}

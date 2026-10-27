@@ -1,0 +1,19 @@
+{
+  "bga_slug": "ninjan",
+  "bga_name": "Ninjan",
+  "bgg_id": "425254.0",
+  "rules_text": "Rules summary 2-5 players - Duration 4 minutes - Complexity 1/5 Contents 1 Presentation 2 Object of the game 3 Preparation 4 Game Round 5 Credits Presentation Ninjan battles, Chifoumi style. Object of the game The goal of the game is to recruit the most high-value ninjan cards. The sum of these values must be the highest to win the game. Preparation Each player starts with a hand of 9 cards belonging to one of the three suits: Rock (red) / Paper (green) / Scissors (blue), with values ranging from -6 to 10. Place 3 cards face up on the table in 3 separate piles; these are the first 3 targets. Game Round Each turn, each player chooses a card from their hand and waits for everyone else to do the same. These cards are all revealed simultaneously and resolved according to the following rules: Starting from the highest value (10) to the lowest (-6), and breaking ties according to the Rock / Paper / Scissors rule, players take turns claiming one of the 3 piles according to the same rule, but without taking the values into account. Tips: This rule is indicated in the bottom left corner of the screen using a circular image. A Paper is stronger than a stone , which is itself stronger than Scissors , which is itself stronger than a Paper ... If a player plays the \" 8 Stone ,\" for example, they must claim one of the piles with a Scissors card on top. They place the cards from the recruited pile face up in front of them, then start a new pile by playing their \" 8 Stone .\" If they cannot recruit a pile (without Scissors on top), they place their played card on an existing pile of their choice, leaving all the pile numbers visible. Once all 9 cards in hand have been played, add up the values of the cards the players have recruited. The player with the highest score wins the game. Credits Designer: 6jizo Artist: Crocotame Publisher: Helvetiq\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] The entire game for me is trying to remember that Water does not beat Fire, etc.  Man, how do you screw up rock, paper, scissors?\n\n[Rating: 3.5/10] Designer: 6jizo Playing time: 15-30 Min Weight: 1.00 / 5 Publisher: Helvetiq Player count: 2-5 (best with: 3)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Very low FUN: Low INTERACTION: High PLAYING TIME: Low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=425254][/thing] is a family game about rock-paper-scissors, simultaneous actions and hand management. The idea is that players will use their cards to get, hopefully, positive scoring cards, while leaving the negative ones for the opponents. Everyone picks a card at the same time, \n\n[Rating: 4/10] Card game, which did not convince us at all. If enough minus points are placed on one wants to take the cards, but the influence is very limited.\n\n[Rating: 4/10] - I like \"Rock-Paper-Scissors\" games, but this one seems to have a huge luck factor involved\n\n[Rating: 4/10] Like 6 Nimmt, except that I didn't have fun at all, instead of having deeply mixed feelings about it.  [1 play]",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 344,
+  "community_word_count": 188,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.340137"
+}

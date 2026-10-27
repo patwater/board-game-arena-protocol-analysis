@@ -1,0 +1,19 @@
+{
+  "bga_slug": "crash",
+  "bga_name": "Crash",
+  "bgg_id": "63371.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Forming the hands 3 Scoring 4 End of the game 5 Ranking of brag hands 6 Options Overview Crash (a.k.a. 13-card brag) is a simple card game played with a standard 52-card deck. Each round, players are dealt 13 cards. Everyone forms four 3-card hands, then hands are compared to determine scoring. Forming the hands After everyone is dealt cards, you may be able to exchange your cards for 13 new ones: ~ 2-player games: you can decide whether to keep your cards or replace it with 13 new cards. ~ 3-player game: 13 cards are left after everyone is dealt cards. In turn order, each player is given the option to replace their cards with the 13 undealt cards. If someone does, everyone else must keep the cards they were dealt. ~ 4-player game: everyone keeps the cards they were dealt. Players then secretly combine their cards to form their four best 3-card hands. Once all players have formed their hands, they are revealed and compared for scoring. Scoring ~ First, everyone's best hand is compared. Whoever's hand has the highest value gets 1 point. ~ Next, everyone's 2nd best hand is compared. Whoever's has the highest value gets 1 point. ~ Compare 3rd and 4th best hands in the same way. If you won all 4 hands, score 1 bonus point. Tied? No one scores for the hand. End of the game At the end of a round, if one or more players have reached the target score (which is 7, 10 or 15, depending on the table settings), then the player with the highest score wins. Ties are possible. Ranking of brag hands The possible brag hands are listed below, from highest to lowest. \u2022 Prial : 3-of-a-kind. 3 is the highest card. (3-3-3 beats A-A-A) \u2022 Running flush : A sequence in the same suit. 3 is the highest card. (3-2-1 beats A-K-Q). KA2 isn\u2019t a valid sequence. \u2022 Run : A sequence of 3 cards. 3 is the highest card. (3-2-1 beats A-K-Q) \u2022 Flush : Any 3 cards in the same suit. 3 is the highest card. Flushes are ranked by the rank of their highest card, ties being broken by the rank of their second-highest card, and if that is still a tie, by the rank of their lowest card. \u2022 Pair : 2-of-a-kind plus a tie-breaker card, in case players have the same pair. Aces are high . \u2022 High-card : Any 3 cards. Aces are high. Options ~ Count high-card hands during scoring. ~ Change the number of cards dealt to each player ~ Change the amount of points needed to win the game.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Designer: (Uncredited) Playing time: 10 Min Weight: 2.33 / 5 Publisher: (Public Domain) Player count: 2-5 (best with: 2)  [b]COMPLEXITY: Medium COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: Medium PLAYING TIME: Low LUCK: Medium REPLAY VALUE: High SOLITAIRE: High THEMATIC: Medium[/b]  [b]Comments:[/b] Played the 13 Cards Brag version, also known as CRASH. The ideia is simple: players get a 13 cards hand, and with these, they form 4 hands of 3 cards, using a poker-like power : three cards of the same rank, three consecutive cards in one suit, three consecutive cards of mixed suit, th\n\n[Rating: 7/10] Reminds me of smoke-filled rooms, bottles of cheap whiskey and my grandparents playing their mates for pots of anything up to a mind-boggling 50 pence.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 2,
+  "rules_word_count": 451,
+  "community_word_count": 125,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.327120"
+}

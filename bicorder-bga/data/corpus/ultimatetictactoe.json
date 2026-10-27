@@ -1,0 +1,19 @@
+{
+  "bga_slug": "ultimatetictactoe",
+  "bga_name": "Ultimate Tic-Tac-Toe",
+  "bgg_id": "42336.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Gameplay 3 Tiebreaker 4 Board sizes 5 Advanced mode 6 Inverse game 7 Different winning conditions Overview Win 3 regions of Tic-Tac-Toe games in a line on a 3x3 grid of Tic-Tac-Toe games. Gameplay Red (o) starts by placing a red (o) token anywhere on the 9 regions. The area on the local region just played determines where the next player will play e.g. place on the central area on any region and the opponent will play on the central region next. Three in a line of area wins the region. If a region is won, when that area is played on another region, the opponent gets to play anywhere e.g. central region has been won by red (o), the current player plays in a central area on an outer region, so the opponent can pick any free area anywhere. Three in a line of regions wins the game. Tiebreaker In case nobody is able to finish a line of regions, the player with the more won regions wins the game. Board sizes Play on a 4x4 or 5x5 board. More regions and more areas inside them. On 4x4 and 5x5 board sizes, lines do not win a region or a game. Only 2x2 blocks count. Advanced mode Win 5 regions to win the game. Normal line condition doesn't win. This rule changes to 8 on a 4x4 board or 13 on a 5x5 board. Inverse game The victory conditions are reversed. You win if your opponent satisfies the usual winning condition. Different winning conditions Win the game with the original Tic-Tac-Toe lines or with producing 2x2 squares. This option is only available on 4x4 and 5x5 boards.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] The first player stategy (for the five (5) rings version) makes this not worth playing.\n\n[Rating: 3/10] Also called super tic tac toe, very meh. Only decent thing is if youre bored with someone and have paper and pencil, this is better than TTT in that case.\n\n[Rating: 3/10] Tic Tac Toe remade into a spatial awareness game. Fun to try for once but there are better games out there.\n\n[Rating: 3/10] Designer: Mark Asperheim, Cris Van Oosterum Playing time: 5-15 Min Weight: 2.20 / 5 Publisher: Daft Concepts Player count: 2-4 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Low INTERACTION: High PLAYING TIME: Very low LUCK: Very low REPLAY VALUE: Low SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=42336][/thing] is a family abstract game about pattern building. The ideia is that players do the basic Tic-Tac-Toe stuff, but on a bigger board, and each board count as a \"mark\", with the finish being the same: having the marks in a line - first to do t\n\n[Rating: 4/10] Okay, this might be a slight improvement on the original game, as you play nine boards at the same time, with each space you claim determining which board your opponent plays on next (like Nanga Parbat). I say slight improvement, because if you like tic-tac-toe, you get to play nine times as long. For the rest of the world, you have your answer right there too.\n\n[Rating: 4.5/10] This rating is with the variant whereby winning a game scores you one of the nine sections, and a tic-tac-toe must be one from those subsections. Full rules with all additions are available online.\n\n[Rating: 5/10] Takes the old classic useless game of Tic-tac-toe and makes it a bit more interesting.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 286,
+  "community_word_count": 293,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.293663"
+}

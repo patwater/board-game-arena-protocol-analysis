@@ -1,0 +1,19 @@
+{
+  "bga_slug": "squadro",
+  "bga_name": "Squadro",
+  "bgg_id": "245222.0",
+  "rules_text": "Rules summary Contents 1 Components 2 Game play 2.1 Conversion line 3 Game end Components 7\u00d77 board. 5 light pieces. 5 dark pieces. Game play Players take turns to move one of their pieces. Pieces have three possible speeds: 1, 2 or 3. Noted by the number of dots next to that piece's starting space. If a piece moves over an opponent's piece, the active piece moves one space further than the opponent's piece , regardless of its speed. The opponent's piece returns to the start or conversion line. A piece that moves to the other side and back to the start line is removed from the game. Conversion line Pieces that reach the opposite side of the board are converted . The active piece changes direction. The active piece may also change speed: 1 -> 3 2 -> 2 3 -> 1 When a piece is sent back, it only moves back to the conversion line. Game end The first player to move four pieces back to the start line wins.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] [b][url=https://boardgamegeek.com/video/188310/squadro/squadro-review-with-zee-garcia]Dice Tower Reviews: Squadro   [/url][/b]\n\n[Rating: 3/10] Abstract involving 5 pieces each and trying to cross the board.  The movement is somewhat counterintuitive but once that barrier is crossed it becomes a chess like game of seizing opportunities.  Not sure there would be huge replay but I could be mistaken.  I found the gameplay to be more annoying rather than clever.\n\n[Rating: 4/10] Absolutely love the look and concept of Squadro, but unfortunately after a few games I find the whole thing to be pretty damn stale. The game almost always ends up coming down to a one-move discrepancy for the win, which you both just sort of play out to see who made the least number of inefficient moves. Very unsatisfying endgame. Squadro is fun at first but loses its luster quickly.\n\n[Rating: 4/10] Did I really play this? I wonder what it was like. I see that I rated it a 4, saying \"These Gigamic games are so much more fun to look at than to play.\" Sad but true. There you have it.\n\n[Rating: 4/10] Gigamic games (Quoridor, Pylos, Quantik, etc.) are usually very fun and interesting. Quoridor is one of my go-to abstract games with four people. Unfortunately Squadro is sub-par. There are only so many interesting decisions.  Typically it's pretty clear when you should keep pieces at bay to capture and when you should move behind enemy pieces to get to the home row.  After playing this, my buddy (another huge Gigamic fan) and I said, \"Meh.\"\n\n[Rating: 4/10] I dislike this because it feels solvable. Each player only has 5 options on their turn, so the decision space is relatively small\u2014even though the number of possible game states is still large. There's not enough flexibility to react and, in my plays, has reached a state where you can essentially calculate who can win with some work.  See my thoughts about other 2-player combinatorial abstracts in my [geeklist=361723][color=#005bca]2-player Combinatorial Abstracts I've Played[/color][/geeklist] geeklist.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 174,
+  "community_word_count": 330,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.317131"
+}

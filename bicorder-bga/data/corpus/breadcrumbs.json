@@ -1,0 +1,19 @@
+{
+  "bga_slug": "breadcrumbs",
+  "bga_name": "Breadcrumbs",
+  "bgg_id": "472157.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Gameplay 3 Clue Rules 4 Scoring 5 End of Game Overview Breadcrumbs is a clue-giving game where the Cluegiver describes a Secret Phrase , but doesn't want everyone to guess it right. Gameplay The Cluegiver gets a Secret Phrase to describe and a target number showing exactly how many Guessers they need to get it right in order to score. The Cluegiver gives up to 5 clues, one at a time. Each Guesser gets one guess, which they can make after any of the five clues. Correct Guessers score more for guessing sooner than the other players. Keep giving clues until every Guesser has guessed. Anyone still waiting after the fifth clue must guess then. Clue Rules Clues can be almost anything: words, names, phrases, descriptions, or personal references. Each clue must be truthful and add new information about the Secret Phrase . Clues cannot: Be false Repeat an earlier clue Be so vague that they give no real information, such as \"it's a thing\" Be a broad negative, such as \"it's not a shoe\" Scoring Cluegiver: Exactly the required number of Guessers got it right: 3 points Too few or too many Guessers got it right: 0 points No Guessers got it right: -1 point Scores can go below zero on BGA. In the box version you can't lose a token you don't have, which means an early Cluegiver with no points yet can never be penalised, while a later one can. Allowing negative scores applies the penalty equally, whatever the turn order. Guessers: First correct guess: 3 points Second correct guess: 2 points Other correct guesses: 1 point Wrong guess: 0 points End of Game Each player takes one turn as Cluegiver , except in a 3-player game where each player takes two turns as Cluegiver . After the final round, the player with the most points wins. This differs from the box version, which is played to 10 points. Here the game lasts a fixed number of rounds so that everyone gets a turn as Cluegiver .\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] This game really did not work for me. Words to guess for non-english speaker are bit weird and when playing with random people - it just falls flat.\n\n[Rating: 5/10] Similar to [i]Just One[/i], but the restriction on trying to get a set number of people to guess your clue word makes it not flow well.\n\n[Rating: 6/10] Played on BGA. This is like Just One mixed with Dixit, except one player at a time has to do all the work, giving out multiple words one at a time for clues, and you also have a completely random number of target guessers that you have to get exact or not get any points at all, which I really don't like.  With Dixit you just didn't want to get everyone to get it right, not go after a precise number. Also other people were picking things as well that could be close to throw people off, here you're providing every clue, they have to be right, and lead people towards the right word, and yet also \n\n[Rating: 7/10] In this party game, players take turns being code master leaving 1 word clues (up to 5) and players will opt into guessing the word (by writing on the bread crumb and placing it next to the clue) after each clue, except the code master only wants 1 person to guess the clue correct, while the others simply have to guess the word. Players will get points based on how early they guess the word, with code master gaining more points if only 1 player guesses the word correctly. Player with the most points wins.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 4,
+  "rules_word_count": 348,
+  "community_word_count": 274,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.186133"
+}

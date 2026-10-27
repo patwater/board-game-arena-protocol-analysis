@@ -1,0 +1,19 @@
+{
+  "bga_slug": "alveole",
+  "bga_name": "Alveole",
+  "bgg_id": "343687.0",
+  "rules_text": "Rules summary Alveole is an abstract board game for 2 players. Players attempt to gather all their pieces into a single group; the first player to do so wins. Start of the game The board is a hexagonal board with 5 hexes on a side. Each player has 9 pieces in a given starting configuration. Player's turn In a player's turn, the player must choose a piece and move it in one of the six directions. The piece must move the exact same number of hexes as the number of pieces (both the player's and their opponent's) in the line of movement. For example, if along the line, there are a total of 3 pieces (counting itself, everything in the movement direction, and everything behind on the line), then the piece must move exactly 3 spaces. A piece may jump over friendly pieces but may not land on a friendly piece. A piece may not jump over opponent pieces but may land on one; in that case, the opponent piece is captured and removed from the game. End of the game If, at the end of a turn, all of a player's pieces form a single connected group, that player wins. This can be either the moving player or the opponent (if the move is a capture, and that leaves all the remaining pieces connected). Note that by definition, if a player only has one piece left, they form a single group and thus they win. In case both players have a single group at the same time, the player that made the move wins. It's also possible that a player doesn't have any legal move to make for their turn, even if it's a very unlikely situation. In that case, the opponent wins.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] My memory of playing this (on BGA in 2017, before it was listed on BGG and so I am writing this ten years later) was that it was terrible. I see from its description here that it's a relative of Lines Of Action, which I like! And which I think I discovered around the same time. So I'm wondering if there are two identical-looking games named Alveole out there. Stranger things have happened!  [1 play]\n\n[Rating: 4.5/10] Designer: N/A Playing time: 30 Min Weight: 1.50 / 5 Publisher: (Web published)  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Medium LUCK : Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=343687][/thing] is an abstract strategy game of perfect information, in which you move your pieces in order to get all your pieces together, with some particular movement rules (you can jump over your own pieces, and have a limit and how much to move depending on the amount of open paths, etc). Is possible to eli\n\n[Rating: 5/10] Why o why only 9 pieces on a board that would accommodate 12, like in Lines of Action? As is, this game is clearly inferior to LOA and barely worth playing. With 12 bits it's actually pretty good (that's what I use my Abalone set for).\n\n[Rating: 9/10] Very nice and simple abstract game. I tried it a few years ago on BGA, I tried it with friends too by making my own board.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 4,
+  "rules_word_count": 296,
+  "community_word_count": 251,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.311527"
+}

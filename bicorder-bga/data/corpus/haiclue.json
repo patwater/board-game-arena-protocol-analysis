@@ -1,0 +1,19 @@
+{
+  "bga_slug": "haiclue",
+  "bga_name": "Haiclue",
+  "bgg_id": "286062.0",
+  "rules_text": "Rules summary Gameplay Each round, each player is randomly assigned one of the four words in the middle as their target. (Multiple players may be assigned the same target word.) The target word is marked by a small red triangle. Simultaneously, each player uses their word tiles to make a clue about their target word. Clues must contain at least two word tiles. After the first word has been selected, a second word must be chosen before clicking on a plus sign to indicate where the new word is to go. When everyone has finished making their clues, each player then guesses which of the four target words is suggested by the clue. Each player who guessed correctly gains 1 point, and the author of the clue gains 1 point for each correct guess. The game ends after a fixed number of rounds: 2 players 4 rounds 3-5 players 6 rounds 6-8 players 4 rounds 9-12 players 2 rounds Highest score wins. If there is a tie, all of the tied players win together. Two-player The two-player game is played cooperatively. The team earns one point each time a player guesses correctly, and must score at least six points to win. Eight points is a perfect score. Word tiles In the physical game, tiles are double-sided and black/white. After each round a player's own tiles are flipped over; after every other round they pass the tiles to the left. The BGA implementation appears to be doing this behind the scenes, but always showing tiles as if they were white (or black if set to dark mode).\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Just play Codenames instead.  It's so much better.  I played Haiclue game online, and it was miserable.  None of the clue words had anything to do with the secret word.\n\n[Rating: 1/10] Well it\u2019s not haiku, it\u2019s refrigerator poetry. But even as a party game, it\u2019s really dull, like way below Dixit.\n\n[Rating: 2/10] A word game about using a hand of random word cards to build a poem to try and clue which of four (other) words you've been assigned. You can build a (relatively) longer poem that resembles a haiku or something a little longer, or you can be quite minimalist and just use a word or two.  Unfortunately I didn't think this was as fun as the premise sounded. I sort of feel it should be more about the poetry, but then how would the scoring system work? It also ran a bit long as everyone has to guess on everyone else's effort, which despite a solid implementation on Board Game Arena did feel like it\n\n[Rating: 2/10] Codenames does it better.  The cards you get for clues are too random and it can be very luck based if they go with the word you need ppl to guess.\n\n[Rating: 3/10] Haiclue is a strictly worse version of Just One where your clues are limited to a pile of random words you've been dealt. Your results seem tied primarily to the luckiness of the words you have available, then to your creativity when merging unrelated words together. If that creative word use seems fun, you might find this game interesting, but you'll likely still lose to the person who was most lucky!\n\n[Rating: 4/10] See my profile for my rating methodology  4 - Below average. Slightly boring, could be talked into it on occasion. 4 - Underwhelmed by this game.  I really enjoyed the video game Blather Round included in Jackbox Party Pack 7.  This looked to rely on a similar level of creativity.  But the word pool is full of some really disconnected words.  I also feel like the game is missing modifiers.  The ability to say that your secret word is the opposite of a constructed clue would be very helpful and more interesting.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 268,
+  "community_word_count": 371,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.153877"
+}

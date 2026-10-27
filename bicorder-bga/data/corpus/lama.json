@@ -1,0 +1,19 @@
+{
+  "bga_slug": "lama",
+  "bga_name": "LLAMA",
+  "bgg_id": "266083.0",
+  "rules_text": "Rules summary Contents 1 L.L.A.M.A 2 Turns 3 End Round Scoring 4 End of Game L.L.A.M.A Each player is dealt 6 cards from the deck. The deck is made of eight cards of each number 1 to 6 and eight LLAMAs. The object of the game is to be closest to zero when someone crosses 40 negative points. Black token = -10 points White token = -1 points Turns Each turn, you may play either the same or one higher than the top card of the discard. With llamas counting as both higher than 6 and less than 1 creating a loop. If you can't or don't want to play, you may draw a card or quit the round. If you are the only one left in the round, you may not choose to draw. If the draw pile runs out, don\u2019t create a new one. From now on, you can\u2019t choose this action. The last player to take a turn in the previous round starts off the new round. End Round Scoring When one player has played all their cards or all players have quit the round then players' hands are scored. Each card is the face value and llamas are worth 10 negative points. You only score one of each rank For example if you have 5 3's it only counts as 3 negative points . Players take scoring tokens indicating their current score. If a player played all their cards that person may return one scoring token of any value. End of Game The game is over when one player obtains 40 negative points. The player with the highest (most positive) score is the winner.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] There are zero decisions to make in this thing. Zero agency, zero tension, zero fun. How this gets called a game I don\u2019t understand but SdJ defies belief!!\n\n[Rating: 1/10] Absolut terrible game. It is a riddle to me how this got nominated for Spiel des Jahres. There are hundreds of games like this which are not nominated.\n\n[Rating: 1/10] Absolutely horrible game!!! There are thousands of better games than this one. Why was LAMA nominated for Spiel des  Jahres I have no clue.\n\n[Rating: 1/10] Esto es un aut\u00e9ntico moj\u00f3n. Knizia, no me esperaba esto de ti. Qu\u00e9 desagradable experiencia.\n\n[Rating: 1/10] Far too dependent on original hand draw. Interesting dynamics, but sadly horrible execution for enjoyable gameplay.\n\n[Rating: 1/10] Knizia variant of Uno.  Wanted to try it given the buzz.  \u2013 Very dependent on initial card draw \u2013 Almost no decisions, you can prematurely quit to cut your losses. \u2013 Was bored even though the game took less than 10 minutes\n\n[Rating: 1/10] I can't think of a single redeeming factor about this game. Complete nonsense. I would rather play Go Fish or Uno than this drivel. At least those games have some nostalgia attached to them.\n\n[Rating: 1/10] Too simplistic and random without any interesting decisions at all. Would rather play UNO with the official rules.  Avoid!\n\n[Rating: 1/10] I see what it's trying to do, but the exciting rounds are rare compared to the dull ones. New players tend to go ALL OR NOTHING which kills most of the mindgames. I get this is meant for young children who maybe understand addition at most, but even with adults it's very rarely interactive. At least the sequel has the pink llama to inject some drama into the process.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 9,
+  "rules_word_count": 280,
+  "community_word_count": 293,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.126310"
+}

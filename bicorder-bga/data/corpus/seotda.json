@@ -1,0 +1,17 @@
+{
+  "bga_slug": "seotda",
+  "bga_name": "Seotda",
+  "bgg_id": "nan",
+  "rules_text": "Rules summary Contents 1 Game Overview 2 Goal of the Game 3 Gameplay 3.1 Preparation 3.2 Betting Phase 3.3 End of Round 4 Combinations (Ranking) 5 Game End & Scoring Game Overview In the high-stakes world of Korean gambling, players face off in Seotda , a tense battle of luck and psychological warfare. Thematically, you act as a bold gambler aiming to create the most powerful combination using only two cards. Mechanically, the game utilizes a condensed Hanafuda deck where strategic betting and calculated bluffing are essential to force opponents to fold before the showdown. Goal of the Game The goal is to hold the highest-ranking combination of two cards or to win the pot by bluffing opponents into folding. Gameplay Preparation A reduced deck of 20 Hanafuda cards is used (months 1 through 10 , two cards per month). Each player is dealt 2 cards (in the 3 -card variation, one card is discarded before the final bet). Betting Phase Once cards are dealt, players choose their actions: Die: Fold and forfeit the current stake. Call: Match the current bet. Raise: Increase the stakes. All-in: Bet all remaining capital. End of Round If multiple players remain after the betting phase, a showdown occurs. Hands are revealed, and the player with the strongest combination takes the entire pot. Combinations (Ranking) Rank Name Description 1 3-8 Gwang-ddeng The ultimate hand, consisting of the special cards from months 3 and 8 . 2 1-3 / 1-8 Gwang-ddeng The second-highest tier (special cards from months 1 & 3 or 1 & 8 ). 3 Ddeng Two cards from the same month (e.g., two 10s = Jang-ddeng). 4 Ggeut The sum of the two cards' months (last digit only). A 9 is the highest standard value (Gabi). Game End & Scoring The game ends after a fixed number of rounds or when only one player has capital left. Re-deal: In the event of a tie for the highest hand, the pot is typically carried over to the next round rather than split.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 340,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.382819"
+}

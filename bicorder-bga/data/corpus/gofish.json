@@ -1,0 +1,19 @@
+{
+  "bga_slug": "gofish",
+  "bga_name": "Go Fish",
+  "bgg_id": "7682.0",
+  "rules_text": "Rules summary Overview The aim is to collect sets of 4 matching cards Turn If you have a card, you can ask another player for cards of the same rank. If they have those cards, they must give you all copies. If they don't, you draw a card from the draw pile. If the rank of the drawn card is what you asked last or the card completes a 4 of a kind, you get another turn. Scoring Each time you hold 4 of the same card, you declare this and place them out to show as a \"Book\" When either the deck runs out or someone empties their hand, the player with the most Books wins\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] This game is like a rite of passage among children.  Thus, the decline of Western civilization...\n\n[Rating: 1/10] Asking for cards isn't a game, it's a lottery. Ok, it's an introduction to what a card deck looks like for kids, but that's about all it's good for.\n\n[Rating: 1/10] Luck + memory = kill me now.  But it's preferred by some non-gaming parents to Ticket to Ride, 7 Wonders, and other \"complicated, stressful strategy games that require too much thinking\".\n\n[Rating: 1/10] The rules literally support and encourage cheating and luck.  I hated this game when i was a kid and i hate it now.\n\n[Rating: 1/10] A children's game of guessing the hand of others. If you're right you get the cards if not, you go fish!",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 119,
+  "community_word_count": 130,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.244028"
+}

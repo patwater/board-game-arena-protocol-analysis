@@ -1,0 +1,19 @@
+{
+  "bga_slug": "linx",
+  "bga_name": "Linx",
+  "bgg_id": "399757.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Round End 4 Game End Overview Be the first to win 2 rounds Turn On your turn, you either place a tile face up, place a tile face down, or pass: If you place face up, the tile goes into an empty space next to or diagonally adjacent to another tile within the boundaries of a 5x5 grid (or 4x4 for two players) and you draw 2 new tiles To place face down, it must beat the tile it covers (show your tile before placing it). Tiles are beaten in traditional rock-scissors-paper-rock; you do NOT draw new tiles If you legitimately can't place a tile, or have no tiles in hand, you pass and draw 2 tiles Round End A player wins the round and the round ends then they achieve three tiles in a row horizontally, vertically or diagonally, with all three either face up or face down, not mixed. If no more tiles can be played, and the above criteria cannot be met, then the player with the most visible tiles wins the round Game End The first player to win 2 rounds wins the game!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] An absolute money grab - they\u2019ll probably make money cuz the art looks decent and people are gullible. This is barely a game.\n\n[Rating: 3/10] Idea is cool but poor execution as the combination of these 2 boring ideas is still boring.\n\n[Rating: 3/10] 3-in-a-Row with half an extra dimension. I'm not sure why you'd want to combine Tic-Tac-Toe and Rock-Paper-Scissors, and then add a random element on top. It works, I guess, but the only configuration worth even thinking about seems to be 2-vs-2, and even then, and in spite of the short playtime, it is quite boring.\n\n[Rating: 3.5/10] Total luck of the draw. I kept drawing rocks and was able to end the game in 5 turns or so. This just didn't do it for me.\n\n[Rating: 3.8/10] Gra wydaje si\u0119 strasznie g\u0142upia, cho\u0107 jest w niej ty\u0107k\u0119 taktyki. Ka\u017cdy ma tyle samo kart kamienia, no\u017cyc i papieru, wi\u0119c mo\u017cna liczy\u0107 karty i przewidywa\u0107, czego przeciwnik si\u0119 ju\u017c pozby\u0142. Ograniczone pole sprawia, \u017ce b\u0119dziemy musieli rywalizowa\u0107 o zwyci\u0119ski uk\u0142ad 3 kart z rz\u0119du. Jednak nie bawi mnie to, \u017ce ja zagram kart\u0119, kto\u015b mi j\u0105 zakryje i tak w k\u00f3\u0142ko. Nudne, powtarzalne i frustruj\u0105ce.  Ocena po 2 partiach w 2 osoby. \u015arednic czas gry = 6 min.\n\n[Rating: 4/10] Linx is a clever fusion of paper, rock, scissors, and tic-tac-toe, making it incredibly easy to explain the rules. It's super light and quick \u2013 my longest 2-player game lasted just 10 minutes. Its compact size and simplicity make it good for travel. Have yet to win a game. I'll keep it to play with my family.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 198,
+  "community_word_count": 271,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.393285"
+}

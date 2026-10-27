@@ -1,0 +1,19 @@
+{
+  "bga_slug": "mia",
+  "bga_name": "Mia",
+  "bgg_id": "41247.0",
+  "rules_text": "Rules summary Contents 1 Mia (Liar's Dice) - Quick Rules 1.1 Overview 1.2 Gameplay 1.3 Ranking of Rolls (High to Low) 1.4 Special Rules Mia (Liar's Dice) - Quick Rules Overview Players: 3 or more. Equipment: 2 dice, a dice cup, and a flat surface (e.g., a coaster). Objective: Avoid losing lives by successfully bluffing or rolling high values. Gameplay Play proceeds clockwise. The first player shakes the dice in the cup and keeps the result hidden. Roll & Announce: The player looks at the dice privately and announces a value. They may tell the truth or bluff. Pass the Cup: The cup is passed face down to the next player. The Next Player's Choice: The next player has two options: Believe: Accept the cup without looking. They must now roll and announce a higher value than the previous one. Challenge: Lift the cup to reveal the dice to everyone. If the announcement was a lie: The liar loses a life (or receives a penalty point). If the announcement was true: The challenger loses a life. Ranking of Rolls (High to Low) The higher die is always read as the tens digit and the lower die as the units (e.g., a 4 and 2 is \"42\", never \"24\"). 21 (Mia): The highest possible roll. If someone challenges a \"Mia\" and loses, they lose double the usual lives/points. Doubles: 11, 22, 33, 44, 55, 66 (in ascending order). High Numbers: 65, 64, ..., 32, 31 (the highest combination wins). Special Rules When a player announces a 21 (Mia), the round ends immediately after the cup is either challenged or accepted. The player who lost the previous round starts the next one.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] \"Meier\", as we call it in Denmark, is one of two games which are almost always played when hanging out at a bar! It's very casual but the bluffing element is what makes the game interesting. I would never play it at a game night, but I am always up for it when going out.\n\n[Rating: 4/10] Also known as \"Old Mexico\" or just \"Mexico\".  Dice bluffing game.  Yet Another Dice Game\n\n[Rating: 4/10] I love Liar's Dice, but Mia is a poor version. There are only 2 dice to roll. On your turn, you roll them secretly and then declare the result or lie. The result is read higher number first. The best result is 21, then pairs lowest to highest (11, 22, 33, 44, 55, 66), then highest to lowest values (65, 64, ...32, 31). Why that order I don't know. Every result is equally likely, so why not just arrange them from lowest to highest. The next player can 1) accept the declaration and roll the dice, 2) challenge the declaration, or 3) take ownership of the previous declaration as though it were thei\n\n[Rating: 4.5/10] games you can play in a bar. need 2 dice. Gets points for being so simple I can carry it in my wallet.\n\n[Rating: 5/10] Minimalistic dice cup bluffing game distinguished chiefly by the option to pass on the previous player's claim as your own. The resulting gameplay is subtle but unintuitive and strangely passive on the surface. Like most games of this type it probably benefits much from regular play and perhaps a minor gambling element.  Owned in the sense that I have two dice and a cup.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 282,
+  "community_word_count": 280,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.331791"
+}

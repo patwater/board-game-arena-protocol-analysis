@@ -1,0 +1,19 @@
+{
+  "bga_slug": "qwinto",
+  "bga_name": "Qwinto",
+  "bgg_id": "183006.0",
+  "rules_text": "Rules summary Game Play On your turn, roll 1\u20133 dice matching the row colors. Everyone may use the total to fill a shape in a row that matches one of the dice colors, following two rules: Numbers must increase from left to right in a row. No number can repeat in a vertical column. You may skip placing a number, but the active player (the roller) must take a penalty if they do. Game End The game ends when someone fills two rows or marks four misthrows. Scoring Scoring is based on: Completed rows (score the rightmost number), Completed columns (score the pentagon), Partial rows (1 point per number), Misthrows (-5 points each). Highest score wins!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Anytime I'm playing a pure push-your-luck dice rolling game like this, I'm always thinking to myself, \"I wish I was just playing CAN'T STOP.\"\n\n[Rating: 2/10] Naw. Normally roll-n-write games sit well with me, but not this one. It felt so cumbersome and aritificial that I really cannot see me playing this again; especially not if it is at my place where I have alternatives available.\n\n[Rating: 2/10] BGA game - Maybe it's because I played Qwixx first, but I really didn't enjoy this one, even though I think it's more popular and there is likely more strategy in it.\n\n[Rating: 3/10] Rating 4 = To someone with a simliar taste like me: Play this game if you don't have anything else to do.\n\n[Rating: 3/10] Advanced Bingo. Could be fun with the right crowd and energy, but also there's so many things I like better for that.\n\n[Rating: 4/10] Quick little game involving dice rolling and strategic placement of the results into a grid.  It's a fun way to kill 15-20 minutes with 4-5 people, but there are other games I'd rather play with similar play times.\n\n[Rating: 4/10] I'm growing tired of the genre, even if I recognize that Qwinto isn't at fault for what came after it.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 118,
+  "community_word_count": 212,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.106815"
+}

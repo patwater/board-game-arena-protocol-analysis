@@ -1,0 +1,17 @@
+{
+  "bga_slug": "expeditions",
+  "bga_name": "Expeditions: Around the World",
+  "bgg_id": "7388989.0",
+  "rules_text": "Rules summary Contents 1 Setup 2 Reveal 4 destinations per player 3 Gameplay 3.1 Tickets 4 End of game 5 Scoring 6 Additional notes Setup Every player get 3 tickets and 9 destination cards (12 cards if less than 4 players). Six additional destination cards are drawn face up for all players. Reveal 4 destinations per player Before starting the game, in turn order, each player must place a token in their color on a location on the board corresponding to a destination card in their hand. Repeat until everyone has placed 4 tokens. Tokens must be placed at least 3 paths from the wind rose. Gameplay On their turn, a player must place a blue, yellow or red expedition arrow on the board. The first arrow of each color must start at the wind rose. All other arrows must continue an expedition already started. If you reach a green destination , the player who owns the card for that location has achieved one of their personal objectives . They earn points and their token (if any) is removed from the board. If it is a common destination, the player places the card in front of them and adds a new card to the common destinations to replace it, so there are always 6 common destinations in play. If you reach a blue destination , you may play another arrow from any expedition . If you reach a red destination , you win a ticket . If a player makes a loop with an expedition, they benefit from the effect of their destination AND play another arrow of the same color starting from any point of the expedition. Tickets On their turn a player can play up to 2 tickets. A ticket allows you to either: \u2022 play another arrow from any expedition, \u2022 remove the last arrow from an expedition and apply the effect of the destination that was upstream; or \u2022 exchange one of your cards by drawing two from the draw pile and keeping one. End of game The game ends when a player has reached all their destinations . Play continues until everyone has had the same number of turns. A game also stops if all arrows have been played. Scoring ADD 1 point for: each destination card reached each destination token removed from the board SUBTRACT 1 point for: each card still in hand at the end of the game each token still on the board at the end of the game The player with the most points wins . In the event of a tie , the player with the most tickets is awarded. Additional notes An expedition cannot return to itself directly ( no round trip on the same path ). But several expeditions of different colors can follow the same path . Finally, the Earth is round, the red dots at the edge of the board are one and the same destination point (at the same height only).\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 498,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.202582"
+}

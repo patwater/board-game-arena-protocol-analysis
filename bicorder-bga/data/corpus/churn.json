@@ -1,0 +1,19 @@
+{
+  "bga_slug": "churn",
+  "bga_name": "Churn",
+  "bgg_id": "437052.0",
+  "rules_text": "Rules summary Contents 1 Setup 2 Gameplay 3 Pie Rule 4 Your Turn 5 End of Game Setup Choose a board layout. Note that layouts larger than 3 may take a long time to play. Gameplay To start, Red covers any space. From then on, starting with Blue, players take turns. Pie Rule On their first turn, Blue has the option to skip their turn and change colors. The existing Red marble will be treated as their own. The pie rule can only happen once per game. Your Turn On your turn, you must cover an empty space. You must form the smallest group of connected friendly marbles possible. Example: If you can place a marble in isolation, which makes a friendly group of size 1, you must do that. After placing a marble, you must remove all friendly groups that are smaller than the new group. Example: If you form a group of size 3, you must remove all friendly groups of sizes 1 and 2. End of Game The game ends when the board is full. The player with the most marbles on the board wins. Note that a tie is impossible.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] Designer: Mark Steere Playing time: 15-30 Min Weight: 1.00 / 5 Publisher: (Web published) Player count: 2 (best with: 2)  [b]COMPLEXITY: Very low COMPONENTS: N/A DOWNTIME: Low FUN: Low INTERACTION: Medium PLAYING TIME: Low LUCK: Very low REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=437052][/thing] is an abstract strategy game about piece placement in a hexagon grid. The ideia is that players will take place a piece which must not touch others, until there is not a way to do this, when the rule is that the player must make the smallest group possible,\n\n[Rating: 4/10] Funny is that it's actually kinda fun but I have no idea what I'm doing to win. The strategy is very opaque.\n\n[Rating: 4/10] Controling centre too strong? Digital  Some moves weren't allowed and autoplay was nice but I had alternative better moves\n\n[Rating: 5/10] Fairly opaque in the early and mid game. The churn makes it feel repetitive, although that's thematic. Rules are straightforward. Turns are snappy.\n\n[Rating: 6/10] I don't normally like Mark's games that much, but this one was neat. The protocol is a bit difficult to execute in practice, however I like how this reminds of some of my favorite games like Circle of Life in the sense that the board feels like it ebbs while it grows. Not bad.\n\n[Rating: 8/10] This game fascinates me.  There is a way to determine a good move from a bad, but it is so far down the look-ahead road that I prefer to just place by feel and enjoy the ride.  Built my own set with 1 inch magnetic hexes and 15mm discs.\n\n[Rating: 8/10] As far as abstracts go, the game is something of an art piece.    At the normal size it's an interesting puzzle for the class of player who enjoys these kinds of games.  You have to optimize your placement so as to climb the group size rungs quickly, while keeping an eye out for ways to artificially force early group mergers.  I quite like it and will probably play it a few more times.  When playing larger board sizes, the game moves glacially.  I have come to think of long sequences as \"moves\" and I no longer consider the individual moves themselves.  That's why I call these larger sizes \"art",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 196,
+  "community_word_count": 387,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.408585"
+}

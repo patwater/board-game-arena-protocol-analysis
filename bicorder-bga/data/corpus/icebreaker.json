@@ -1,0 +1,19 @@
+{
+  "bga_slug": "icebreaker",
+  "bga_name": "Icebreaker",
+  "bgg_id": "7520.0",
+  "rules_text": "Rules summary Setup The game is played on a hexagonal grid with side length 5 (could be also 6, 7 or 8). Each player has 3 ships, which are placed at corners. The rest are icebergs. Gameplay On your turn, you must move one of your ships to an adjacent space without a ship. You must move it closer to one of the nearest iceberg(s) in the progress. If there is an iceberg in the space, you capture it. End of the Game If you capture the majority of icebergs (for example, 28 icebergs on a size 5 board), you win!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 8/10] Really fun game to play with people who want to \"break the ice\" remember to take a camera! Your Grandma would probably not approve :-)",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 1,
+  "rules_word_count": 103,
+  "community_word_count": 27,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.375524"
+}

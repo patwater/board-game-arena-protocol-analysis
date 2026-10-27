@@ -1,0 +1,19 @@
+{
+  "bga_slug": "sherlockthirteen",
+  "bga_name": "Sherlock 13",
+  "bgg_id": "149869.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 2-player games 4 Game End Overview Be the first to deduce who the Criminal is! Turn Every player has a number of innocent suspect characters in hand, and one card is facedown on the table as the criminal card. On your turn, you can do 1 of the following: ask everyone, ask one person, or accuse a character. ASK EVERYONE ~ You ask everyone whether they have ANY of a specific icon and they reveal whether do or not, but not how many. This does not reveal to the other players whether YOU have any. ASK ONE PERSON ~ You ask a single player HOW MANY of a specific icon they have. The information is revealed only to the asking player. ACCUSE A CHARACTER ~ You get ONE chance to accuse a character of being the criminal. Select the character to accuse and look at the card secretly. If correct, you win! If incorrect, you are now out of the game but still have to answer questions from others. NOTE that in BGA, this can be automated for you so that you don't have to stay at the table. On your BGA clue sheet, you can click the blank box to the right of each character to note whether they are innocent, to a named player, to guilty, and blank again. Keep clicking the box to toggle through the options. 2-player games The \"ask everyone else\" action is replaced by a 'card exchange' action. The game starts with 3 face-down cards: the criminal and 2 innocent people. When you use the exchange action, take one of the face-down innocent cards and put it in your hand for only you to see. Then, select a card from your hand and place it FACE-UP where the innocent card was. Since there are only 2 facedown innocent cards, the exchange action can only be taken twice during the game. All other game rules are the same. Game End The game can end in victory one of two ways: ~ If you Accuse correctly on your turn, you win! ~ If you are the last player in the game, you win!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2.5/10] The game is pretty terrible; it\u2019s basically Clue without a board, with childish gameplay, poor production, and lazy art.\n\n[Rating: 3/10] Plays like Guess Who for grown ups. A waste of my favorite intellectual property, other than the lovely artwork Vincent Dutrait did for it.\n\n[Rating: 3/10] Not obscenely bad, but this deduction game was so abstract and barely there. At least it was quick.\n\n[Rating: 3.5/10] Designer: Hope S. Hwang Playing time: 15 Min Weight: 1.61 / 5 Publisher: Mandala Jogos Player count: 2-4 (best with: 4)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Low INTERACTION: Medium PLAYING TIME: Low LUCK: Medium REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=149869][/thing] is an abstract family card game about deduction. The ideia is that players will try to find the criminal - each person receives some cards, which they know aren't the culprit; and by asking others about some particular characteristics of the suspects, everyone is \n\n[Rating: 4/10] It's a good filler for some quick deduction.  It plays in about 10 minutes, 15 at most.  The only issue I've seen is that everyone seems to figure it out at approximately the same time (within 1 turn of each other), which unfortunately takes away some of the tension.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 367,
+  "community_word_count": 211,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.257768"
+}

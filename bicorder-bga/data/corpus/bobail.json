@@ -1,0 +1,17 @@
+{
+  "bga_slug": "bobail",
+  "bga_name": "Bobail",
+  "bgg_id": "310888.0",
+  "rules_text": "Rules summary Contents 1 Game Overview & Movement Rules 2 Victory Conditions 3 Game Setup 4 Turn Actions Game Overview & Movement Rules Bobail is a two-player African strategy game. It is played on a square board arranged in a 5x5 grid. Each player has 5 tokens: one player moves the red tokens, and the other player moves the green tokens. A neutral yellow token, called the Bobail, is moved around the board by both players. Tokens can move in a horizontal, vertical, or diagonal direction. Tokens cannot jump over other tokens. Victory Conditions If the Bobail is moved to either player's home row, that player wins the game immediately. If a player cannot move the Bobail on their turn (because it is completely surrounded), that player loses. Game Setup At the beginning of the game, each player's tokens are lined up in their home row. The yellow Bobail is placed in the center of the board. Turn Actions On the first turn of the game, the first player only performs turn action 2 (Move one of the player tokens). On every turn thereafter, a player must perform the following two turn actions in this specific order: 1. Move the Bobail. The player moves the Bobail one square in any direction. 2. Move one of the player tokens. The player moves one of their player tokens, as far as it can go in any one direction. If you surround the Bobail you win the game. Remember: Tokens can move in a horizontal, vertical, or diagonal direction. Tokens cannot jump over other tokens.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "",
+  "community_sources": [],
+  "community_review_count": 0,
+  "rules_word_count": 264,
+  "community_word_count": 0,
+  "corpus_quality": "rules_only",
+  "fetched_at": "2026-10-27T02:15:10.336828"
+}

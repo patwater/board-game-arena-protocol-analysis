@@ -1,0 +1,19 @@
+{
+  "bga_slug": "minhwatu",
+  "bga_name": "Minhwatu",
+  "bgg_id": "5451.0",
+  "rules_text": "Rules summary Contents 1 Turn 2 Round End 3 Game End 4 Individual card scoring 5 Yaku scoring (card combinations) Turn On your turn, play a card, then flip a card blind from the deck, in both instances, the following is true: If it matches the suit of 1 card in field, you capture the two cards If it matches the suit of 2 card in field, you capture the one of the two cards it matches along with your card If it matches the suit of 3 card in field, you capture all four cards If it matches the suit of 0 card in field, you add your card to the field and capture nothing A Suit is the Month or Flower of the card Round End The round ends when all cards are played from everyone's hand You score the value of your cards Plus Yaku multiplied by player count Minus Opponent Yaku Game End After the number of rounds decided at the start of the game, the game ends and whoever has the highest cumulative score wins Individual card scoring Bright is 20 Animal is 10 Ribbon is 5 Chaff is 0 Yaku scoring (card combinations) Five Birds (optional) 50 Poetry Ribbons 30 Blue Ribbons 30 Grass Ribbons 30 Four Irises 20 Four Maples 20 Four Willows 20 Four Paulownias (optional) 20 Remember, when making a yaku, points also get subtracted from each opponent.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] For a game that's almost entirely random, the rules are pretty complex. Oh well, at least the cards were pretty, even if they were also difficult to hold.\n\n[Rating: 3/10] A little hard to rate, as there are so many variations of rules and scoring systems.  Varying complications of scoring systems exist, but none really matter as the game is completely dominated by luck unless one player is just completely unskilled (or hasn't learned cards or scoring system).  If the cards are stacked favorable to your play, you win.  If not, you lose.  Heck, you can't even actually guarantee a loss no matter how much you try for one.  It's basically War with a thinly veiled disguise to make it look like your play actually matters.\n\n[Rating: 3/10] the polish edition loses a lot of points by saying 2-6 on the box, and then admitting in the rules it's only 2-3. are there any decisions here?\n\n[Rating: 3/10] SOLD IT!  Bought my copy in a Japanese grocery store, I was curious to learn it was Nintendo's first game. Can't say anything about it grabbed me, other than the mystique of being a foreign deck of cards.\n\n[Rating: 3.5/10] [thing=5451][/thing] is card game, of which I played several variations, including a Korean one, that is about set collection and push your luck.  In a lower level, this could easily be called \"Top Deck the Game\", as the luck in revealing a good card from the top is basically what decides the hands - sure, there are some decisions regarding which Yaku to go after, and, when needed, what to discard, often setting yourself up for the next play.  Thus, to me, a player without much experience, the hands are often decided way too much luck of the draw, leading to some frustrating games (I was fortu\n\n[Rating: 4/10] Great looking cards. Forget the games to be played with them, make something more interesting up. Just get the cards and show them to your friends and neighbours.\n\n[Rating: 4/10] Let's not kid ourselves, the reason this game has any appeal is 1.) Gambling, and  2.)  Throwing cards at the table as hard as you can.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 7,
+  "rules_word_count": 239,
+  "community_word_count": 365,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.283352"
+}

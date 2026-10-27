@@ -1,0 +1,19 @@
+{
+  "bga_slug": "toeshambo",
+  "bga_name": "ToeShamBo",
+  "bgg_id": "258723.0",
+  "rules_text": "Rules summary Contents 1 Objective 2 Composition of each deck 3 Gameplay 4 Acknowledgements Objective A player wins the game when one of the following occurs: The player gets three of their cards with the same symbol in a row or a column or diagonal; The other player cannot make a move on their turn, or; Both players have played all of their cards, and that player has more visible cards on the board. Composition of each deck 8 scissors 8 papers 8 rocks 1 bomb 2 undos Gameplay Each player takes a deck, shuffles, and draws 3 cards. The players play 'rock, paper, scissors' to decide who goes first. On your turn, play a card to the 3x3 grid, and then draw a card. You can play a card on top of another card if your card beats the other card. Rock beats scissors, scissors beats paper and paper beats rock. An undo card removes the most recently played card from the game. A bomb card removes all the cards under it, and disappears the next time a card is played. Play until a player completes an objective. That player wins. Acknowledgements Above contents are edited by Ariel Friedrich Gauss according to http://ber00000.free.fr/BGA/ToeShamBo%20Rules%20Book.pdf Additional edits by user Dirty Patronus\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 1/10] Abstract strategy game about trying to connect 3. Very limited moves, almost like tic-tac-toe. Simple game.\n\n[Rating: 2/10] A hybrid of tic-tac-toe and rock-paper-scissors that's as forgettable as you'd imagine from that description.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 2,
+  "rules_word_count": 212,
+  "community_word_count": 35,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.337022"
+}

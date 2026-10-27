@@ -1,0 +1,19 @@
+{
+  "bga_slug": "thenumber",
+  "bga_name": "The Number",
+  "bgg_id": "307450.0",
+  "rules_text": "Rules summary Contents 1 Overview 2 Turn 3 Exhausting all available digits 4 Final Turn 5 End of Round 6 End of Game Overview A Bluffing game of 2 Rounds with 5 turns each round Turn Simultaneously, everyone writes down a 3 digit number from those that are available to you Reveal, if your number is bigger than someone else's, BUT they have a matching digit, you disqualify If you accidentally wrote a number that wasn't available to you, you disqualify If you match another player's number, you both stay in All non-disqualified players write the left most digit of their 3 digit number as their score The non-disqualified player with the biggest number gains the round bonus All non-disqualified players cross out all digits used that round, so they are no longer available Disqualified players gain a score of 0 BUT keep all their digits Exhausting all available digits In the event that you cross off all 10 digits before the round ends, you will not submit a number and will score 0 points for each of the remaining turns in the round. Final Turn In the final turn, non-disqualified players double their score BEFORE applying the bonus (if any) End of Round Count how many digits you crossed out and enter the quantity in the squiggle space Add this to the values across your score spaces to get your round score Flip your board and put your round 1 score in the round 1 space Erase your front board and continue into Round 2 the same as outlined above End of Game The game ends after the end of the second round, where you will add together your first round and second round scores The player with the highest score wins If a tie, all tied players win together\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 2/10] One of the least compelling games I've played in a while. Bad name. Bad art design. Really feels like just a game mechanic in a box rather than a full game.\n\n[Rating: 2/10] The Number aka Numberwang.  Featured on [url=https://boardgamegeek.com/geeklist/346652/keep-or-cull-2024][i]Keep or Cull? (2024)[/i][/url].  Sold.\n\n[Rating: 3/10] Boring and random as hell, getting worse as number of players grow. I don't see any reason to replay it.\n\n[Rating: 4/10] Not quite as funny as I'd like? I'm normally into psychic bullshit games but this one's not really that, especially with a full table.\n\n[Rating: 4/10] Designer: Hisashi Hayashi Playing time: 15-20 Min Weight: 1.33 / 5 Publisher: Repos Production Player count: 2-5 (best with: 3-4)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Very low FUN: Medium INTERACTION: Medium PLAYING TIME: Low LUCK: Medium REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=307450][/thing] is an abstract family game about simultaneous action selection and risk and reward. The ideia is that players pick at the same time 3 numbers (which can be repeated) from 0 to 9 to form a 3 digit number. Then these numbers are revealed and\n\n[Rating: 4/10] [b]1st Play Thoughts [BGCOLOR=#FF66CC]\u2000[b] 4 [/b]\u2000[/BGCOLOR] (Aug 2023):[/b]  This game was not very compelling. The concept is simple sure but all it boils down to is try to write a number and hope it isn't cancelled out by an opponent. It is short but not quite lively enough to be a party game and it is definitely not strategic enough to be a competitive game so that leaves me wondering who it is for or what it is trying to accomplish.  The scoring is weird and I found the game to be pretty boring for the most part. Granted this was an online play, maybe it is more lively in person but I did",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 6,
+  "rules_word_count": 303,
+  "community_word_count": 307,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.387811"
+}

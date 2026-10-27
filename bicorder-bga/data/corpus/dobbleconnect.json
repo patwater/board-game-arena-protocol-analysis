@@ -1,0 +1,19 @@
+{
+  "bga_slug": "dobbleconnect",
+  "bga_name": "Dobble Connect",
+  "bgg_id": "381429.0",
+  "rules_text": "Rules summary Dobble Connect is played in real time and simultaneously. Look for a symbol on the table that matches a symbol on the hex in your hand, and click the symbol on the table. You can then place your hex onto the table, adjacent to the hex that you clicked. First to get four of their hexes in a straight line row wins a point and ends the round, clearing the table. When you win a point, everyone else gives you one of their hex tiles . This gets shuffled into your hand and may come up later in the game. When you play it, it will count as belonging to whoever's colour it is! First to 5/4/3 points (for 2/3/4 players) wins.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Dobble with some spatial placement and an annoying catchup mechanism. You're placing matched tiles adjacent and trying to build a row of four, moving player focus to the ends of any row of three - which maybe works better face-to-face than on BGA, where you can't tell where anyone's looking.\n\n[Rating: 5/10] Designer: Denis Blanchot, Jacques Cottereau, Guillaume Gille-Naves, Igor Polouchine Playing time: 15 Min Weight: 1.00 / 5 Publisher: Zygomatic Player count: 2-8 (best with: 3)  [b]COMPLEXITY: Very low COMPONENTS: Medium DOWNTIME: Very low FUN: Low INTERACTION: High PLAYING TIME: Low LUCK: Medium REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  About [thing=381429][/thing]:  [b]1) What is it?[/b] [thing=381429][/thing] is a pattern recognition game, and is played in real time - usually in a great hurry.  It got a small set of rules and can be played by anyone that can see and talk\n\n[Rating: 5/10] This was rough. I had a really hard time finding connections, and the constantly evolving board didn't help.\n\n[Rating: 5/10] Mehh...:D Am\u00fagy ok\u00e9s j\u00e1t\u00e9k, nyilv\u00e1n gyerekekkel, csal\u00e1doknak, t\u00e1rsasj\u00e1t\u00e9kos mugliknak abszol\u00fat sz\u00f3rakoztat\u00f3 lehet, csak m\u00e1r \u00e9n hadd ne j\u00e1tsszak vele. :D",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 4,
+  "rules_word_count": 126,
+  "community_word_count": 189,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.339066"
+}

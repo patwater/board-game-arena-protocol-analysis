@@ -1,0 +1,19 @@
+{
+  "bga_slug": "roadtothreehoundred",
+  "bga_name": "Road to 300",
+  "bgg_id": "414816.0",
+  "rules_text": "Rules summary Contents 1 Introduction 2 Round Procedure 2.1 Step 1 - ROLL THE DICE: 2.2 Step 2 - CROSS OUT A SQUARE ON THE BOARD: 2.3 Step 3 - MOVE: 3 End of the Game Introduction In Road to 300, you will create a maze around yourself as you move through a 6-by-6 grid of squares collecting points. Can you collect 300 points before you run out of places to move? Although designed as a solo game, here on BGA up to 6 players can compete for highest score. Round Procedure At the beginning of each round, all three dice are rolled. You will choose 2 dice as coordinates to cross off the corresponding square on the board. Then use the last die's value to move on the board, earning the points shown on the square where you end up. When you run out of squares to move to, you are out of the game. Step 1 - ROLL THE DICE: Roll all three dice. This is done automatically by BGA. Step 2 - CROSS OUT A SQUARE ON THE BOARD: Choose two of the dice, and cross out the square matching their coordinates. All possible coordinates will be highlighted on the player board for you. You will not be able to move through or move onto that square to score its points for the rest of the game. You MUST cross out a square every round. You cannot cross out a square that is already crossed out or has a circle on it. If you are unable to cross off a new square, you must pass, as indicated by an X in your player info. When you pass a third time, you are out of the game. Step 3 - MOVE: Use the 3rd die to move to a new square on the board. You must take steps equal to the value of the die. If the die is 2, take 2 steps. You can change direction as much as you like while moving but no diagonals, backtracking, revisiting the same square, or moving through/onto a crossed square are permitted. All possible ending squares will be highlighted on the board for you to choose from. Collect points equal to the value of the square where you end your movement. A circle will appear on that square. Your 1st step in the game will be onto a corner, with subsequent steps moving out from there. Once you move onto a new square, your previously circled square will be crossed out. Like all squares with an X, you will not be able to move through or move onto it again. End of the Game The game can end for you in two ways: You passed 3 times. You are unable to move the full number of steps shown on the movement die. If you reached 300 or more points, you win Road to 300!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] Designer: N/A Playing time: 5-10 Min Weight: 1.15 / 5 Publisher: (Web published) Player count: 1-2 (best with: 1)  [b]COMPLEXITY: Very low COMPONENTS: N/A DOWNTIME: Very low FUN: Medium INTERACTION: Very low PLAYING TIME: Very low LUCK: High REPLAY VALUE: Medium SOLITAIRE: Very high THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=414816][/thing] is an abstract dice game about solo play, grid coverage and dice rolling. The ideia is that the player will roll 3 dice, using 2 to cover a square, then the 3rd to mark a square to score. Play continues like so, always using two dice to block an area, \n\n[Rating: 5/10] It's a roll and write. Nothing too special about it. Okay, if you have nothing to do and no better game to kill the time.\n\n[Rating: 6/10] \"Very simple roll-and-write solo dice game. High randomness, but there is definitely some skill. Amusing passtime.\"  What I like: - Simple and quick - The depth was not obvious at first  What I don't like: - Themeless - Quite high randomness",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 3,
+  "rules_word_count": 486,
+  "community_word_count": 171,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.319788"
+}

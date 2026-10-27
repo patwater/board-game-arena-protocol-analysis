@@ -1,0 +1,19 @@
+{
+  "bga_slug": "hokito",
+  "bga_name": "Hokito",
+  "bgg_id": "114562.0",
+  "rules_text": "Rules summary How to play? - To win the game, you\u2019ll have to create stacks of pawns or steal the control of your opponent\u2019s towers. - Moves are made by 1, 2 or 3 squares depending on the value of the top pawn of the stack you are moving. Movement is always orthogonal and never diagonal. - You can move a stack only if you control it (with a pawn of your color on top). - A single pawn can only be stacked on top of another single pawn, and stacks can only land on top of other stacks. - To move your pieces, you will only be able to move through the occupied squares. Empty squares are passed straight over without counting them. Look for hidden shortcuts to thwart your opponent\u2019s strategy. - The game ends when a player isn't able to make a legal move - Scoring Is calculated by multiplying the top piece on each stack by the number of pieces in the stack. I.e. a stack or 4 with a II on top is worth 2x4=8. Links - CosmoLudo - BGG\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3.5/10] on BGA, need to re-read the rules for movement, but really don't care to play again\n\n[Rating: 4/10] Tried this on BGA -- seems interesting but I feel like its hard for humans to compute the valid moves and come up with a decision tree / strategy. Reminds me a bit of Kamisado\n\n[Rating: 4.89/10] I appreciate games like it...DVONN amongst others, but I didn't get on with this BGA www.youtube.com/AmassGames  The moment element is good but a factor whilst clever needs tertiary planning\n\n[Rating: 5/10] Designer: Claude Leroy Playing time: 6-20 Min Weight: 2.00  / 5 Publisher: Cosmoludo Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=114562][/thing] is an abstract strategy game about point to point movement. The idea is to move your pieces in order to capture those of the opponent - with the restriction that single pieces can only take singles, and stacks only other stacks (no matter the size of them). Pieces \n\n[Rating: 5/10] First chunk of the game seems irrelevant and also uninteresting. It is just a path to getting to the second half of the game where you actually have an interesting puzzle to solve.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 187,
+  "community_word_count": 217,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.226113"
+}

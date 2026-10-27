@@ -1,0 +1,19 @@
+{
+  "bga_slug": "qawale",
+  "bga_name": "Qawale",
+  "bgg_id": "368465.0",
+  "rules_text": "Rules summary Be the first to align 4 pebbles of your color, either in a row or diagonally. Gameplay Each player starts with 8 pebbles of their color in their hand, while there are 8 neutral pebbles on the initial board. On your turn, you must add a pebble from your hand to the top of an already-existing stack on the board. ( Note: a single pebble on the board counts as a stack ) Then, you must take that stack of pebbles and replace them on the board: - you must place first the pebble that was at the bottom of the stack, then the following ones in ascending order. - the first pebble must be placed on an adjacent spot to the position of the stack. The next ones must be placed orthogonally adjacent to the previous spot. - you cannot move directly back to the spot you just came from. However, you can circle back to it if you have enough pebbles. Win condition You win if you make a line of 4 of your pebbles, either in a row or in a diagonal. Only the topmost pebbles of stacks count for the victory condition. If both players have placed their 8th pebble without triggering a win, the game ends in a tie.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] This is super interesting at first, but it's super prone to ties.  this removes my interest.\n\n[Rating: 4/10] There are other abstracts where the goal is to create a line of 4 in a row that I prefer.\n\n[Rating: 4/10] It's simple so there's that. Nothing special though; it has connect 4 replayability.\n\n[Rating: 4/10] I'm quite sure the skill curve is quite flat, and a competently played game will always end in a draw. Still, the occasional blunder makes this a good tactical introductory game with just a little more depth than the classic tic-tac-toe.\n\n[Rating: 4.5/10] Love the look and tactility of this game, but after 20-30 plays it seems to be extremely drawish, and not in a particularly exciting way. Maybe I'm writing it off too soon, I don't know.  Also $40 strikes me as a touch steep.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 218,
+  "community_word_count": 143,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.283580"
+}

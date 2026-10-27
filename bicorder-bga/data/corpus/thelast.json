@@ -1,0 +1,19 @@
+{
+  "bga_slug": "thelast",
+  "bga_name": "The Last",
+  "bgg_id": "355113.0",
+  "rules_text": "Rules summary Contents 1 Goal of the game 2 Round setup 3 Trick play 4 Round scoring 5 2-player variant Goal of the game Score as few points as possible while making your opponents gain the cards they absolutely don't want! Round setup Shuffle 48 cards from 1 to 12 in 4 colors. \u2022 3 players: deal 12 cards to each player \u2022 4 players: deal 9 cards to each player \u2022 5 players: deal 8 cards to each player The remaining cards form the points pile. In each round, the first player of the first trick is randomly decided. Trick play Turn the first card in the points pile face up. The first player plays a card in hand. Clockwise, each player except the last player must play a card of the color chosen by the first player, unless they have none. However, the last player can play any color already played during the trick. If they have none of these colors. they play the card of their choice. In all cases, the color of their card indicates the winning color. So, if the last player cannot follow any suit played, the last player wins the trick. The player who played the card with the highest value of the last player's color takes the card from the points pile revealed at the start of the trick. They may then choose to either: \u2022 place it face-down next to them \u2022 put it in their hand and replace it with a card from their hand, which they place face-down next to them. All played cards are discarded, and the winner of the trick becomes the first player of the next trick. Round scoring Once all the cards have been played, the round is over. Each player adds up the values of the cards placed face-down next to them and scores the equal amount of penalty points. The player with the lowest penalty score wins! 2-player variant Deal each player 12 cards, and make a pile of face-down 12 cards and place it to the right of the first player of the first trick. This is the ghost player's pile. Remaining cards form the points pile as usual. The ghost player will play automatically, always revealing the top card of their pile. Otherwise, play according to the usual rules. When it's the ghost player's turn, play the first card from their pile, then play clockwise. When the ghost player wins the trick, put the card from the points pile in front of them and start a new trick. At the end of the game, don't count the ghost player\u2019s points.\n\n---\n\nThe Last Gig is a board game that simulates your band life on the road: unforgettable concerts and poor food, merch to sell after each Live, and records to be recorded in the studio. But mostly many, many, MANY kilometers to travel with your partners!\n\nThere is only one way to beat your opponents: get on stage!\n\nOn your turn, roll the dice, stop in the tour spaces, play in awesome venues, do live sessions to get (or lose) Tour Points, spin the Rock Wheel to or buy new Merch cards that you can sell at your next Live session.\n\nRace around, gather as much Tour Points as possible, and be the first to finish the game with your Last Gig!",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 9/10] Interesting attempt to put on a board real things happened on pro musicians on tour. It's basically a fun game, but there's a little bit of strategy in it.\n\n[Rating: 9/10] Playtested during Punk Raduno in Bergamo. Great time and super nice guys! Wish the best for your game!",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 2,
+  "rules_word_count": 561,
+  "community_word_count": 51,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:09.991993"
+}

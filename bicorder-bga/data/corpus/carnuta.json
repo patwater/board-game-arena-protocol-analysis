@@ -1,0 +1,19 @@
+{
+  "bga_slug": "carnuta",
+  "bga_name": "Carnuta",
+  "bgg_id": "457386.0",
+  "rules_text": "Rules summary Contents 1 Game Play 2 Game Board 3 Other 4 Game End Game Play Perform two actions out of four possible actions. You can do the same action twice or take two different actions: \u30fbTake a card into your hand. The hand limit is 3 but the limit is only checked at the end of your turn. \u30fbPlay a card from your hand; pay (discard) or flip the corresponding runes listed on the top of the card. A swoosh and an arrow means you will flip the rune to its other side. \u201cX\u201d means you will discard the rune to the center of the table. Runes are discarded without changing their faces. \u30fbTake runes from the reserve; you take as many runes with the same symbol as are available from the reserve, up to your limit. \u30fbFlip your runes so that they are either all suns or all moons. Game Board \u30fbPlacing your 4th card into your tableau will unlock one extra slot for runes. Placing your 8th card will unlock another extra slot for runes. \u30fbPlacing your 6th and 10th card will allow you to pick a token from the reserve. A token adds to your count of that symbol for end game scoring purposes. Other \u30fbAs a free action on your turn, you can discard one of your sickle tokens to refresh one of the two rows of cards. \u30fbSalt cards are wild and must be played onto cards already in your tableau Game End The end of the game begins when one player adds an 11th card to their tableau; finish the round so that everyone has an equal number of turns and then play one last round. Scores are determined by the scoring conditions of each card. The same cards/icons can be counted towards multiple scoring conditions. The player with the highest score wins the game!\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Ok tableau builder with interesting resource management. There\u2019s something in the scoring multipliers that is either too fragile or too dense for me to grok, but it all seems to work fine.\n\n[Rating: 5/10] Designer: Yohan Goh, Hope S. Hwang, Gary Kim Playing time: 25 Min Weight: 2.00 / 5 Publisher: Repos Production Player count: 2-4 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low to medium FUN: Medium INTERACTION: Low PLAYING TIME: Low  LUCK: Medium REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=457386][/thing] is an abstract family game about set collection, open draft and resources management. The ideia is that players, with their 2 actions per turn, will pay for cards, using their tokens, and will often lose their tokens, then will\n\n[Rating: 5/10] Very restrictive game. Does not give a sense of progression, since randomness plays a significant part in spite your ability to redress the market.\n\n[Rating: 5/10] Played on BGA a couple time very average game to be honest. I wouldn't want to play this more than 2-3 times. Art work is really nice, especially each durid has its theme and personality. Stunning 10/10 for art.\n\n[Rating: 5/10] Un juego soso y simple de coger cartas y girar fichas para bajar esas cartas m\u00e1s r\u00e1pido que el resto de jugadores. M\u00ednima interacci\u00f3n adem\u00e1s. Lo mejor es que dura poco.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 314,
+  "community_word_count": 228,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.147016"
+}

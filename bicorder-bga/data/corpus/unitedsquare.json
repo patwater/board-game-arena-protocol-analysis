@@ -1,0 +1,19 @@
+{
+  "bga_slug": "unitedsquare",
+  "bga_name": "United Square",
+  "bgg_id": "119316.0",
+  "rules_text": "Rules summary Contents 1 Goal 2 Rules 3 Ending the game 4 Game preferences Goal The goal is to be the player who has the most squares of their color. Rules The game uses pieces of six types, where each piece is in shape of a square. The sides of each piece are colored with one of red, yellow, green, blue, so that a piece has one side for each color. Each \"side\" appears as a triangle. Each player on their turn puts a square next to a square already on the board. The piece may be rotated, but not reflected. The sides coinciding with previous pieces on the board must match in color. It's possible for a blank square to be adjacent to two sides of the same color, blocking said square from being occupied (because there is no piece that has two sides of the same color). When a player cannot put any piece, the turn is passed. In all other cases, the player must put some piece. Due to the appearance of a side as a triangle, matched sides form a tilted square. Each of these squares scores a point for the person holding this color. Ending the game When no more piece can be put by any player, the player with the most squares of their color wins. Game preferences The colorblind option available for this game enables an alternative setup displaying symbols on the tokens using the great color code designed by Miguel Neiva: ColorADD . Learning the code is easy, just take a look at the following synthesis panel: HAVE A GOOD GAME!\n\n---\n\nThere are 12 tiles with 4 colors red, blue, green and yellow for each of 4 players with his color on backside.\nIn his turn player places the tile on the 5x5 grid gameboard so that all colors of the adjacent tiles fit.\nObject is to form squares of the own color while preventing others to do so.",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] I don't really care for the primary colors, but the geometric shapes are a nice, clean design.\n\n[Rating: 3/10] BGA: Not much of a game here.  After several plays - this one is pretty terrible. Almost always a tie.\n\n[Rating: 3/10] It was very hard to get more than a piece advantage so most games I've played/seen end in a tie or within one point from each other.  It's not a fun game and ending in a tie all the time is like constantly getting cat's cradle in tic-tac-toe.  There is a tie-break rule but it's equally as unsatisfying as playing the game is.\n\n[Rating: 4/10] Dull abstract game that doesn't leave much room for point differences or piece advantage or anything. Meh.\n\n[Rating: 5/10] Designer: Julien Selz Playing time: 15 Min Weight: 1.83 / 5 Publisher: United Square  [b]COMPLEXITY: Medium COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK : Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very Low[/b]  [b]Comments:[/b] [thing=119316][/thing] is an abstract strategy game of perfect information, that happens, normally, in a 5x5 or 7x7 squares board. Players have a set of square pieces, each with 4 triangules of different colors (blue, red, yellow and green). With 2 players, each person represents two colors, and with 3 or 4, only one",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 328,
+  "community_word_count": 221,
+  "corpus_quality": "good",
+  "fetched_at": "2026-10-27T02:15:10.054948"
+}

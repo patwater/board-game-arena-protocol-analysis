@@ -1,0 +1,19 @@
+{
+  "bga_slug": "olenon",
+  "bga_name": "Olenon",
+  "bgg_id": "450043.0",
+  "rules_text": "Rules summary Overview Olenon is a shredding game for two \ud83d\udc64 2 players -player teams. It's played with a deck of 32 number cards, consisting of: 6x 0 , 5x 1 , 5x 2 , 4x 3 , 4x 4 , 4x 5 , 4x 6 , The goal of each team is to win two rounds by having one of the teammates go out by getting rid of his/her cards. It's allowed to reveal any information to your teammate, but it must be done in the open, so that the other team also receives it. Gameplay At the start of a round, each player is dealt a hand of 7 cards from the deck. The remaining deck is not used in this round. Then, the game proceeds with each player taking an action in clockwise turn order. The available actions are: \ud83c\udfb4 Play one or more cards with the same value from hand to the table. If there are already cards on the table, the newly played cards' value must be the same . In any case, there cannot be more than 4 cards on the table at any time. \ud83c\udfb4 Replace the cards on the table with the same number of cards of a higher value. As an exception, 6 s can be replaced with 0 s. The previous cards are discarded. \ud83c\udfb4 Pass by taking one of the cards from the table, placing it face up near your hand. Passed player doesn't take any more turns until the end of current trick . A trick ends when either there are 4 cards on the table or both players from one of the teams have passed . When this happens, any passed players take the corresponding face up cards into their hands , and all cards of the current trick remaining on the table are discarded. Finally, play continues with the player who was the last to play any cards. When one of the players plays the last card from hand, his/her team immediately wins the round . If no team has won two rounds yet, the deck is reshuffled and the game continues with the next round. Game End The game ends when one of the teams wins a total of 2 rounds.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 5/10] Card shedder game, it did not really stand out for me, I barely remember the play itself.\n\n[Rating: 5.5/10] Designer: Hiro (H1R0) Playing time: 15 Min Weight: 1.50 / 5 Publisher: \u5984\u60f3\u30b2\u30fc\u30e0\u30ba\u2606 (Mousou Games) Player count: 4 (best with: 4)  [b]COMPLEXITY: Low COMPONENTS: Medium DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Medium REPLAY VALUE: Medium SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=450043][/thing] is a card game about hand management, partenerships and shedding. In [thing=450043][/thing], to win a round, either you or your partner must play all your cards. Combos in the game are singles, pairs, trios and olenon (four of a kind). You can beat a combo\n\n[Rating: 5.7/10] team-based card game with an aim to play all the cards either play by larger rank, same rank with more cards or aim to play 4 sets of same rank seems quite random and not much variation\n\n[Rating: 7/10] Super interesting partnership card game. It is a simple climbing game, but it plays out differently than you might expect. Very small deck of cards, but used in a cool way.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 4,
+  "rules_word_count": 378,
+  "community_word_count": 185,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.418516"
+}

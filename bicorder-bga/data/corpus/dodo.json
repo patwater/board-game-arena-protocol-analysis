@@ -1,0 +1,19 @@
+{
+  "bga_slug": "dodo",
+  "bga_name": "Dodo",
+  "bgg_id": "295490.0",
+  "rules_text": "Rules summary Gameplay 13 checkers per player in red and blue are placed in a hexagonal grid with side 4. On your turn, move one of your checkers into an unoccupied cell. You cannot pass. Checkers can only move forward, directly or indirectly. They cannot move backward, jump or capture. End of the Game If at the beginning of your turn, you have no moves available, you win! There is no draw in this game since checkers cannot be moved backwards. Variants Misere: If at the beginning of your turn, you have no moves available, you lose instead.\n\n---\n\nSpeed is of the essence in the co-operative game Dodo as the bird has laid its egg on the highest mountain peak, but then unobservantly let it fall out of the nest and towards the cliff...\n\nBy using teamwork, you can bring the rolling egg safely to the foot of the mountain! Quickly roll the building material you need, collect hammers and nails, and attach bridges to the sides of the mountain. If you manage to steer the egg safely into the lifeboat, you've won together.",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 3/10] I got this as a present because of my nicname, but it's one of the childrens games that can't be used as a drinking game and for adults it gets old after 2 rounds. But the physics of the egg still fascinate me :D\n\n[Rating: 4/10] I really like the presentation of this game, particularly the 'wibbly-wobbly' egg, the thematic Dodo's nest and mountain, and especially the slow motion rolling mechanic which is fun and creates tension. But the core gameplay loop of roll a dice and match / memorise symbols does not hold any staying power for me...  I just don't find it interesting in any way. The copy I played also had some evident longevity issues with the cardboard mountain sides that insert into the plastic holders getting frayed. For such a simple game the rule book is also poor. Overall the game was fine but I don't need\n\n[Rating: 4/10] There's just way too many options for this to be a memory game for kids, and the egg is unpredictable and often stalls. Cool components and idea. Not super fun.\n\n[Rating: 5/10] I wanted to love this so much. I love how it is a cooperative game to save the falling dodo egg that is slowing rolling down the mountain. Unfortunately, the mechanics in how you build the wall to do this are uninteresting. Cool concept, less cool on the execution. I could play again, but I feel like I have seen it.\n\n[Rating: 5/10] Interesting, though it's not much more than speed memory/matching. I have no idea how that egg moves so slowly.",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 185,
+  "community_word_count": 269,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.028606"
+}

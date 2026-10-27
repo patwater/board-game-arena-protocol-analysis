@@ -1,0 +1,19 @@
+{
+  "bga_slug": "toepen",
+  "bga_name": "Toepen",
+  "bgg_id": "19971.0",
+  "rules_text": "Rules summary Contents 1 Game Overview 2 Goal of the Game 3 Gameplay 3.1 Dealing and Preparation 3.2 Exchanging Cards 3.3 Trick-Taking 4 Special Actions (Knocking) 5 Game End & Scoring Game Overview In the lively taverns of the Netherlands, players gather for Toepen , a fast-paced trick-taking game for 3 to 8 people. Thematically, it is about outsmarting opponents through strategic bluffing and timely knocking to raise the stakes and force others to fold. Mechanically, players must manage 4 hand cards effectively to win the crucial final trick and avoid losing their precious lives. Goal of the Game The goal is to win the 4th (last) trick of a round. The player who wins this trick is safe, while all other players lose lives according to the current stake. Gameplay Dealing and Preparation Each player is dealt 4 cards from a 32 -card deck. The ranking is unique (high to low): 10 , 9 , 8 , 7 , Ace , King , Queen , Jack . Exchanging Cards Players holding only Face cards or Aces may discard them face down and draw new ones. Opponents may challenge this; if a player is caught lying (holding a 7 through 10 ), they lose 1 life immediately. Trick-Taking The eldest hand leads the first trick. Players must follow suit if possible. If unable to follow suit, any card may be played. The winner of a trick leads the next one. The winner of the 4th trick wins the round. Special Actions (Knocking) Action Description Effect Knocking ( Toep! ) A player knocks on the table. Increases the stake by 1 point. Stay An opponent accepts the knock. They continue playing for the higher penalty. Fold An opponent rejects the knock. They leave the round immediately and lose the previous (lower) stake. Game End & Scoring Players typically start with 10 to 15 lives. A player is eliminated when they reach 0 lives. The last remaining player wins the game. Poverty : A player with only 1 life remaining cannot knock but can still be knocked upon.\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Even as a drinking/betting game, I feel like I'd rather just play poker. Just not as interesting to me as other, similar games.\n\n[Rating: 4/10] Tried to play with standard ranking and poker chips to track lives, unfortunately it fell completely flat for our group.\n\n[Rating: 5/10] [thing=19971][/thing] is a traditional card game about trick-taking, bluffing and betting. Most of the game is trying to both make people leaving the round by raising the bet, as only the person who wins the last trick, and the goal is to control the hand to play a suit you are leading in the end, but, with a raise in a proper time, even a strong card in hand or on the table may seem weak, specially if your life is low (bidding is basically in desceding points, so anyone that reaches 0 is out).  Not a particular fan of [thing=19971][/thing], as there is simply not all that much to pressure wit\n\n[Rating: 5.5/10] Standard deck.  Easy and quick game. We use it for chores, loser has to do something.\n\n[Rating: 6/10] A fun bluffing game, but money needs to be involved for some people to play well (like poker).",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 348,
+  "community_word_count": 199,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.389519"
+}

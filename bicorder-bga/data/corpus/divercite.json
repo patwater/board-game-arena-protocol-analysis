@@ -1,0 +1,19 @@
+{
+  "bga_slug": "divercite",
+  "bga_name": "Divercit\u00e9",
+  "bgg_id": "296960.0",
+  "rules_text": "Rules summary Overview Surround your Cities with Resources which either they prefer or are all different Turn Either play a City on a Cobblestone space or play a Resource on a non-patterned space A newly placed piece does not have to be adjacent to anything particular Game End Continue until there is one space (a Resource space) remaining, which will house the finishing black/white special tile Each of your cities will then score in one of 2 ways: If all 4 adjacent spaces home a different resource, score 5 points If not, score a point for each adjacent resource which matches the city's preferred resource (shown in its indent), score 0-4 points The Black/White special end game tile is NOT a resource, and as such cannot be used for scoring (as such adjacent cities can ONLY score for preferred resource, as there would not be a 4th square for 4 different resources)\n\n---\n\nnan",
+  "rules_sources": [
+    "bga_rules",
+    "bgg_description"
+  ],
+  "community_text": "[Rating: 4/10] Designer: Gr\u00e9goire Boulland Playing time: 20 Min Weight: 1.50 / 5 Publisher: Fabricapion Player count: 2 (best with: 2)  [b]COMPLEXITY: Low COMPONENTS: N/A DOWNTIME: Low FUN: Medium INTERACTION: High PLAYING TIME: Low LUCK: Very low REPLAY VALUE: High SOLITAIRE: Very low THEMATIC: Very low[/b]  [b]Comments:[/b] [thing=296960][/thing] is an abstract strategy game about tile placement and pattern building. The ideia is that players will place their pieces on the board - which are of two types (cities and resources) - trying to surround your cities with resources of the same color as that of the \n\n[Rating: 6/10] [microbadge=1256] Two-Player Game  Players take turns adding buildings of one of four colors or resources of one of four colors to a checkered grid, half of which can only hold buildings and half of which can only hold resources. Buildings score by being next to matching colors or by, as a more risky move, being next to every color. And that's the whole game. There are some clever moves and some interesting ways to play defense. It's not terribly deep, but if you want something as fast as this, you don't need it to be terribly deep. The problem is, something like [thing=2655]Hive[/thing] ticks\n\n[Rating: 6/10] Interesting choices between placing your resources and cities while trying to out play your opponent.\n\n[Rating: 6/10] I don't much go for pure abstracts, which this is, but for some reason I kind of dig this one. It's not an intellectual challenger, but it does present you with sticky situations and the need to try and think ahead. I like it.\n\n[Rating: 7/10] Jeu pour 2 joueurs, si la personne avec vous ne sais pas jouer aux \u00e9checs partez sur \u00e7a",
+  "community_sources": [
+    "bgg_reviews"
+  ],
+  "community_review_count": 5,
+  "rules_word_count": 154,
+  "community_word_count": 285,
+  "corpus_quality": "thin",
+  "fetched_at": "2026-10-27T02:15:10.388041"
+}

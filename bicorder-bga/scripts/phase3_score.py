@@ -1,5 +1,5 @@
 """Phase 3a — Bicorder scoring via Claude API."""
-import anthropic, json, os, time, re, pandas as pd
+import anthropic, json, os, sys, time, re, pandas as pd
 from tqdm import tqdm
 from tenacity import retry, stop_after_attempt, wait_exponential
 
@@ -89,6 +89,14 @@ meta_cols = ["bga_slug","bgg_id","bgg_avg_rating","bgg_weight",
 rows = []
 corpus_files = sorted(f for f in os.listdir("data/corpus") if f.endswith(".json"))
 
+if not corpus_files:
+    print("=== DIAGNOSTIC: data/corpus/ has no *.json files ===")
+    print("Phase 2 either hasn't been run yet, hasn't finished, or ran against a "
+          "checkout that predates its output being committed. Aborting instead of "
+          "silently claiming scoring is 'complete' with nothing scored.")
+    print("=== END DIAGNOSTIC ===")
+    sys.exit(1)
+
 for fname in tqdm(corpus_files, desc="Scoring"):
     slug = fname.replace(".json","")
     if slug in done:
@@ -143,5 +151,13 @@ if rows:
         SCORES_PATH, mode="a",
         header=not os.path.exists(SCORES_PATH) or os.path.getsize(SCORES_PATH) == 0,
         index=False)
+
+if not os.path.exists(SCORES_PATH):
+    print(f"=== DIAGNOSTIC: no games were newly scored and {SCORES_PATH} doesn't exist ===")
+    print(f"{len(corpus_files)} corpus files were present, but every game was either "
+          f"already in a prior scores.csv, flagged corpus_quality='empty', or errored "
+          f"(see data/logs/phase3_errors.log). Aborting instead of claiming success.")
+    print("=== END DIAGNOSTIC ===")
+    sys.exit(1)
 
 print(f"Scoring complete → {SCORES_PATH}")

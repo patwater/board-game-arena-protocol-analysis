@@ -1,9 +1,33 @@
 """Phase 3a — Bicorder scoring via Claude API."""
-import anthropic, json, os, sys, time, re, pandas as pd
+import anthropic, json, os, subprocess, sys, time, re, pandas as pd
 from tqdm import tqdm
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 client = anthropic.Anthropic()
+
+# Scoring ~1,400 games against the Claude API takes hours. A single
+# multi-hour GitHub Actions step is at real risk of the hosted runner
+# losing contact with GitHub mid-run (infra-level, not a script bug) -
+# when that happens the whole job dies before the final "Commit output"
+# step ever runs, discarding every API call made so far. To survive that,
+# periodically commit + push the in-progress scores.csv directly from here
+# instead of only relying on the end-of-workflow commit step.
+CHECKPOINT_EVERY = 20
+
+def git_checkpoint(games_scored_so_far):
+    try:
+        subprocess.run(["git", "config", "user.email", "actions@github.com"], check=True)
+        subprocess.run(["git", "config", "user.name", "GitHub Actions"], check=True)
+        subprocess.run(["git", "add", SCORES_PATH], check=True)
+        diff = subprocess.run(["git", "diff", "--staged", "--quiet"])
+        if diff.returncode == 0:
+            return  # nothing new to commit
+        subprocess.run(["git", "commit", "-m",
+                         f"phase 3 checkpoint: {games_scored_so_far} games scored"], check=True)
+        subprocess.run(["git", "pull", "--rebase", "--autostash"], check=True)
+        subprocess.run(["git", "push"], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"Checkpoint commit/push failed (will retry at next checkpoint): {e}")
 AXES = ["trust", "alive", "emergent", "social", "flocking", "inclusion"]
 MODEL = "claude-haiku-4-5-20251001"
 
@@ -87,6 +111,7 @@ meta_cols = ["bga_slug","bgg_id","bgg_avg_rating","bgg_weight",
              "bgg_num_ratings","bgg_rank","bgg_categories","bgg_mechanics"]
 
 rows = []
+total_scored = len(done)
 corpus_files = sorted(f for f in os.listdir("data/corpus") if f.endswith(".json"))
 
 if not corpus_files:
@@ -138,19 +163,22 @@ for fname in tqdm(corpus_files, desc="Scoring"):
         row.update(meta[0])
     row["scored_at"] = pd.Timestamp.now().isoformat()
     rows.append(row)
+    total_scored += 1
 
-    if len(rows) % 20 == 0:
+    if len(rows) % CHECKPOINT_EVERY == 0:
         pd.DataFrame(rows).to_csv(
             SCORES_PATH, mode="a",
             header=not os.path.exists(SCORES_PATH) or os.path.getsize(SCORES_PATH) == 0,
             index=False)
         rows = []
+        git_checkpoint(total_scored)
 
 if rows:
     pd.DataFrame(rows).to_csv(
         SCORES_PATH, mode="a",
         header=not os.path.exists(SCORES_PATH) or os.path.getsize(SCORES_PATH) == 0,
         index=False)
+    git_checkpoint(total_scored)
 
 if not os.path.exists(SCORES_PATH):
     print(f"=== DIAGNOSTIC: no games were newly scored and {SCORES_PATH} doesn't exist ===")

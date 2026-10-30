@@ -1,0 +1,420 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Divergence by Category</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600&family=DM+Sans:wght@400;500&display=swap">
+<style>
+:root{--bg:#f5f0e8;--surface:#fffcf6;--text:#1e1b2e;--muted:#6b6380;--border:#d9d3c4;}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){
+  --bg:#0d1120;--surface:#141829;--text:#e8e2d5;--muted:#8b84a0;--border:#2c3050;color-scheme:dark;}}
+body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);padding:24px 16px;}
+h1{font-family:'Fraunces',serif;font-size:1.6rem;margin-bottom:8px;}
+.sub{font-size:.9rem;color:var(--muted);margin-bottom:20px;}
+table{width:100%;border-collapse:collapse;background:var(--surface);border-radius:10px;overflow:hidden;border:1px solid var(--border);}
+th{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);padding:10px 14px;text-align:left;border-bottom:1px solid var(--border);}
+td{padding:8px 14px;font-size:13px;border-bottom:1px solid var(--border);}
+tr:last-child td{border-bottom:none;}
+tr:hover td{background:rgba(128,120,100,.05);}
+</style></head><body>
+<h1>Surprise Factor by Category</h1>
+<p class="sub">Median Protocol Bicorder Surprise Factor for BGG categories with ≥ 5 games on BGA. Sorted by median divergence.</p>
+<table>
+<thead><tr><th>Category</th><th style="text-align:right">Games</th><th style="text-align:right">Median SF</th><th style="text-align:right">Median BGG</th></tr></thead>
+<tbody><tr>
+      <td>Arabian</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">5</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c8b89a;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -4.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.71
+      </td>
+    </tr><tr>
+      <td>Wargame</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c8b89a;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -4.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.92
+      </td>
+    </tr><tr>
+      <td>City Building</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">13</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c8b89a;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -5.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.15
+      </td>
+    </tr><tr>
+      <td>Abstract Strategy</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">46</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -8.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.39
+      </td>
+    </tr><tr>
+      <td>Print & Play</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">11</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -10.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.48
+      </td>
+    </tr><tr>
+      <td>Science Fiction</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">17</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -10.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.28
+      </td>
+    </tr><tr>
+      <td>Educational</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">5</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -10.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.73
+      </td>
+    </tr><tr>
+      <td>Animals</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">32</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -10.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.86
+      </td>
+    </tr><tr>
+      <td>Space Exploration</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">9</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -11.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.28
+      </td>
+    </tr><tr>
+      <td>Card Game</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">101</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -11.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.69
+      </td>
+    </tr><tr>
+      <td>Nautical</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -11.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.05
+      </td>
+    </tr><tr>
+      <td>Children's Game</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">7</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -12.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.14
+      </td>
+    </tr><tr>
+      <td>Sports</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -12.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.67
+      </td>
+    </tr><tr>
+      <td>Ancient</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">10</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -12.2
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.06
+      </td>
+    </tr><tr>
+      <td>Territory Building</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">15</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.06
+      </td>
+    </tr><tr>
+      <td>Number</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">11</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.80
+      </td>
+    </tr><tr>
+      <td>Medieval</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">7</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.04
+      </td>
+    </tr><tr>
+      <td>Bluffing</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">12</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.37
+      </td>
+    </tr><tr>
+      <td>Economic</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">20</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.35
+      </td>
+    </tr><tr>
+      <td>Civilization</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">11</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.62
+      </td>
+    </tr><tr>
+      <td>Party Game</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">8</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.50
+      </td>
+    </tr><tr>
+      <td>Video Game Theme</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">5</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.15
+      </td>
+    </tr><tr>
+      <td>Exploration</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">10</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.2
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.98
+      </td>
+    </tr><tr>
+      <td>Adventure</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">7</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.06
+      </td>
+    </tr><tr>
+      <td>Fantasy</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">28</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.91
+      </td>
+    </tr><tr>
+      <td>Puzzle</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">17</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -13.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.99
+      </td>
+    </tr><tr>
+      <td>Travel</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -14.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.87
+      </td>
+    </tr><tr>
+      <td>Fighting</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">12</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -14.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.90
+      </td>
+    </tr><tr>
+      <td>Mythology</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -14.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.08
+      </td>
+    </tr><tr>
+      <td>Deduction</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">12</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -15.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.42
+      </td>
+    </tr><tr>
+      <td>Dice</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">19</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -16.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.78
+      </td>
+    </tr><tr>
+      <td>Environmental</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">12</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -16.8
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.80
+      </td>
+    </tr><tr>
+      <td>Industry / Manufacturing</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -16.8
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.57
+      </td>
+    </tr><tr>
+      <td>Trains</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">6</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -16.9
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.14
+      </td>
+    </tr><tr>
+      <td>Renaissance</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">8</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -18.0
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        7.38
+      </td>
+    </tr><tr>
+      <td>Farming</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">8</td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        <span style="display:inline-block;background:#c4560e;color:#fff;border-radius:4px;padding:2px 8px;font-weight:600">
+          -18.5
+        </span>
+      </td>
+      <td style="font-variant-numeric:tabular-nums;text-align:right">
+        6.84
+      </td>
+    </tr></tbody>
+</table>
+</body></html>

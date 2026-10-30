@@ -1,0 +1,21 @@
+bga_slug,bga_name,corpus_quality,low_confidence,rule_trust,comm_trust,div_trust,rule_alive,comm_alive,div_alive,rule_emergent,comm_emergent,div_emergent,rule_social,comm_social,div_social,rule_flocking,comm_flocking,div_flocking,rule_inclusion,comm_inclusion,div_inclusion,surprise_factor,bgg_id,bgg_avg_rating,bgg_weight,bgg_num_ratings,bgg_rank,bgg_categories,bgg_mechanics,scored_at
+abalone,Abalone,thin,False,7.0,4.0,-3.0,7.0,2.0,-5.0,8.0,2.0,-6.0,7.0,3.0,-4.0,8.0,6.0,-2.0,6.0,5.0,-1.0,-21.0,526.0,,,,,,,2026-10-30T04:06:13.051990
+abandonallartichokes,Abandon All Artichokes,good,False,2.0,2.0,0.0,6.0,6.0,0.0,4.0,4.0,0.0,3.0,6.0,3.0,2.0,2.0,0.0,7.0,2.0,-5.0,-2.0,302260.0,,,,,,,2026-10-30T04:06:20.494079
+abrachadabra,Abra Chadabra,good,False,3.0,5.0,2.0,6.0,4.0,-2.0,7.0,2.0,-5.0,5.0,2.0,-3.0,2.0,2.0,0.0,5.0,6.0,1.0,-7.0,436400.0,,,,,,,2026-10-30T04:06:26.947347
+abroad,Abroad,good,False,2.0,2.0,0.0,6.0,2.0,-4.0,7.0,2.0,-5.0,4.0,2.0,-2.0,1.0,2.0,1.0,7.0,2.0,-5.0,-15.0,437337.0,,,,,,,2026-10-30T04:06:36.033815
+abyss,Abyss,good,False,4.0,3.0,-1.0,7.0,2.0,-5.0,6.0,2.0,-4.0,5.0,2.0,-3.0,2.0,4.0,2.0,6.0,6.0,0.0,-11.0,155987.0,,,,,,,2026-10-30T04:06:43.647783
+aero,A.E.R.O.,good,False,2.0,1.0,-1.0,5.0,2.0,-3.0,3.0,1.0,-2.0,2.0,1.0,-1.0,1.0,1.0,0.0,3.0,4.0,1.0,-6.0,118215.0,,,,,,,2026-10-30T04:06:50.589056
+afterus,After Us,good,False,7.0,2.0,-5.0,7.0,2.0,-5.0,7.0,3.0,-4.0,6.0,1.0,-5.0,4.0,2.0,-2.0,6.0,6.0,0.0,-21.0,369548.0,,,,,,,2026-10-30T04:06:58.071788
+agentavenue,Agent Avenue,good,False,4.0,2.0,-2.0,7.0,2.0,-5.0,6.0,2.0,-4.0,7.0,2.0,-5.0,3.0,3.0,0.0,5.0,4.0,-1.0,-17.0,422732.0,,,,,,,2026-10-30T04:07:06.376342
+ageofchampagne,AOC: Age of Champagne,good,False,5.0,6.0,1.0,6.0,3.0,-3.0,4.0,4.0,0.0,4.0,6.0,2.0,2.0,2.0,0.0,3.0,5.0,2.0,2.0,356485.0,,,,,,,2026-10-30T04:07:14.533160
+ageofcivilization,Age of Civilization,good,False,2.0,2.0,0.0,4.0,3.0,-1.0,3.0,2.0,-1.0,2.0,1.0,-1.0,2.0,1.0,-1.0,3.0,2.0,-1.0,-5.0,264647.0,,,,,,,2026-10-30T04:07:21.930780
+ageofinnovation,Age of Innovation: a Terra Mystica game,good,False,5.0,5.0,0.0,6.0,6.0,0.0,7.0,5.0,-2.0,6.0,3.0,-3.0,5.0,6.0,1.0,4.0,3.0,-1.0,-5.0,383179.0,,,,,,,2026-10-30T04:07:28.571584
+agestofrobinhood,A Gest of Robin Hood,good,False,2.0,2.0,0.0,7.0,3.0,-4.0,6.0,2.0,-4.0,5.0,4.0,-1.0,3.0,2.0,-1.0,3.0,7.0,4.0,-6.0,338376.0,,,,,,,2026-10-30T04:07:36.669894
+agricola,Agricola,good,False,4.0,2.0,-2.0,6.0,7.0,1.0,6.0,8.0,2.0,5.0,3.0,-2.0,2.0,2.0,0.0,6.0,4.0,-2.0,-3.0,200680.0,7.95247,3.451,21841.0,86,"Animals,Economic,Farming","Enclosure,Hand Management,Worker Placement,Advantage Token,Automatic Resource Growth,Closed Drafting,Increase Value of Unchosen Resources,Solo / Solitaire Game,Team-Based Game,Turn Order: Claim Action,Variable Player Powers",2026-10-30T04:07:43.812758
+ahoy,Ahoy,good,False,6.0,2.0,-4.0,7.0,3.0,-4.0,7.0,5.0,-2.0,7.0,2.0,-5.0,2.0,2.0,0.0,5.0,2.0,-3.0,-18.0,359402.0,,,,,,,2026-10-30T04:07:52.312504
+aiye,Àiyé,thin,False,,5.0,,,3.0,,,4.0,,,2.0,,,4.0,,,2.0,,,322626.0,,,,,,,2026-10-30T04:07:57.947369
+akeruption,Eruption,good,False,2.0,2.0,0.0,7.0,3.0,-4.0,6.0,6.0,0.0,6.0,3.0,-3.0,2.0,5.0,3.0,5.0,4.0,-1.0,-5.0,88594.0,,,,,,,2026-10-30T04:08:05.880412
+aknile,Nile,good,False,3.0,2.0,-1.0,7.0,3.0,-4.0,6.0,2.0,-4.0,4.0,5.0,1.0,8.0,2.0,-6.0,6.0,7.0,1.0,-13.0,40213.0,,,,,,,2026-10-30T04:08:12.508885
+akropolis,Akropolis,good,False,3.0,6.0,3.0,6.0,3.0,-3.0,7.0,3.0,-4.0,5.0,5.0,0.0,2.0,4.0,2.0,7.0,7.0,0.0,-2.0,357563.0,7.44629,1.8206,10941.0,445,"Abstract Strategy,Ancient,City Building,Territory Building","Auction: Dutch,End Game Bonuses,Layering,Open Drafting,Pattern Building,Solo / Solitaire Game,Tile Placement,Turn Order: Progressive",2026-10-30T04:08:19.196592
+alakablast,Alakablast,good,False,7.0,3.0,-4.0,7.0,2.0,-5.0,6.0,2.0,-4.0,8.0,6.0,-2.0,5.0,2.0,-3.0,6.0,7.0,1.0,-17.0,344958.0,,,,,,,2026-10-30T04:08:28.228339
+alchemists,Alchemists,good,False,3.0,2.0,-1.0,7.0,3.0,-4.0,7.0,2.0,-5.0,7.0,2.0,-5.0,5.0,1.0,-4.0,6.0,2.0,-4.0,-23.0,161970.0,,,,,,,2026-10-30T04:08:37.040543

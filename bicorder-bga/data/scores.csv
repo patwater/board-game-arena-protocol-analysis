@@ -439,3 +439,23 @@ flipseven,Flip 7,good,False,3.0,2.0,-1.0,6.0,2.0,-4.0,6.0,1.0,-5.0,5.0,1.0,-4.0,
 flipsevenwithavengeance,Flip 7: With A Vengeance,good,False,2.0,2.0,0.0,7.0,3.0,-4.0,6.0,1.0,-5.0,7.0,4.0,-3.0,4.0,2.0,-2.0,6.0,7.0,1.0,-13.0,463441.0,7.13483,1.04,2577.0,1877,"Card Game,Number,Party Game","Interrupts,Push Your Luck,Score-and-Reset Game,Take That",2026-10-30T05:03:00.986536
 fliptoons,FlipToons,good,False,4.5,2.0,-2.5,6.0,2.0,-4.0,4.0,2.0,-2.0,4.5,2.0,-2.5,4.0,1.0,-3.0,6.0,5.0,-1.0,-15.0,449185.0,,,,,,,2026-10-30T05:03:08.617880
 flipwars,Flipwars,thin,False,2.0,5.0,3.0,7.0,4.0,-3.0,7.0,6.0,-1.0,6.0,6.0,0.0,2.0,,,8.0,7.0,-1.0,-2.0,461529.0,,,,,,,2026-10-30T05:03:14.944282
+flockers,Flockers,good,False,7.0,2.5,-4.5,7.0,2.5,-4.5,7.0,4.5,-2.5,4.0,2.5,-1.5,2.0,2.5,0.5,6.0,4.5,-1.5,-14.0,446669.0,,,,,,,2026-10-30T05:03:26.343602
+florenzacardgame,Florenza: The Card Game,good,False,5.5,2.0,-3.5,6.0,3.0,-3.0,6.5,6.0,-0.5,5.5,3.0,-2.5,4.5,2.0,-2.5,5.0,4.0,-1.0,-13.0,143484.0,,,,,,,2026-10-30T05:03:35.385385
+flowers,Flowers,good,False,7.0,2.0,-5.0,7.0,2.0,-5.0,7.0,3.0,-4.0,3.0,2.0,-1.0,2.0,2.0,0.0,6.0,7.0,1.0,-14.0,404041.0,,,,,,,2026-10-30T05:03:42.913485
+flowersmandalagame,Flowers: A Mandala Game,good,False,7.0,3.0,-4.0,7.0,2.0,-5.0,7.0,4.0,-3.0,8.0,5.0,-3.0,6.0,6.0,0.0,5.0,4.0,-1.0,-16.0,412563.0,6.10426,1.5,289.0,12048,"Abstract Strategy,Card Game","Area Majority / Influence,Hand Management,Open Drafting,Set Collection",2026-10-30T05:03:50.980787
+flume,Flume,thin,False,6.0,3.0,-3.0,7.0,2.0,-5.0,7.0,2.0,-5.0,6.0,6.0,0.0,6.0,2.0,-4.0,7.0,2.0,-5.0,-22.0,67080.0,,,,,,,2026-10-30T05:03:57.984495
+fluxx,Fluxx,good,False,3.0,2.0,-1.0,7.0,8.0,1.0,6.0,3.0,-3.0,7.0,1.0,-6.0,2.0,2.0,0.0,6.0,6.0,0.0,-9.0,258.0,,,,,,,2026-10-30T05:04:04.004372
+forage,Forage,good,False,5.0,5.0,0.0,6.0,7.0,1.0,7.0,6.0,-1.0,2.0,1.0,-1.0,2.0,1.0,-1.0,4.0,4.0,0.0,-2.0,373577.0,,,,,,,2026-10-30T05:04:10.619314
+forbiddenisland,Forbidden Island,good,False,8.0,3.0,-5.0,7.0,4.0,-3.0,6.0,2.0,-4.0,9.0,5.0,-4.0,8.0,2.0,-6.0,6.0,6.0,0.0,-22.0,65244.0,6.74791,1.7404,55029.0,1048,"Adventure,Fantasy,Science Fiction","Action Points,Cooperative Game,Events,Grid Movement,Hand Management,Map Reduction,Modular Board,Pick-up and Deliver,Set Collection,Solo / Solitaire Game,Square Grid,Tile Placement,Variable Player Powers",2026-10-30T05:04:18.453998
+forestshuffle,Forest Shuffle,good,False,2.0,2.0,0.0,6.0,2.0,-4.0,6.0,2.0,-4.0,2.0,2.0,0.0,1.0,1.0,0.0,6.0,2.0,-4.0,-12.0,391163.0,7.72887,2.2218,23454.0,149,"Animals,Card Game,Educational,Environmental","End Game Bonuses,Hand Management,Layering,Melding and Splaying,Multi-Use Cards,Open Drafting,Set Collection,Tags",2026-10-30T05:04:26.570190
+forestshuffledartmoor,Forest Shuffle : Dartmoor,good,False,6.0,1.0,-5.0,7.0,2.0,-5.0,4.0,1.0,-3.0,3.0,1.0,-2.0,2.0,1.0,-1.0,4.0,1.0,-3.0,-19.0,438402.0,,,,,,,2026-10-30T05:04:34.124425
+forestshufflesmokymountains,Forest Shuffle : Smoky Mountains,good,False,5.0,2.0,-3.0,7.0,3.0,-4.0,4.0,2.0,-2.0,3.0,3.0,0.0,2.0,2.0,0.0,4.0,3.0,-1.0,-10.0,463296.0,7.87585,2.1667,460.0,4105,"Animals,Card Game,Educational,Environmental","End Game Bonuses,Hand Management,Layering,Multi-Use Cards,Open Drafting,Set Collection",2026-10-30T05:04:41.452558
+foreverhome,Forever Home,good,False,6.5,5.0,-1.5,7.0,2.0,-5.0,6.0,3.0,-3.0,7.0,4.0,-3.0,5.5,2.0,-3.5,6.0,4.0,-2.0,-18.0,385999.0,,,,,,,2026-10-30T05:04:49.029111
+forex,For-Ex,good,False,6.0,2.0,-4.0,7.0,2.0,-5.0,7.0,3.0,-4.0,7.0,3.0,-4.0,6.0,2.0,-4.0,3.0,2.0,-1.0,-22.0,227605.0,,,,,,,2026-10-30T05:04:57.487745
+forfort,Forfort,thin,True,5.0,3.0,-2.0,6.0,6.0,0.0,5.0,7.0,2.0,7.0,7.0,0.0,5.0,6.0,1.0,8.0,7.0,-1.0,0.0,435877.0,,,,,,,2026-10-30T05:05:03.240115
+forks,Forks: 2nd Edition,good,False,5.0,2.0,-3.0,4.0,3.0,-1.0,6.0,6.0,0.0,5.0,2.0,-3.0,6.0,2.0,-4.0,6.0,4.0,-2.0,-13.0,404233.0,,,,,,,2026-10-30T05:05:11.715422
+formulad,Formula D,good,False,2.0,2.0,0.0,7.0,5.0,-2.0,6.0,4.0,-2.0,7.0,2.0,-5.0,5.0,2.0,-3.0,6.0,3.0,-3.0,-15.0,37904.0,,,,,,,2026-10-30T05:05:18.789207
+fornorthwood,For Northwood!,good,False,7.0,5.0,-2.0,5.0,3.0,-2.0,6.0,4.0,-2.0,7.0,2.0,-5.0,7.0,2.0,-5.0,6.0,6.0,0.0,-16.0,334590.0,,,,,,,2026-10-30T05:05:25.978691
+forsale,For Sale,good,False,3.0,3.0,0.0,6.0,4.0,-2.0,7.0,6.0,-1.0,7.0,6.0,-1.0,2.0,3.0,1.0,8.0,5.0,-3.0,-6.0,172.0,,,,,,,2026-10-30T05:05:33.892184
+fortytwo,42,good,False,7.5,3.0,-4.5,7.0,4.0,-3.0,7.5,3.0,-4.5,8.0,7.0,-1.0,7.5,4.0,-3.5,4.5,7.0,2.5,-14.0,12131.0,,,,,,,2026-10-30T05:05:42.194535
+fourcolorcards,Four Color Cards,good,False,3.0,4.0,1.0,6.0,5.0,-1.0,6.0,3.0,-3.0,7.0,6.0,-1.0,4.0,2.0,-2.0,4.0,6.0,2.0,-4.0,22501.0,,,,,,,2026-10-30T05:05:50.306390

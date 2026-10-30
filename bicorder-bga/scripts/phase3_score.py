@@ -122,6 +122,16 @@ if not corpus_files:
     print("=== END DIAGNOSTIC ===")
     sys.exit(1)
 
+try:
+    client.messages.create(model=MODEL, max_tokens=8, messages=[{"role": "user", "content": "hi"}])
+except Exception as e:
+    print("=== DIAGNOSTIC: Claude API preflight call failed ===")
+    print(f"{type(e).__name__}: {e}")
+    print("Check that the ANTHROPIC_API_KEY secret is set and valid. Aborting instead "
+          "of retrying this same failure across every game for hours.")
+    print("=== END DIAGNOSTIC ===")
+    sys.exit(1)
+
 for fname in tqdm(corpus_files, desc="Scoring"):
     slug = fname.replace(".json","")
     if slug in done:
@@ -142,6 +152,7 @@ for fname in tqdm(corpus_files, desc="Scoring"):
         comm_scores = score_passages(comm_pass, name, "COMMUNITY")
         time.sleep(0.5)
     except Exception as e:
+        print(f"Error on {slug}: {e}")
         with open("data/logs/phase3_errors.log","a") as log:
             log.write(f"{slug}: {e}\n")
         continue
